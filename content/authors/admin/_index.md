@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Jiawei Zhang 张嘉玮
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Jiawei
+last_name: Zhang
 
 # Status emoji
 status:
@@ -18,8 +18,8 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Tsinghua University
+    url: https://www.tsinghua.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
