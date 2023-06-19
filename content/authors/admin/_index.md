@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jiawei Zhang 张嘉玮
+title: Building 玮
 
 # Full name (for SEO)
 first_name: Jiawei
