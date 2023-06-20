@@ -65,8 +65,11 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+## AGV based Parking System
+![avatar](./Fig.jpg)
+
 ## Architecture
-![avatar](./featured.png)
+![avatar](./Fig.jpg)
 
 ## Citation
 If you find our work is useful in your research, please consider citing:
