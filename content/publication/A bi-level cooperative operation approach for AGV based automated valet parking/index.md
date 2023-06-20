@@ -71,6 +71,10 @@ slides: ""
 ## Architecture
 ![avatar](./Fig2.jpg)
 
+## DRl based Parking Space Allocation
+#### The architecture of the DRL model for cooperative parking space allocation.
+![avatar](./Fig4.jpg)
+
 ## Citation
 If you find our work is useful in your research, please consider citing:
 ```
