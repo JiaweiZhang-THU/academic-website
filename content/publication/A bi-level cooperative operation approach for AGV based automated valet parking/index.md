@@ -68,25 +68,14 @@ slides: ""
 ## Citation
 If you find our work is useful in your research, please consider citing:
 ```
-@ARTICLE{Zhang2023CAVSim,
-  title={CAVSim: A Microscopic Traffic Simulator for Evaluation of Connected and Automated Vehicles},
-  author={Zhang, Jiawei and Chang, Cheng and He, Zimin and Zhong, Wenqin and Yao, Danya and Li, Shen and Li, Li},
-  journal={IEEE Transactions on Intelligent Transportation Systems},
-  year={2023},
-  pages={1-17},
-  doi={10.1109/TITS.2023.3273565},
-  publisher={IEEE}
-}
-```
-```
-@INPROCEEDINGS{Zhang2022CAVSim,
-  author={Zhang, Jiawei and Chang, Cheng and Pei, Huaxin and Peng, Xinyu and Guo, Yuqing and Lian, Renzong and Chen, Zhenwu and Li, Li},
-  booktitle={2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)}, 
-  title={CAVSim: A Microscope Traffic Simulator for Connected and Automated Vehicles Environment}, 
-  year={2022},
-  pages={3719-3724},
-  doi={10.1109/ITSC55140.2022.9922267},
-  publisher={IEEE}
+@article{zhang2021bi,
+  title={A bi-level cooperative operation approach for AGV based automated valet parking},
+  author={Zhang, Jiawei and Li, Zhiheng and Li, Li and Li, Yidong and Dong, Hairong},
+  journal={Transportation Research Part C: Emerging Technologies},
+  volume={128},
+  pages={103140},
+  year={2021},
+  publisher={Elsevier}
 }
 ```
 
