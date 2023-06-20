@@ -1,8 +1,7 @@
 ---
-title: "An example journal article"
+title: "A bi-level cooperative operation approach for AGV based automated valet parking"
 authors:
 - admin
-- Robert Ford
 - Zhiheng Li
 - Li Li
 - Yidong Li 
