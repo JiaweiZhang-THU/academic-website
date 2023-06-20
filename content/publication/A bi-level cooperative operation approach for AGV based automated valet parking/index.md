@@ -66,15 +66,7 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+Conclusion: In this paper, a hierarchical cooperative operation approach is proposed to alleviate the traffic congestion problem of the AGV based AVP system. According to the leading causes of traffic congestion in the parking lot, we design a bi-level approach in which the upper-level considers the global parking space allocation, and the lower-level solves the cooperative driving problem of AGVs in the conflict zone. We innovatively formulate the parking space allocation problem into an MDP for the upper-level cooperation and then propose the Double Dueling DQN model to learn an outstanding allocation policy. For the lower-level cooperation, we divide the scenario according to the parking lot layout and then modify the planning based cooperative driving method to solve the safe and efficient trajectory of multiple AGVs in the conflict area. Meanwhile, the potential circle waits deadlock of multiple AGV is considered, and a real-time detection-and-recovery method is proposed. Finally, the effectiveness of the proposed approach is verified by numerical experiments, and the results show that the operation efficiency of the AGV based AVP system is significantly improved.↳
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
-
-![Fig6](.\Fig6.jpg)
+Future enhancements would be carried out in at least the following directions. First, the potential uncertainties should be integrated into the operation approach to improve the stability of the AVP system. Since there are some uncertainties in the environment of multiple AGVs, such as AGV broken during transportation, the operation approach can be dynamic and automatically handle the possible environment fluctuations. Second, future studies should consider the coordination among numerous computing units in distributed trajectory planning. As discussed in Section 7, distributed computing is inevitable due to the expansion of the parking scale. Therefore, further work needs to extend the centralized approach to distributed computing harmoniously. Finally, future work needs to reduce or even avoid the occurrence of potential circle deadlock. Based on the abstract acyclic priority graph, deadlock can be further reduced or completely avoided through top-level planning and reverse design of parking lot layout.
 
