@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jiawei Zhang (Building)
+title: Jiawei Zhang
 
 # Full name (for SEO)
 first_name: Jiawei
