@@ -52,7 +52,6 @@ sections:
         folders:
           - publication
         exclude_featured: true
-        featured_only: true
     design:
       columns: '2'
       view: card
@@ -65,7 +64,7 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
+        featured_only: false
     design:
       columns: '2'
       view: card
