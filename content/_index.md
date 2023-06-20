@@ -155,6 +155,7 @@ sections:
           url: ''
     design:
       columns: '2'
+    
   - block: contact
     id: contact
     content:
