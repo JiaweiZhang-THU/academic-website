@@ -66,10 +66,10 @@ projects: []
 slides: ""
 ---
 ## AGV based Parking System
-![avatar](./Fig.jpg)
+![avatar](./Fig1.jpg)
 
 ## Architecture
-![avatar](./Fig.jpg)
+![avatar](./Fig2.jpg)
 
 ## Citation
 If you find our work is useful in your research, please consider citing:
