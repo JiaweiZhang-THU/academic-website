@@ -36,10 +36,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Control Science and Engineering
+    - course: Ph.D. in Control Science and Engineering
       institution: Tsinghua University
       year: 2020--Now
-    - course: BSc in Control Science and Engineering
+    - course: B.S. degree from the Department of Automation
       institution: Tsinghua University
       year: 2016-2020
 
