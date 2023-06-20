@@ -160,10 +160,9 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: Welcome to send emails to exchange!
+      subtitle: Welcome to send emails to exchange.
       # Contact (add or remove contact options as necessary)
-      email: zhangjw20@mails
+      email: zhangjw20@mails.tsinghua.edu.cn
       phone: -
       address:
         street: Department of Automation, Tsinghua University
