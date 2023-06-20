@@ -64,7 +64,7 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: false
+        featured_only: true
     design:
       columns: '2'
       view: card
