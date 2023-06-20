@@ -163,7 +163,7 @@ sections:
       subtitle:
       text: Welcome to send emails to exchange!
       # Contact (add or remove contact options as necessary)
-      email: zhangjw20@mails.tsinghua.edu.cn
+      email: zhangjw20@mails
       phone: -
       address:
         street: Department of Automation, Tsinghua University
