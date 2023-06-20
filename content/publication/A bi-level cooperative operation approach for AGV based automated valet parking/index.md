@@ -65,6 +65,9 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+## Architecture
+![avatar](./featured.png)
+
 ## Citation
 If you find our work is useful in your research, please consider citing:
 ```
