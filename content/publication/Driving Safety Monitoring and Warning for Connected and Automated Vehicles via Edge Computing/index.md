@@ -72,6 +72,10 @@ slides: ""
 
 ---
 
+## Best Student Paper Award
+![avatar](./Fig_0.jpg)
+
+---
 
 
 
