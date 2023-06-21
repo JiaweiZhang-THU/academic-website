@@ -83,19 +83,19 @@ sections:
         - title: Ph.D Student
           company: Tsinghua University
           company_url: https://www.tsinghua.edu.cn/
-          company_logo: ''
+          company_logo: org-Tsinghua
           location: Beijing
-          date_start: '2020-09-01'
+          date_start: '2020-08-01'
           date_end: ''
-          description: 'He is currently pursuing the Ph.D. degree with the Department of Automation'
+          description: 'Pursuing the Ph.D. degree with the Department of Automation'
         - title: Undergraduate Student
           company: Tsinghua University
           company_url: https://www.tsinghua.edu.cn/
-          company_logo: org-x
+          company_logo: org-Tsinghua
           location: Beijing
           date_start: '2016-08-01'
           date_end: '2020-07-01'
-          description: 'He received the B.S. degree from Tsinghua University, Beijing, China, in 2020'
+          description: 'Received the B.S. degree from Tsinghua University, Beijing, China, in 2020'
     design:
       columns: '2'
     
