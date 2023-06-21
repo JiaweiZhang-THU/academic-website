@@ -7,7 +7,7 @@ authors:
 - Li Li
 author_notes:
 date: "2022-10-28T00:00:00Z"
-doi: ""
+doi: "10.1109/TNNLS.2021.3079112"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-10-28T00:00:00Z"
