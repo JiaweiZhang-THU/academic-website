@@ -8,7 +8,7 @@ authors:
 - Hairong Dong
 author_notes:
 date: "2021-04-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.trc.2021.103140"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-07-01T00:00:00Z"
