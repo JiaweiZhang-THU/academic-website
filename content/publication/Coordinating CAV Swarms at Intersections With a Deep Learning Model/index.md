@@ -24,7 +24,7 @@ publication_short: "IEEE T-ITS"
 abstract: Connected and automated vehicles (CAVs) have the potential to significantly improve the safety and efficiency of traffic. One revolutionary CAV’s impact on transportation system is cooperative driving that turns signalized intersections to be signal-free and boosts traffic efficiency by better organizing the passing order of CAVs. However, how to get the optimal passing order is an NP-hard problem (specifically, enumerating based algorithm takes days to find the optimal solution to a 20-CAV scenario). Here, we introduce a novel cooperative driving algorithm (AlphaOrder) that combines offline deep learning and online tree searching to find a near-optimal passing order in real-time. AlphaOrder builds a pointer network model from solved scenarios and generates near-optimal passing orders instantaneously for new scenarios. For the scenarios with 40 CAVs, AlphaOrder reduces the travel delay by more than 20% on average compared to the best-so-far MCTS based algorithm. Moreover, our algorithm provides a general approach to managing preemptive resource sharing between multi-agents (e.g., scheduling multiple automated guided vehicles (AGVs) and unmanned aerial vehicles (UAVs) at conflicting areas).
 
 # Summary. An optional shortened abstract.
-summary: AlphaOrder: A novel cooperative driving algorithm that combines offline deep learning and online tree searching to find a near-optimal passing order in real-time.
+summary: AlphaOrder, a novel cooperative driving algorithm that combines offline deep learning and online tree searching to find a near-optimal passing order in real-time.
 
 
 tags:
