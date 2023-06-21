@@ -11,7 +11,7 @@ authors:
 - Li Li
 author_notes:
 date: "2022-10-08T00:00:00Z"
-doi: ""
+doi: "10.1109/ITSC55140.2022.9922267"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-10-08T00:00:00Z"
@@ -31,9 +31,10 @@ abstract: Connected and automated vehicles (CAVs) are expected to play a vital r
 # Summary. An optional shortened abstract.
 summary: CAVSim, A traffic simulator for connected and automated vehicles (CAVs).
 
-tags:
-- Source Themes
-featured: false
+tags: []
+
+# Display this page in the Featured widget?
+featured: true
 
 # links:
 # - name: ""
