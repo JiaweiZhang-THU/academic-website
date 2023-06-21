@@ -54,7 +54,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: List
+      view: card
   
   - block: collection
     id: featured
