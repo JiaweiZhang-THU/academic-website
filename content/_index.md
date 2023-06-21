@@ -75,7 +75,7 @@ sections:
       title: 'Honors & Awards'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
+      date_format: Jan 2023
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
@@ -147,8 +147,8 @@ sections:
           title: National Encouragement Scholarship
           url: ''
     design:
-      columns: '2'
-      view: Citation
+      columns: '3'
+      view: List
     
   - block: contact
     id: contact
