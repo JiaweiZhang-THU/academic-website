@@ -126,6 +126,7 @@ sections:
           description: The First Prize Scholarship
           organization: IEEE ITSC 2022
           organization_url: ''
+          company_logo: org-Tsinghua
           title: Best Student Paper Award
           url: ''
         - certificate_url: ''
