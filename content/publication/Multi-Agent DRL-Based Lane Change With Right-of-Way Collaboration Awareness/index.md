@@ -1,7 +1,7 @@
 ---
 title: "Multi-agent DRL-based lane change with right-of-way collaboration awareness"
 authors:
-- admin
+- [admin](https://scholar.google.com/citations?user=I_7YQWsAAAAJ&hl=zh-CN&authuser=1)
 - Cheng Chang
 - Xianlin Zeng
 - Li Li
