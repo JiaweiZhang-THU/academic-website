@@ -123,10 +123,10 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2022-10-01'
-          description: The First Prize Scholarship
+          description: ''
           organization: IEEE ITSC 2022
           organization_url: ''
-          company_logo: org-Tsinghua
+          organization_logo: org-Tsinghua
           title: Best Student Paper Award
           url: ''
         - certificate_url: ''
