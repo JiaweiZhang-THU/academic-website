@@ -108,6 +108,7 @@ sections:
           url: ''
     design:
       columns: '2'
+      view: Citation
     
   - block: contact
     id: contact
