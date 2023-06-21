@@ -68,7 +68,37 @@ sections:
     design:
       columns: '2'
       view: card
-
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2023
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Ph.D Student
+          company: Tsinghua University
+          company_url: https://www.tsinghua.edu.cn/
+          company_logo: ''
+          location: Beijing
+          date_start: '2020-09-01'
+          date_end: ''
+          description: 'He is currently pursuing the Ph.D. degree with the Department of Automation'
+        - title: Undergraduate Student
+          company: Tsinghua University
+          company_url: https://www.tsinghua.edu.cn/
+          company_logo: org-x
+          location: Beijing
+          date_start: '2016-08-01'
+          date_end: '2020-07-01'
+          description: 'He received the B.S. degree from Tsinghua University, Beijing, China, in 2020'
+    design:
+      columns: '2'
+    
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -149,7 +179,7 @@ sections:
     design:
       columns: '2'
       view: List
-    
+  
   - block: contact
     id: contact
     content:
