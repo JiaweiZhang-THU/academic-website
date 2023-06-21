@@ -98,7 +98,7 @@ sections:
           organization_url: https://www.edx.org
           title: Blockchain Fundamentals
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.tsinghua.edu.cn/
+        - certificate_url: ''
           date_end: ''
           date_start: '2017-10-01'
           description: ''
