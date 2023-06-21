@@ -8,7 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
+  font: Cyberpunk
   font_size: L
 
 # SEO
@@ -36,7 +36,7 @@ header:
     enable: true
     align: l
     show_logo: true
-    show_language: true
+    show_language: false
     show_day_night: true
     show_search: true
     highlight_active_link: true
@@ -55,7 +55,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'Jan 2, 2023'
   time_format: '3:04 PM'
   address_format: en-us
 
