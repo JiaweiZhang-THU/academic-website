@@ -64,34 +64,40 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-## The overall architecture of the proposed bi-level lane-change behavior planning strategy.
+#### The overall architecture of the proposed bi-level lane-change behavior planning strategy.
 ![avatar](./featured.jpg)
+---
 
-## An illustration of the traffic snapshot and driving intention.
+#### An illustration of the traffic snapshot and driving intention.
 ![avatar](./Fig_2.jpg)
+---
 
-## The training pipeline of the upper-level SAC based lane-change decision model.
+#### The training pipeline of the upper-level SAC based lane-change decision model.
 ![avatar](./Fig_3.jpg)
 
+---
 
-
-# Performance
+## Performance
 
 #### Average speed of traffic flow under different lane-change decision models. The baseline denotes that lane changes are not allowed and all vehicles keep the lanes.
 ![avatar](./Fig_4.jpg)
+---
 
 
 #### Screenshot of the traffic simulation, where we enable only the upper-level lane-change decision model but do not enable the lower-level right-ofway assignment model. *Vehicle A* and *Vehicle B* collide during executing the lane-change actions.
 ![avatar](./Fig_11.jpg)
 
+---
 
 #### Screenshot of traffic simulation with the proposed bi-level lanechange behavior planning strategy. The lower-level right-of-way assignment model avoids the potential collision between *Vehicle C* and *Vehicle D*.
 ![avatar](./Fig_12.jpg)
 
+---
 
 #### Vehicle trajectories in congested traffic with different lane-change decision models. The upper subfigure is from the model that only considers ego benefits, and the lower subfigure is from the proposed model.
 ![avatar](./Fig_14.jpg)
 
+---
 
 
 
