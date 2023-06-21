@@ -6,7 +6,7 @@ authors:
 - Li Li
 author_notes:
 date: "2023-06-01T00:00:00Z"
-doi: ""
+doi: "10.1109/TITS.2023.3250704"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-06-01T00:00:00Z"
