@@ -1,5 +1,5 @@
 ---
-title: "Multi-agent DRL-based lane change with right-of-way collaboration awareness"
+title: "Analysis of cooperative driving strategies at road network level with macroscopic fundamental diagram"
 authors:
 - admin
 - Huaxin Pei
