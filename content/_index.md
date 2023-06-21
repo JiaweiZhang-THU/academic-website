@@ -84,22 +84,6 @@ sections:
       items:
         - certificate_url: http://www.baachina.cn/html/page/notice/notice2022-12.html
           date_end: ''
-          date_start: '2022-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: 'http://www.baachina.cn/html/page/notice/notice2022-12.html'
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: http://www.baachina.cn/html/page/notice/notice2022-12.html
-          date_end: ''
           date_start: '2022-12-01'
           description: ''
           organization: BEIJING ASSOCIATION OF AUTOMATION
