@@ -82,14 +82,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: http://www.baachina.cn/html/page/notice/notice2022-12.html
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2022-01-25'
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
-          url: ''
+          url: 'http://www.baachina.cn/html/page/notice/notice2022-12.html'
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
@@ -98,13 +98,69 @@ sections:
           organization_url: https://www.edx.org
           title: Blockchain Fundamentals
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        - certificate_url: http://www.baachina.cn/html/page/notice/notice2022-12.html
+          date_end: ''
+          date_start: '2022-12-01'
+          description: ''
+          organization: BEIJING ASSOCIATION OF AUTOMATION
+          organization_url: http://www.baachina.cn/index.html
+          title: Outstanding Ph.D Student
+          url: http://www.baachina.cn/html/page/notice/notice2022-12.html
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2022-10-01'
+          description: The First Prize Scholarship
+          organization: IEEE ITSC 2022
+          organization_url: ''
+          title: Best Student Paper Award
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2022-10-01'
+          description: The First Prize Scholarship
+          organization: Tsinghua University
+          organization_url: ''
+          title: Tsinghua-Xuancheng Scholarship
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2021-10-01'
+          description: The Second Prize Scholarship
+          organization: Tsinghua University
+          organization_url: ''
+          title: Tsinghua-Weihai Scholarship
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2020-10-01'
+          description: ''
+          organization: Department of Automation, Tsinghua University
+          organization_url: ''
+          title: Outstanding Graduates
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2019-10-01'
+          description: ''
+          organization: Tsinghua University
+          organization_url: ''
+          title: National Encouragement Scholarship
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2018-10-01'
+          description: ''
+          organization: Tsinghua University
+          organization_url: ''
+          title: National Encouragement Scholarship
+          url: ''
         - certificate_url: ''
           date_end: ''
           date_start: '2017-10-01'
           description: ''
           organization: Tsinghua University
           organization_url: ''
-          title: 'National Encouragement Scholarship'
+          title: National Encouragement Scholarship
           url: ''
     design:
       columns: '2'
