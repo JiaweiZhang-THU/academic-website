@@ -103,7 +103,7 @@ sections:
           date_start: '2017-10-01'
           description: ''
           organization: Tsinghua University
-          organization_url: https://www.tsinghua.edu.cn/
+          organization_url: ''
           title: 'National Encouragement Scholarship'
           url: ''
     design:
