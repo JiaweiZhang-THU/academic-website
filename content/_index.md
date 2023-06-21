@@ -147,7 +147,7 @@ sections:
           title: National Encouragement Scholarship
           url: ''
     design:
-      columns: '3'
+      columns: '2'
       view: List
     
   - block: contact
