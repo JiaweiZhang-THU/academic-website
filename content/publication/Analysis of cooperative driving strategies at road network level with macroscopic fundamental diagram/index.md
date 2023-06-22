@@ -1,5 +1,5 @@
 ---
-title: "Analysis of cooperative driving strategies at road network level with macroscopic fundamental diagram"
+title: "Analysis of Cooperative Driving Strategies at Road Network Level with Macroscopic Fundamental Diagram"
 authors:
 - admin
 - Huaxin Pei
