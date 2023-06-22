@@ -1,5 +1,5 @@
 ---
-title: "Coordinating CAV swarms at intersections with a deep learning model"
+title: "Coordinating CAV Swarms at Intersections with A Deep Learning Model"
 authors:
 - admin
 - Shen Li
