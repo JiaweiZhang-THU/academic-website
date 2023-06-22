@@ -1,5 +1,5 @@
 ---
-title: "Drill the cork of information bottleneck by inputting the most important data"
+title: "Drill the Cork of Information Bottleneck by Inputting the Most Important Data"
 authors:
 - Xinyu Peng
 - admin
