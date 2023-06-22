@@ -87,7 +87,7 @@ sections:
           location: Beijing
           date_start: '2020-08-01'
           date_end: ''
-          description: 'Pursuing the Ph.D. degree with the Department of Automation'
+          description: 'Pursuing the Ph.D. degree with the Department of Automation at Tsinghua University, Beijing, China'
         - title: Undergraduate Student
           company: Tsinghua University
           company_url: https://www.tsinghua.edu.cn/
