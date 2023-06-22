@@ -74,5 +74,5 @@ email: ''
 highlight_name: true
 ---
 
-Jiawei Zhang received the B.S. degree from the Department of Automation, Tsinghua University, Beijing, China, in 2020. He is currently pursuing the Ph.D. degree with the Department of Automation, Tsinghua University, Beijing, China. His research interests include intelligent transportation systems (ITS), autonomous driving, connected and automated vehicles (CAVs), and deep reinforcement learning (DRL).
+Jiawei Zhang received the B.S. degree from the Department of Automation, [Tsinghua University](https://www.tsinghua.edu.cn/), Beijing, China, in 2020. He is currently pursuing the Ph.D. degree with the Department of Automation, Tsinghua University, Beijing, China. His research interests include intelligent transportation systems (ITS), autonomous driving, connected and automated vehicles (CAVs), and deep reinforcement learning (DRL).
 {style="text-align: justify;"}
