@@ -1,5 +1,5 @@
 ---
-title: "CAVSim: A microscopic traffic simulator for evaluation of connected and automated vehicles"
+title: "CAVSim: A Microscopic Traffic Simulator for Evaluation of Connected and Automated Vehicles"
 authors:
 - admin
 - Cheng Chang
