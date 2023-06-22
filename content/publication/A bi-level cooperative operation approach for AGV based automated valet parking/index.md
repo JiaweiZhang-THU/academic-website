@@ -1,5 +1,5 @@
 ---
-title: "A bi-level cooperative operation approach for AGV based automated valet parking"
+title: "A Bi-level Cooperative Operation Approach for AGV based Automated Valet Parking"
 authors:
 - admin
 - Zhiheng Li
