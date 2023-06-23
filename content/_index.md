@@ -102,7 +102,7 @@ sections:
   - block: markdown
     content:
       title: Services
-      subtitle: ''
+      subtitle: 'test'
       text: |-
         {{< gallery album="demo" >}}
     
