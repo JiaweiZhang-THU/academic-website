@@ -104,7 +104,7 @@ sections:
       title: Services
       items:
         - name: Reviewer for Journal
-          description: IEEE Transactions on Intelligent Transportation Systems; IEEE Transactions on Intelligent Vehicles; IEEE Antennas and Wireless Propagation Letters; 自动化学报
+          description: [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979); [IEEE Transactions on Intelligent Vehicles](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857); [IEEE Antennas and Wireless Propagation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7727); [自动化学报](http://www.aas.net.cn/)
           icon: newspaper
           icon_pack: fas
         - name: Reviewer for Conference
