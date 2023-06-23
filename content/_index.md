@@ -140,6 +140,8 @@ sections:
           organization_url: http://www.baachina.cn/index.html
           title: Outstanding Ph.D Student
           url: http://www.baachina.cn/html/page/notice/notice2022-12.html
+          icon: person-chalkboard
+          icon_pack: fas
         - certificate_url: ''
           date_end: ''
           date_start: '2022-10-01'
