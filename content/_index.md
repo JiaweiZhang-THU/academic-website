@@ -105,11 +105,11 @@ sections:
       items:
         - name: Reviewer for Journal
           description: IEEE Transactions on Intelligent Transportation Systems; IEEE Transactions on Intelligent Vehicles; IEEE Antennas and Wireless Propagation Letters; 自动化学报
-          icon: ads
-          icon_pack: fab
+          icon: newspaper
+          icon_pack: fas
         - name: Reviewer for Conference
           description: IEEE International Conference on Intelligent Transportation (ITSC-2021, 2022, 2023); China Automation Congress (CAC 2022)
-          icon: check
+          icon: building-columns
           icon_pack: fas
         - name: Teaching Assistant
           description: Convex Optimization (2020, 2021)
