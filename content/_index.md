@@ -101,19 +101,19 @@ sections:
 
   - block: features
     content:
-      title: Skills
+      title: Services
       items:
-        - name: R
-          description: 90%
+        - name: Reviewer for Journal
+          description: IEEE Transactions on Intelligent Transportation Systems; IEEE Transactions on Intelligent Vehicles; 自动化学报
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: Reviewer for Conference
+          description: IEEE International Conference on Intelligent Transportation (ITSC)
+          icon: ''
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Teaching Assistant
+          description: Convex Optimization (2020, 2021)
+          icon: ''
           icon_pack: fas
     
   - block: accomplishments
