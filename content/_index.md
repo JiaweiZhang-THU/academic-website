@@ -105,7 +105,7 @@ sections:
       items:
         - name: Reviewer for Journal
           description: IEEE Transactions on Intelligent Transportation Systems; IEEE Transactions on Intelligent Vehicles; 自动化学报
-          icon: r-project
+          icon: ''
           icon_pack: fab
         - name: Reviewer for Conference
           description: IEEE International Conference on Intelligent Transportation (ITSC)
@@ -115,6 +115,10 @@ sections:
           description: Convex Optimization (2020, 2021)
           icon: ''
           icon_pack: fas
+    
+    design:
+      columns: '2'
+      view: List
     
   - block: accomplishments
     content:
