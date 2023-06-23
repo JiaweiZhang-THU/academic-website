@@ -104,11 +104,11 @@ sections:
       title: Services
       items:
         - name: Reviewer for Journal
-          description: IEEE Transactions on Intelligent Transportation Systems; IEEE Transactions on Intelligent Vehicles; 自动化学报
+          description: IEEE Transactions on Intelligent Transportation Systems; IEEE Transactions on Intelligent Vehicles; IEEE Antennas and Wireless Propagation Letters; 自动化学报
           icon: ''
           icon_pack: fab
         - name: Reviewer for Conference
-          description: IEEE International Conference on Intelligent Transportation (ITSC)
+          description: IEEE International Conference on Intelligent Transportation (ITSC-2021, 2022, 2023); China Automation Congress (CAC 2022)
           icon: ''
           icon_pack: fas
         - name: Teaching Assistant
