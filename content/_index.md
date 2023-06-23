@@ -104,7 +104,7 @@ sections:
       title: Services
       items:
         - name: Reviewer for Journal
-          description: IEEE Transactions on Intelligent Transportation Systems (TITS); Transportation Research Part C-Emerging Technologies (TRC); IEEE Transactions on Intelligent Vehicles (TIV); IEEE Transactions on Automation Science and Engineering (TASE); IEEE Antennas and Wireless Propagation Letters (AWLE); 自动化学报; Transport Reviews: A Transnational Transdisciplinary Journal (TTRV); 交通运输工程与信息学报
+          description: IEEE Transactions on Intelligent Transportation Systems (TITS); Transportation Research Part C-Emerging Technologies (TRC); IEEE Transactions on Intelligent Vehicles (TIV); IEEE Transactions on Automation Science and Engineering (TASE); IEEE Antennas and Wireless Propagation Letters (AWLE); 自动化学报; Transport Reviews-A Transnational Transdisciplinary Journal (TTRV); 交通运输工程与信息学报
           icon: newspaper
           icon_pack: fas
         - name: Reviewer for Conference
