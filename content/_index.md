@@ -103,9 +103,8 @@ sections:
     content:
       title: Services
       subtitle: ''
-      text: Reviewer for Journal
-          #### IEEE Transactions on Intelligent Transportation Systems
-          #### Transportation Research Part C: Emerging Technologies
+      text: |-
+        {{< gallery album="demo" >}}
     
     design:
       columns: '2'
