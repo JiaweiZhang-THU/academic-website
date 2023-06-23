@@ -115,7 +115,6 @@ sections:
           description: Convex Optimization (2020, 2021)
           icon: ''
           icon_pack: fas
-    
     design:
       columns: '2'
       view: List
