@@ -109,7 +109,7 @@ sections:
           icon_pack: fab
         - name: Reviewer for Conference
           description: IEEE International Conference on Intelligent Transportation (ITSC-2021, 2022, 2023); China Automation Congress (CAC 2022)
-          icon: ''
+          icon: user-magnifying-glass
           icon_pack: fas
         - name: Teaching Assistant
           description: Convex Optimization (2020, 2021)
