@@ -24,6 +24,18 @@ links:
     icon_pack: fab
     name: Follow
     url: https://www.researchgate.net/publication/364828330_Multi-Agent_DRL-Based_Lane_Change_With_Right-of-Way_Collaboration_Awareness
+  - icon: plus
+    icon_pack: fab
+    name: Intersection
+    url: https://jiaweizhang.netlify.app/publication/coordinating-cav-swarms-at-intersections-with-a-deep-learning-model/
+  - icon: road
+    icon_pack: fab
+    name: Lane-change
+    url: https://jiaweizhang.netlify.app/publication/multi-agent-drl-based-lane-change-with-right-of-way-collaboration-awareness/
+  - icon: car-burst
+    icon_pack: fab
+    name: Fault-tolerant
+    url: https://jiaweizhang.netlify.app/publication/fault-tolerant-cooperative-driving-at-signal-free-intersections/
 url_code: ''
 url_pdf: https://ieeexplore.ieee.org/document/9932003
 url_slides: ''
