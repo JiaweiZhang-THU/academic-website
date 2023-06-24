@@ -41,7 +41,7 @@ slides: ""
 ---
 #### **Cooperative Driving at Signal-free Intersections**
 
-  <img src="Cooperative Driving at Signal-free Intersections_1.gif" alt="Cooperative Driving at Signal-free Intersections_2" style="zoom:90%;" />
+  <img src="Cooperative Driving at Signal-free Intersections_1.gif" alt="Cooperative Driving at Signal-free Intersections_1" style="zoom:90%;" />
 
 ---
 #### **Multi-Vehicle Merging at On-ramps**
