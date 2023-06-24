@@ -41,6 +41,7 @@ sections:
       flip_alt_rows: false
     
   - block: collection
+    id: JournalPapers
     content:
       title: Publications
       subtitle: Journal article
