@@ -62,11 +62,10 @@ slides: ""
 
 ---
 
-  
-## Citation
-If you find our work is useful in your research, please consider citing:
-
+## Related Papers
 + [CAVSim: A Microscopic Traffic Simulator for Evaluation of Connected and Automated Vehicles](https://jiaweizhang.netlify.app/publication/cavsim-a-microscopic-traffic-simulator-for-evaluation-of-connected-and-automated-vehicles/)
+
+#### Citation
 ```
 @ARTICLE{Zhang2023CAVSim,
   title={CAVSim: A Microscopic Traffic Simulator for Evaluation of Connected and Automated Vehicles},
@@ -79,6 +78,8 @@ If you find our work is useful in your research, please consider citing:
 }
 ```
 + [CAVSim: A Microscope Traffic Simulator for Connected and Automated Vehicles Environment](https://jiaweizhang.netlify.app/publication/cavsim-a-microscope-traffic-simulator-for-connected-and-automated-vehicles-environment/)
+
+#### Citation
 ```
 @INPROCEEDINGS{Zhang2022CAVSim,
   author={Zhang, Jiawei and Chang, Cheng and Pei, Huaxin and Peng, Xinyu and Guo, Yuqing and Lian, Renzong and Chen, Zhenwu and Li, Li},
