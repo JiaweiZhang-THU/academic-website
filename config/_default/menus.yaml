@@ -16,9 +16,12 @@ main:
  # - name: Talks
  #   url: '#talks'
  #   weight: 40
-  - name: Publications
-    url: '#featured'
+  - name: Experience
+    url: ''
     weight: 50
+  - name: Experience
+    url: '#experience'
+    weight: 51
   - name: Contact
     url: '#contact'
     weight: 60
