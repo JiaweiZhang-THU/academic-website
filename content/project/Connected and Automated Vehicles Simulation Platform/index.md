@@ -40,7 +40,7 @@ slides: ""
 ![avatar](.././././Straight Lane.gif)
 + **Lane Change at Straight Lane**
 
-  <img src="Visualization\Straight Lane.gif" alt="Straight Lane" style="zoom:90%;" />
+  <img src="Straight Lane.gif" alt="Straight Lane" style="zoom:90%;" />
 
   
 ---
