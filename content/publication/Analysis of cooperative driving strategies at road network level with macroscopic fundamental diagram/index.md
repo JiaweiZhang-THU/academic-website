@@ -34,6 +34,12 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
+
+links:
+  - icon: researchgate
+    icon_pack: fab
+    name: Follow
+    url: https://www.researchgate.net/publication/357067155_Analysis_of_cooperative_driving_strategies_at_road_network_level_with_macroscopic_fundamental_diagram
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0968090X21004897
 url_code: ''
 url_dataset: ''
