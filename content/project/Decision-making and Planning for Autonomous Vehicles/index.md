@@ -4,10 +4,11 @@ title: Decision-making and Planning for Autonomous Vehicles
 summary: Cooperative decision-making and planning of networked autonomous vehicles based on spatio-temporal information of traffic.
 
 tags:
-  - Autonomous Vehicles
+  - Autonomous Driving
   - Connected and Automated Vehicles
   - Autonomous Driving
   - Decision-making and Planning
+  - Deep Reinforcement Learning
 
 date: '2023-06-23T00:00:00Z'
 
