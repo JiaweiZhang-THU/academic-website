@@ -32,7 +32,7 @@ slides: ""
 [CAVSim](https://github.com/JiaweiZhang-THU/CAVSim) is a microscopic traffic simulator for the CAV environment. The framework of CAVSim is consistent with the realistic CAV environment, including module decomposition, road segmentation, computing task allocation, which can be conveniently used to deploy and test the cooperative driving methods at different levels about CAVs. Meanwhile, CAVSim emphasizes the critical properties and driving behaviors of CAVs and is dedicated to capturing the characteristics of CAVs and their impact on traffic flow. Modular development makes CAVSim have good scalability, which can simulate typical local traffic scenarios, and can also simulate large-scale network-wide traffic through reasonable splicing of road blocks. With CAVSim, users can conduct various traffic and vehicle simulations related to CAVs. Finally, CAVSim is an evolving project, and we will further refine and enhance it next. In particular, we will develop more benchmarking algorithms in CAVSim to promote the development of CAV with a unified platform.
 
 ## The overall framework of CAVSim.
-![avatar](./featured.jpg)
+![avatar](./Architecture.jpg)
 
 ---
 #### **Lane Change at Straight Lane**
