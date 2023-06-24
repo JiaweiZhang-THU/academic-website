@@ -35,6 +35,12 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
+
+links:
+  - icon: researchgate
+    icon_pack: fab
+    name: Follow
+    url: https://www.researchgate.net/publication/351661459_A_bi-level_cooperative_operation_approach_for_AGV_based_automated_valet_parking
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0968090X21001583
 url_code: 'https://www.sciencedirect.com/science/article/pii/S0968090X21001583'
 url_dataset: ''
