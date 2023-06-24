@@ -16,7 +16,7 @@ links:
   - icon: github
     icon_pack: fab
     name: Star
-    url: https://github.com/
+    url: https://github.com/JiaweiZhang-THU/CAVSim
 url_code: https://github.com/JiaweiZhang-THU/CAVSim
 url_pdf: https://ieeexplore.ieee.org/abstract/document/10124078
 url_slides: ''
