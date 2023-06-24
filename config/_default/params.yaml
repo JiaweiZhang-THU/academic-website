@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: Dark
+  theme_day: Ocean
   theme_night: minimal
   font: minimal
   font_size: L
