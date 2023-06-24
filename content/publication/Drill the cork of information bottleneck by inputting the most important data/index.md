@@ -29,7 +29,8 @@ summary: We propose a new explanation of how typicality sampling helps accelerat
 
 
 tags:
-- Source Themes
+- Deep Learning
+- Information Bottleneck
 featured: false
 
 # links:
