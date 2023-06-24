@@ -21,7 +21,7 @@ image:
 
 links:
   - icon: researchgate
-    icon_pack: fas
+    icon_pack: fab
     name: Follow
     url: https://www.researchgate.net/publication/364828330_Multi-Agent_DRL-Based_Lane_Change_With_Right-of-Way_Collaboration_Awareness
 url_code: ''
