@@ -29,7 +29,11 @@ abstract: In urban areas, the number of cars has increased significantly in rece
 summary: Deep reinforcement learning (DRL) based automated guided vehicles (AGVs) parking system.
 
 tags:
-- Source Themes
+- AGV
+- Cooperative Driving
+- Deep Reinforcement Learning
+- Deadlock
+- Parking System
 featured: false
 
 # links:
