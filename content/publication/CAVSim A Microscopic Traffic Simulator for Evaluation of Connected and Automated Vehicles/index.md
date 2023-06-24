@@ -37,6 +37,12 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
+
+links:
+  - icon: researchgate
+    icon_pack: fab
+    name: Follow
+    url: https://www.researchgate.net/publication/370731657_CAVSim_A_Microscopic_Traffic_Simulator_for_Evaluation_of_Connected_and_Automated_Vehicles
 url_pdf: https://ieeexplore.ieee.org/abstract/document/10124078
 url_code: 'https://github.com/JiaweiZhang-THU/CAVSim'
 url_dataset: ''
