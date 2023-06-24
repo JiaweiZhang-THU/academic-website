@@ -5,6 +5,8 @@ tags:
   - AGV
   - Multi-robot scheduling
   - Cooperative Driving
+  - Deep Reinforcement Learning
+  - Autonomous Driving
 
 date: '2023-06-23T00:00:00Z'
 
