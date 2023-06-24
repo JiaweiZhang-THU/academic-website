@@ -30,7 +30,10 @@ abstract: Cooperative driving shows great potential to improve traffic safety an
 summary:  Fault-tolerant cooperative driving strategy for signal-free intersections by modeling potential vehicle failure types.
 
 tags:
-- Source Themes
+- Connected and Automated Vehicle
+- Cooperative Driving
+- Traffic Safety and Efficiency
+- Fault Tolerance
 featured: false
 
 # links:
