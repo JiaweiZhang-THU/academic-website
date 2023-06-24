@@ -28,8 +28,11 @@ abstract: In this paper, we systematically study how to use edge computing to mo
 # Summary. An optional shortened abstract.
 summary: Using edge computing to monitor the movements of multiple connected and automated vehicles (CAV) and warn of potential accidents (e.g., lane departures, collisions).
 
-tags: []
-
+tags:
+- Cooperative Driving
+- Driving Safety Monitoring
+- Driving Safety Warning
+- Connected and Automated Vehicle
 # Display this page in the Featured widget?
 featured: true
 
