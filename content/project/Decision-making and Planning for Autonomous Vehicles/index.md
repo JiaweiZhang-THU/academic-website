@@ -29,11 +29,11 @@ links:
     name: Intersection
     url: https://jiaweizhang.netlify.app/publication/coordinating-cav-swarms-at-intersections-with-a-deep-learning-model/
   - icon: road
-    icon_pack: fab
+    icon_pack: fas
     name: Lane-change
     url: https://jiaweizhang.netlify.app/publication/multi-agent-drl-based-lane-change-with-right-of-way-collaboration-awareness/
   - icon: car-burst
-    icon_pack: fab
+    icon_pack: fas
     name: Fault-tolerant
     url: https://jiaweizhang.netlify.app/publication/fault-tolerant-cooperative-driving-at-signal-free-intersections/
 url_code: ''
