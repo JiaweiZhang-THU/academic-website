@@ -29,10 +29,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Autonomous Driving
+          tag: Coopertive Driving
+        - name: Traffic Simulation
+          tag: Traffic Simulation
+        - name: Deep Reinforcement Learning
+          tag: Deep Reinforcement Learning
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
