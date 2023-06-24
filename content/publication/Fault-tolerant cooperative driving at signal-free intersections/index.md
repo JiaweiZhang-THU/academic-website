@@ -36,6 +36,12 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
+
+links:
+  - icon: researchgate
+    icon_pack: fab
+    name: Follow
+    url: https://www.researchgate.net/publication/359246805_Fault-Tolerant_Cooperative_Driving_at_Signal-Free_Intersections
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9735412/authors#authors
 url_code: ''
 url_dataset: ''
