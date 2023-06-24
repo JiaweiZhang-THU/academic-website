@@ -55,6 +55,7 @@ sections:
         folders:
           - publication
         exclude_featured: true
+      order: desc
     design:
       columns: '2'
       view: compact
