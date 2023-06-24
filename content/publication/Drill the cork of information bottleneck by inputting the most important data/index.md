@@ -35,6 +35,12 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
+
+links:
+  - icon: researchgate
+    icon_pack: fab
+    name: Follow
+    url: https://www.researchgate.net/publication/351834004_Drill_the_Cork_of_Information_Bottleneck_by_Inputting_the_Most_Important_Data
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9439803
 url_code: ''
 url_dataset: ''
