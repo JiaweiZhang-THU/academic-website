@@ -30,7 +30,7 @@ sections:
         - name: All
           tag: '*'
         - name: Autonomous Driving
-          tag: Coopertive Driving
+          tag: Autonomous Driving
         - name: Traffic Simulation
           tag: Traffic Simulation
         - name: Deep Reinforcement Learning
