@@ -34,6 +34,12 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
+
+links:
+  - icon: researchgate
+    icon_pack: fab
+    name: Follow
+    url: https://www.researchgate.net/publication/369449074_Coordinating_CAV_Swarms_at_Intersections_With_a_Deep_Learning_Model
 url_pdf: https://ieeexplore.ieee.org/abstract/document/10078727
 url_code: ''
 url_dataset: ''
