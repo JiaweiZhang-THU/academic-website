@@ -33,6 +33,8 @@ url_video: ''
 slides: ""
 ---
 
+![avatar](./Environment_illustration.jpg)
+
 ## Description
 Aiming at the inefficiency and even deadlock deficiencies faced by AGVs, this project proposes an integrated AGV scheduling and cooperative operation method based on deep reinforcement learning (DRL),
 achieving safe, efficient and cooperative operation performance of AGVs.
