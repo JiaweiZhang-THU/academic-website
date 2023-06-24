@@ -110,11 +110,11 @@ sections:
       title: Services
       items:
         - name: Reviewer for Journal
-          description: IEEE Transactions on Intelligent Transportation Systems (TITS); Transportation Research Part C-Emerging Technologies (TRC); IEEE Transactions on Intelligent Vehicles (TIV); IEEE Transactions on Automation Science and Engineering (TASE); IEEE Antennas and Wireless Propagation Letters (AWLE); 自动化学报; Transport Reviews-A Transnational Transdisciplinary Journal (TTRV); 交通运输工程与信息学报
+          description: IEEE T-ITS; TRC; IEEE T-IV; IEEE T-ASE; IEEE AWLE; 自动化学报; TTRV; 交通运输工程与信息学报
           icon: newspaper
           icon_pack: fas
         - name: Reviewer for Conference
-          description: IEEE International Conference on Intelligent Transportation (ITSC-2021, 2022, 2023); China Automation Congress (CAC 2022)
+          description: IEEE ITSC-2022, IEEE ITSC-2023; CAC-2022
           icon: building-columns
           icon_pack: fas
         - name: Teaching Assistant
