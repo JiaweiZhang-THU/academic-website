@@ -38,7 +38,11 @@ slides: ""
 #### **Lane Change at Straight Lane**
 
 ![avatar](.././././Straight Lane.gif)
++ **Lane Change at Straight Lane**
 
+  <img src="Visualization\Straight Lane.gif" alt="Straight Lane" style="zoom:90%;" />
+
+  
 ---
 #### **Cooperative Driving at Signal-free Intersections**
 
