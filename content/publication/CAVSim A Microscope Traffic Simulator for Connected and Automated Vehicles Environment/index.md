@@ -31,8 +31,11 @@ abstract: Connected and automated vehicles (CAVs) are expected to play a vital r
 # Summary. An optional shortened abstract.
 summary: CAVSim, A traffic simulator for connected and automated vehicles (CAVs).
 
-tags: 
-
+tags:
+- Cooperative Driving
+- Connected and automated vehicles
+- Macroscopic Fundamental Diagram
+- Traffic Simulator
 
 # Display this page in the Featured widget?
 featured: true
