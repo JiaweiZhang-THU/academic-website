@@ -28,7 +28,12 @@ summary: AlphaOrder, a novel cooperative driving algorithm that combines offline
 
 
 tags:
-- Source Themes
+- Connected and Automated Vehicle
+- Cooperative Driving
+- Signal-free Intersection
+- Deep Learning
+- Deep Reinforcement Learning
+- Pointer Network
 featured: false
 
 # links:
