@@ -28,7 +28,12 @@ abstract: Cooperative driving, especially the passing order, is the critical lin
 summary: Investigating the key ways for automated vehicles (AVs) to improve the traffic efficiency of two-dimensional urban network traffic.
 
 tags:
-- Source Themes
+- Cooperative Driving
+- Network Traffic
+- Macroscopic Fundamental Diagram
+- MFD
+- Traffic Control
+- Right-of-way
 featured: false
 
 # links:
