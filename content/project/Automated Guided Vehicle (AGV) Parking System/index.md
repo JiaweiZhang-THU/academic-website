@@ -54,11 +54,14 @@ achieving safe, efficient and cooperative operation performance of AGVs.
 
 ---
 
-  
+
+## Related Papers
++ [A Bi-level Cooperative Operation Approach for AGV based Automated Valet Parking](https://jiaweizhang.netlify.app/publication/a-bi-level-cooperative-operation-approach-for-agv-based-automated-valet-parking/)
+
 ## Citation
 If you find our work is useful in your research, please consider citing:
 
-+ [A Bi-level Cooperative Operation Approach for AGV based Automated Valet Parking](https://jiaweizhang.netlify.app/publication/a-bi-level-cooperative-operation-approach-for-agv-based-automated-valet-parking/)
+
 ```
 @article{zhang2021bi,
   title={A bi-level cooperative operation approach for AGV based automated valet parking},
