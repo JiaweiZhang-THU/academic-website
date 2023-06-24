@@ -36,29 +36,24 @@ slides: ""
 
 ---
 #### **Lane Change at Straight Lane**
-
-![avatar](.././././Straight Lane.gif)
-+ **Lane Change at Straight Lane**
-
   <img src="Straight Lane.gif" alt="Straight Lane" style="zoom:90%;" />
 
-  
 ---
 #### **Cooperative Driving at Signal-free Intersections**
 
-![avatar](./Cooperative Driving at Signal-free Intersections_1.gif)
-
+  <img src="Cooperative Driving at Signal-free Intersections_2.gif" alt="Cooperative Driving at Signal-free Intersections_2" style="zoom:90%;" />
 
 ---
 #### **Multi-Vehicle Merging at On-ramps**
 
-![avatar](./Multi-CAV Merging at On-ramps.gif)
+  <img src="Multi-CAV Merging at On-ramps.gif" alt="Multi-CAV Merging at On-ramps" style="zoom:80%;" />
 
 
 ---
 #### **Simulation of Road Network Traffic**
 
-![avatar](./Network-wide Traffic Simualtion.gif)
+  <img src="Network-wide Traffic Simualtion.gif" alt="Network-wide Traffic Simualtion" style="zoom:100%;" />
+
 
 ---
 
