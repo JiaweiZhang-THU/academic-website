@@ -31,8 +31,8 @@ sections:
           tag: '*'
         - name: Autonomous Driving
           tag: Autonomous Driving
-        - name: Traffic Simulation
-          tag: Traffic Simulation
+        - name: Connected and Automated Vehicle
+          tag: Connected and Automated Vehicle
         - name: Deep Reinforcement Learning
           tag: Deep Reinforcement Learning
     design:
