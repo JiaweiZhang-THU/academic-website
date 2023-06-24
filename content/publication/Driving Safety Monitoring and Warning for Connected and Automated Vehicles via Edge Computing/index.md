@@ -36,6 +36,12 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
+
+links:
+  - icon: researchgate
+    icon_pack: fab
+    name: Follow
+    url: https://www.researchgate.net/publication/364998087_Driving_Safety_Monitoring_and_Warning_for_Connected_and_Automated_Vehicles_via_Edge_Computing
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9922076
 url_code: ''
 url_dataset: ''
