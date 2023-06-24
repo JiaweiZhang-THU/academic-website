@@ -28,7 +28,12 @@ abstract: Lane change is a common-yet-challenging driving behavior for automated
 summary: A novel multi-agent deep reinforcement learning (DRL) based lane-change decision model.
 
 tags:
-- Source Themes
+- Automated Vehicle
+- Lane Change
+- Right-of-Way
+- Deep Reinforcement Learning
+- Driving Intention
+- Decision-making and Planning
 featured: false
 
 # links:
