@@ -2,7 +2,10 @@
 title: CAVSim-Connected and Automated Vehicles Simulation Platform
 summary: A traffic simulator for connected and automated vehicles (CAVs).
 tags:
-  - Connected and Automated Vehicles
+  - Connected and Automated Vehicle
+  - Traffic Simulation
+  - Cooperative Driving
+  - Deep Reinforcement Learning
 date: '2023-06-23T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
