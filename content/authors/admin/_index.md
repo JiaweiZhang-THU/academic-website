@@ -28,10 +28,9 @@ bio: My research interests include intelligent transportation systems (ITS), aut
 interests:
   - Artificial Intelligence
   - Intelligent Transportation Systems (ITS)
-  - Intelligent Vehicles
+  - Intelligent Vehicles (IV)
   - Autonomous Driving
   - Deep Reinforcement Learning (DRL)
-  - Connected and Automated Vehicle (CAV)
 
 # Education to show in About widget
 education:
