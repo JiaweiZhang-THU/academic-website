@@ -203,9 +203,10 @@ sections:
           date_start: '2017-10-01'
           description: ''
           organization: Tsinghua University
-          organization_url: ''
+          organization_url: https://www.tsinghua.edu.cn/
           title: National Encouragement Scholarship
-          url: ''
+          url: https://www.tsinghua.edu.cn/
+        
     design:
       columns: '2'
       view: List
