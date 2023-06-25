@@ -154,32 +154,32 @@ sections:
           date_start: '2022-10-01'
           description: ''
           organization: IEEE ITSC 2022
-          organization_url: ''
+          organization_url: https://www.ieee-itsc2022.org/#/
           organization_logo: org-Tsinghua
           title: Best Student Paper Award
-          url: ''
+          url: https://www.ieee-itsc2022.org/#/
         - certificate_url: ''
           date_end: ''
           date_start: '2022-10-01'
           description: The First Prize Scholarship
           organization: Tsinghua University
-          organization_url: ''
+          organization_url: https://www.tsinghua.edu.cn/
           title: Tsinghua-Xuancheng Scholarship
-          url: ''
+          url: https://www.tsinghua.edu.cn/
         - certificate_url: ''
           date_end: ''
           date_start: '2021-10-01'
           description: The Second Prize Scholarship
           organization: Tsinghua University
-          organization_url: ''
+          organization_url: https://www.tsinghua.edu.cn/
           title: Tsinghua-Weihai Scholarship
-          url: ''
+          url: https://www.tsinghua.edu.cn/
         - certificate_url: ''
           date_end: ''
           date_start: '2020-10-01'
-          description: ''
+          description: https://www.tsinghua.edu.cn/
           organization: Department of Automation, Tsinghua University
-          organization_url: ''
+          organization_url: https://www.tsinghua.edu.cn/
           title: Outstanding Graduates
           url: ''
         - certificate_url: ''
@@ -187,17 +187,17 @@ sections:
           date_start: '2019-10-01'
           description: ''
           organization: Tsinghua University
-          organization_url: ''
+          organization_url: https://www.tsinghua.edu.cn/
           title: National Encouragement Scholarship
-          url: ''
+          url: https://www.tsinghua.edu.cn/
         - certificate_url: ''
           date_end: ''
           date_start: '2018-10-01'
           description: ''
           organization: Tsinghua University
-          organization_url: ''
+          organization_url: https://www.tsinghua.edu.cn/
           title: National Encouragement Scholarship
-          url: ''
+          url: https://www.tsinghua.edu.cn/
         - certificate_url: ''
           date_end: ''
           date_start: '2017-10-01'
