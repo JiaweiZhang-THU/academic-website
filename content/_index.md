@@ -177,7 +177,7 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2020-10-01'
-          description: https://www.tsinghua.edu.cn/
+          description: ''
           organization: Department of Automation, Tsinghua University
           organization_url: https://www.tsinghua.edu.cn/
           title: Outstanding Graduates
