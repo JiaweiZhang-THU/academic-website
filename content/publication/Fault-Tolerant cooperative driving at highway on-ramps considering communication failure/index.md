@@ -42,6 +42,11 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
+links:
+  - icon: researchgate
+    icon_pack: fab
+    name: Follow
+    url: https://www.researchgate.net/publication/371948087_Fault-Tolerant_cooperative_driving_at_highway_on-ramps_considering_communication_failure
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0968090X23002164?via%3Dihub
 url_code: ''
 url_dataset: ''
