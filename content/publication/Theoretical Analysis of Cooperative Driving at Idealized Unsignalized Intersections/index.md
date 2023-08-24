@@ -1,5 +1,5 @@
 ---
-title: "Fault-Tolerant Cooperative Driving at Highway On-Ramps Considering Communication Failure"
+title: "Theoretical Analysis of Cooperative Driving at Idealized Unsignalized Intersections"
 authors:
 - Shen Li
 - admin
