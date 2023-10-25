@@ -135,6 +135,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-10-20'
+          description: ''
+          organization: Ministry of Education
+          organization_url: http://www.moe.gov.cn/
+          title: National Scholarship
+          url: https://www.tsinghua.edu.cn/
         - certificate_url: http://www.baachina.cn/html/page/notice/notice2022-12.html
           date_end: ''
           date_start: '2022-12-01'
@@ -182,24 +190,24 @@ sections:
           date_end: ''
           date_start: '2019-10-01'
           description: ''
-          organization: Tsinghua University
-          organization_url: https://www.tsinghua.edu.cn/
+          organization: Ministry of Education
+          organization_url: http://www.moe.gov.cn/
           title: National Encouragement Scholarship
           url: https://www.tsinghua.edu.cn/
         - certificate_url: ''
           date_end: ''
           date_start: '2018-10-01'
           description: ''
-          organization: Tsinghua University
-          organization_url: https://www.tsinghua.edu.cn/
+          organization: Ministry of Education
+          organization_url: http://www.moe.gov.cn/
           title: National Encouragement Scholarship
           url: https://www.tsinghua.edu.cn/
         - certificate_url: ''
           date_end: ''
           date_start: '2017-10-01'
           description: ''
-          organization: Tsinghua University
-          organization_url: https://www.tsinghua.edu.cn/
+          organization: Ministry of Education
+          organization_url: http://www.moe.gov.cn/
           title: National Encouragement Scholarship
           url: https://www.tsinghua.edu.cn/
         
