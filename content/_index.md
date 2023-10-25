@@ -165,18 +165,18 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2022-10-01'
-          description: The First Prize Scholarship
+          description: Tsinghua-Xuancheng Scholarship
           organization: Tsinghua University
           organization_url: https://www.tsinghua.edu.cn/
-          title: Tsinghua-Xuancheng Scholarship
+          title: Excellent Academic Scholarship of Tsinghua University
           url: https://www.tsinghua.edu.cn/
         - certificate_url: ''
           date_end: ''
           date_start: '2021-10-01'
-          description: The Second Prize Scholarship
+          description: Tsinghua-Weihai Scholarship
           organization: Tsinghua University
           organization_url: https://www.tsinghua.edu.cn/
-          title: Tsinghua-Weihai Scholarship
+          title: Excellent Academic Scholarship of Tsinghua University
           url: https://www.tsinghua.edu.cn/
         - certificate_url: ''
           date_end: ''
