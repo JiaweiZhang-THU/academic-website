@@ -168,7 +168,7 @@ sections:
           description: Tsinghua-Xuancheng Scholarship
           organization: Tsinghua University
           organization_url: https://www.tsinghua.edu.cn/
-          title: Excellent Academic Scholarship of Tsinghua University
+          title: Excellent Comprehensive Scholarship of Tsinghua University
           url: https://www.tsinghua.edu.cn/
         - certificate_url: ''
           date_end: ''
@@ -176,7 +176,7 @@ sections:
           description: Tsinghua-Weihai Scholarship
           organization: Tsinghua University
           organization_url: https://www.tsinghua.edu.cn/
-          title: Excellent Academic Scholarship of Tsinghua University
+          title: Excellent Comprehensive Scholarship of Tsinghua University
           url: https://www.tsinghua.edu.cn/
         - certificate_url: ''
           date_end: ''
