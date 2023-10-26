@@ -106,7 +106,7 @@ sections:
       title: Services
       items:
         - name: Reviewer for Journal
-          description: IEEE ITSC-2022, IEEE ITSC-2023; CAC-2022
+          description: IEEE Transactions on Intelligent Transportation Systems; Transportation Research Part C: Emerging Technologies; IEEE Transactions on Intelligent Vehicles; IEEE Transactions on Automation Science and Engineering; IEEE Antennas and Wireless Propagation Letters; International Journal of Human-Computer Interaction; 自动化学报; 交通运输工程与信息学报
           icon: newspaper
           icon_pack: fas
         - name: Reviewer for Conference
