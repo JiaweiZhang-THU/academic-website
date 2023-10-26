@@ -106,7 +106,7 @@ sections:
       title: Services
       items:
         - name: Reviewer for Journal
-          description: [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979); [Transportation Research Part C: Emerging Technologies](https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies); [IEEE Transactions on Intelligent Vehicles](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857); [IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856); [IEEE Antennas and Wireless Propagation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7727); [自动化学报](http://www.aas.net.cn/); TTRV; [交通运输工程与信息学报](https://jtgc.cbpt.cnki.net/WKD/WebPublication/index.aspx?mid=jtgc); [International Journal of Human-Computer Interaction](https://www.tandfonline.com/toc/hihc20/current)
+          description: [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
           icon: newspaper
           icon_pack: fas
         - name: Reviewer for Conference
