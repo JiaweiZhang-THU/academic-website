@@ -106,7 +106,7 @@ sections:
       title: Services
       items:
         - name: Reviewer for Journal
-          description: IEEE Transactions on Intelligent Transportation Systems
+          description: IEEE ITSC-2022, IEEE ITSC-2023; CAC-2022
           icon: newspaper
           icon_pack: fas
         - name: Reviewer for Conference
