@@ -106,7 +106,7 @@ sections:
       title: Services
       items:
         - name: Reviewer for Journal
-          description: [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
+          description: IEEE Transactions on Intelligent Transportation Systems
           icon: newspaper
           icon_pack: fas
         - name: Reviewer for Conference
