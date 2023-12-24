@@ -35,7 +35,7 @@ tags:
 - Cooperative Driving
 - Signal-free Intersection
 - Deep Reinforcement Learning
-- MCTS
+- Monte Carlo tree search
 featured: false
 
 # links:
