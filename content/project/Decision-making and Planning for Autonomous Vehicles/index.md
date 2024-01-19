@@ -37,7 +37,7 @@ links:
     name: BEV感知融合与预测
     url: https://ieeexplore.ieee.org/abstract/document/10179171
 url_code: ''
-url_pdf: https://ieeexplore.ieee.org/document/9932003
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
