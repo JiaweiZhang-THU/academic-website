@@ -20,14 +20,6 @@ image:
   focal_point: Smart
 
 links:
-  - icon: researchgate
-    icon_pack: fab
-    name: Follow
-    url: https://www.researchgate.net/publication/364828330_Multi-Agent_DRL-Based_Lane_Change_With_Right-of-Way_Collaboration_Awareness
-  - icon: plus
-    icon_pack: fab
-    name: Intersection
-    url: https://jiaweizhang.netlify.app/publication/coordinating-cav-swarms-at-intersections-with-a-deep-learning-model/
   - icon: route
     icon_pack: fas
     name: 自动驾驶路线规划
@@ -35,11 +27,15 @@ links:
   - icon: road
     icon_pack: fas
     name: 自动驾驶换道决策
-    url: https://jiaweizhang.netlify.app/publication/multi-agent-drl-based-lane-change-with-right-of-way-collaboration-awareness/
+    url: https://ieeexplore.ieee.org/abstract/document/9932003
   - icon: car-burst
     icon_pack: fas
-    name: Fault-tolerant
-    url: https://jiaweizhang.netlify.app/publication/fault-tolerant-cooperative-driving-at-signal-free-intersections/
+    name: 自动驾驶安全预警
+    url: https://ieeexplore.ieee.org/abstract/document/9922076
+  - icon: car
+    icon_pack: fas
+    name: BEV感知融合与预测
+    url: https://ieeexplore.ieee.org/abstract/document/10179171
 url_code: ''
 url_pdf: https://ieeexplore.ieee.org/document/9932003
 url_slides: ''
