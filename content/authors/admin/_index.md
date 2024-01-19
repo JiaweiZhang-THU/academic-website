@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Jiawei Zhang
+title: 张嘉玮
 
 # Full name (for SEO)
-first_name: Jiawei
-last_name: Zhang
+first_name: 嘉玮
+last_name: 张
 
 # Status emoji
 status:
