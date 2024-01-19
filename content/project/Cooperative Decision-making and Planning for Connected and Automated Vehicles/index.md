@@ -29,7 +29,7 @@ links:
     icon_pack: fas
     name: 多机器人智能泊车
     url: https://www.sciencedirect.com/science/article/pii/S0968090X21001583
-  - icon: swarm
+  - icon: intelligence
     icon_pack: fas
     name: 智能群系统容错与自愈
     url: https://ieeexplore.ieee.org/abstract/document/9735412
