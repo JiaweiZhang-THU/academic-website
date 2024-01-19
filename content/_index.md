@@ -32,7 +32,7 @@ sections:
         - name: 自动驾驶汽车
           tag: 自动驾驶
         - name: 智能网联汽车
-          tag: 协同驾驶
+          tag: 智能网联汽车
         - name: 智能驾驶仿真测试
           tag: 自动驾驶测试
     design:
