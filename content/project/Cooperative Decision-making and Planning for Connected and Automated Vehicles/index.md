@@ -21,7 +21,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: vehicle
+  - icon: car
     icon_pack: fas
     name: 车辆群体协同决策
     url: https://ieeexplore.ieee.org/abstract/document/10078727
@@ -33,7 +33,7 @@ links:
     icon_pack: fas
     name: 智能群系统容错与自愈
     url: https://ieeexplore.ieee.org/abstract/document/9735412
-  - icon: math
+  - icon: car-two
     icon_pack: fas
     name: 协同决策理论研究
     url: https://www.sciencedirect.com/science/article/pii/S0968090X21004897
