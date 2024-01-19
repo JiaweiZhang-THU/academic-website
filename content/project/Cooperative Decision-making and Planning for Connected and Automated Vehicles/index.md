@@ -29,11 +29,11 @@ links:
     icon_pack: fas
     name: 多机器人智能泊车
     url: https://www.sciencedirect.com/science/article/pii/S0968090X21001583
-  - icon: intelligence
+  - icon: user-shield
     icon_pack: fas
     name: 智能群系统容错与自愈
     url: https://ieeexplore.ieee.org/abstract/document/9735412
-  - icon: car-two
+  - icon: calculator
     icon_pack: fas
     name: 协同决策理论研究
     url: https://www.sciencedirect.com/science/article/pii/S0968090X21004897
