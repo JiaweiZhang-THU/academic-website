@@ -1,14 +1,14 @@
 ---
-title: Decision-making and Planning for Autonomous Vehicles
+title: 自动驾驶汽车自主决策
 
-summary: Cooperative decision-making and planning of networked autonomous vehicles based on spatio-temporal information of traffic.
+summary: 本项目面向高级别自动驾驶技术需求，开展安全可信的自动驾驶汽车自主决策相关研究。考虑不同任务的特异性，分别提出了基于深度强化学习的路线规划算法、 基于多智能体的换道决策算法、自动驾驶汽车安全预警算法、以及基于深度模型的BEV数据融合预测算法，为实现安全、高效、协同、可信的智能驾驶提供了理论和技术支撑。
 
 tags:
-  - Autonomous Driving
-  - Connected and Automated Vehicles
-  - Autonomous Driving
-  - Decision-making and Planning
-  - Deep Reinforcement Learning
+  - 自动驾驶
+  - 智能汽车
+  - 决策规划
+  - 安全预警
+  - BEV融合预测
 
 date: '2023-06-23T00:00:00Z'
 
