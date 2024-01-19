@@ -54,6 +54,7 @@ slides: ""
   
 ## 研究工作2：自动驾驶换道决策
   + Paper: [Multi-agent DRL-based lane change with right-of-way collaboration awareness](https://ieeexplore.ieee.org/abstract/document/9932003)
+<img src=LaneChangeModel  width=60% />
   
 ## 研究工作3：自动驾驶安全预警
   + Paper: [Driving Safety Monitoring and Warning for Connected and Automated Vehicles via Edge Computing](https://ieeexplore.ieee.org/abstract/document/9922076)
