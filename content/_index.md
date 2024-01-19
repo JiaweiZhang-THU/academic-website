@@ -15,7 +15,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: 科研项目
       filters:
         folders:
           - project
@@ -29,12 +29,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Autonomous Driving
-          tag: Autonomous Driving
-        - name: Connected and Automated Vehicle
-          tag: Connected and Automated Vehicle
-        - name: Deep Reinforcement Learning
-          tag: Deep Reinforcement Learning
+        - name: 自动驾驶汽车
+          tag: 自动驾驶
+        - name: 智能网联汽车
+          tag: 协同驾驶
+        - name: 智能驾驶仿真测试
+          tag: 自动驾驶测试
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
