@@ -48,7 +48,19 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-# Building ...
+## 研究工作1：自动驾驶路线规划
+  + Paper: [A Bi-level Network-wide Cooperative Driving Approach Including Deep Reinforcement Learning-based Routing](https://ieeexplore.ieee.org/abstract/document/10221733)
+  + Paper: [Self-Organized Routing for Autonomous Vehicles via Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10244078)
+  
+## 研究工作2：自动驾驶换道决策
+  + Paper: [Multi-agent DRL-based lane change with right-of-way collaboration awareness](https://ieeexplore.ieee.org/abstract/document/9932003)
+  
+## 研究工作3：自动驾驶安全预警
+  + Paper: [Driving Safety Monitoring and Warning for Connected and Automated Vehicles via Edge Computing](https://ieeexplore.ieee.org/abstract/document/9922076)
+  
+## 研究工作4：自动驾驶BEV融合预测
+  + Paper: [BEV-V2X: Cooperative Birds-Eye-View Fusion and Grid Occupancy Prediction via V2X-Based Data Sharing](https://ieeexplore.ieee.org/abstract/document/10179171)
+
 
 ## This project involves the following system components:
 
