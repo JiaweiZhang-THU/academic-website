@@ -75,5 +75,5 @@ email: zhangjw20@mails.tsinghua.edu.cn
 highlight_name: true
 ---
 
-欢迎关注！我在2020年6月获得清华大学自动化专业工学学士学位。目前在清华大学自动化系攻读控制科学与工程博士学位，预计在2025年6月毕业。在自动驾驶和智能汽车领域，取得了多项科研成果，涵盖了系统、模型、算法、仿真和测试等多个方向，在IEEE TITS、TIV、TNNLS、TVT、TRC等国际高水平SCI期刊发表学术论文二十余篇 (第一作者8篇，均为中科院1区期刊)，申请发明专利6项。科研能力得到了国内外专家的认可，获得了北京自动化学会“优秀研究生”、博士生“国家奖学金”等多项荣誉。 Feel free to contact me (zhangjw20@mails.tsinghua.edu.cn) if you are interested in my work.
+感谢关注！本人于2020年6月获得清华大学自动化专业工学学士学位。目前在清华大学自动化系攻读控制科学与工程博士学位，预计于2025年6月毕业。在自动驾驶和智能汽车领域，本人取得了多项科研成果，涵盖了系统、模型、算法、仿真和测试等多个方向，在IEEE TITS、TIV、TNNLS、TVT、TRC等国际高水平SCI期刊发表学术论文二十余篇 (第一作者8篇，均为中科院1区期刊)，申请发明专利6项。科研能力得到了国内外专家的认可，获得了北京自动化学会“优秀研究生”、博士生“国家奖学金”等多项荣誉。 本人邮箱：zhangjw20@mails.tsinghua.edu.cn.
 {style="text-align: justify;"}
