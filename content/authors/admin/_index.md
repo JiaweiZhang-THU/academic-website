@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Candidate at Tsinghua University
+role: 清华大学博士研究生
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Tsinghua University
+  - name: 清华大学
     url: https://www.tsinghua.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,11 +26,10 @@ bio: My research interests include intelligent transportation systems (ITS), aut
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Intelligent Transportation Systems (ITS)
-  - Intelligent Vehicles (IV)
-  - Autonomous Driving
-  - Deep Reinforcement Learning (DRL)
+  - 自动驾驶
+  - 智能汽车
+  - 智能交通系统
+  - 深度强化学习
 
 # Education to show in About widget
 education:
