@@ -64,38 +64,3 @@ slides: ""
 ## 研究工作4：自动驾驶BEV融合预测
   + Paper: [BEV-V2X: Cooperative Birds-Eye-View Fusion and Grid Occupancy Prediction via V2X-Based Data Sharing](https://ieeexplore.ieee.org/abstract/document/10179171)
 <img src=BEV.jpg  width=70% />
-
-## This project involves the following system components:
-
-+ ### Cooperative Driving at Intersection with Deep Learning Model
-
-  <img src="Intersection.gif" alt="Intersection" style="zoom:50%;" />
-
-  
-
-  + Paper: [Coordinating CAV Swarms at Intersections with A Deep Learning Model](https://jiaweizhang.netlify.app/publication/coordinating-cav-swarms-at-intersections-with-a-deep-learning-model/)
-  
-    ![avatar](./IntersectionModel.jpg)
-
----
-
-
-+ ### Multi-agent DRL based Lane-Change
-
-  <img src="LaneChange.gif" alt="LaneChange" style="zoom:50%;" />
-
-
-  + Paper: [Multi-Agent DRL-based Lane Change with Right-of-Way Collaboration Awareness](https://jiaweizhang.netlify.app/publication/multi-agent-drl-based-lane-change-with-right-of-way-collaboration-awareness/)
-
-    ![avatar](./LaneChangeModel.jpg)
-
----
-
-+ ### Fault-tolerant cooperative driving at signal-free intersections
-
-  <img src="faulteatIntersection.gif" alt="faulteatIntersection" style="zoom:120%;" />
-
-
-  + Paper: [Fault-tolerant cooperative driving at signal-free intersections](https://jiaweizhang.netlify.app/publication/fault-tolerant-cooperative-driving-at-signal-free-intersections/)
-
-    ![avatar](./faulteatIntersectionModel.jpg)
