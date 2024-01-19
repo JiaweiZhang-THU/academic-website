@@ -34,10 +34,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: 清华大学 控制科学与工程 博士生 (预计毕业时间2025.06)
+    - course: 清华大学 控制科学与工程专业 博士生
       institution: Tsinghua University
-      year: 2020--Now
-    - course: 清华大学 自动化专业 学士 (优秀毕业生)
+      year: 2020--Now (预计毕业时间2025.06)
+    - course: 清华大学 自动化专业 工学学士 (优秀毕业生)
       institution: Tsinghua University
       year: 2016-2020
 
