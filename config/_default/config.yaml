@@ -10,7 +10,7 @@ baseURL: 'https://jiaweizhang.netlify.app/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
