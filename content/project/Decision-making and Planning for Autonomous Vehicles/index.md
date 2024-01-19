@@ -28,9 +28,13 @@ links:
     icon_pack: fab
     name: Intersection
     url: https://jiaweizhang.netlify.app/publication/coordinating-cav-swarms-at-intersections-with-a-deep-learning-model/
+  - icon: route
+    icon_pack: fas
+    name: 自动驾驶路线规划
+    url: https://ieeexplore.ieee.org/abstract/document/10221733
   - icon: road
     icon_pack: fas
-    name: Lane-change
+    name: 自动驾驶换道决策
     url: https://jiaweizhang.netlify.app/publication/multi-agent-drl-based-lane-change-with-right-of-way-collaboration-awareness/
   - icon: car-burst
     icon_pack: fas
