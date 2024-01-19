@@ -21,7 +21,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: intersection
+  - icon: plus
     icon_pack: fas
     name: 车辆群体协同决策
     url: https://ieeexplore.ieee.org/abstract/document/10078727
