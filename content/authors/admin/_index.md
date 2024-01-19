@@ -22,7 +22,7 @@ organizations:
     url: https://www.tsinghua.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include intelligent transportation systems (ITS), autonomous driving, connected and automated vehicles (CAVs), and deep reinforcement learning (DRL).
+bio: 我的研究兴趣包括自动驾驶，智能汽车，智能交通系统，深度强化学习.
 
 # Interests to show in About widget
 interests:
@@ -69,7 +69,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: zhangjw20@mails.tsinghua.edu.cn
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
