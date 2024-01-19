@@ -10,28 +10,28 @@ main:
  # - name: Posts
  #   url: '#posts'
  #   weight: 20
-  - name: Projects
+  - name: 科研项目
     url: '#projects'
     weight: 30
  # - name: Talks
  #   url: '#talks'
  #   weight: 40
-  - name: Publications
+  - name: 科研成果
     url: '#JournalPapers'
     weight: 50
-  - name: Experience
+  - name: 教育背景
     url: '#experience'
     weight: 51
-  - name: Services
+  - name: 学术服务
     url: '#services'
     weight: 52
-  - name: Awards
+  - name: 荣誉
     url: '#awards'
     weight: 53
-  - name: Contact
+  - name: 联系方式
     url: '#contact'
     weight: 60
-  - name: CV
+  - name: 个人简历
     url: uploads/resume.pdf
     weight: 70
 
