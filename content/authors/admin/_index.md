@@ -34,10 +34,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Control Science and Engineering
+    - course: 清华大学 控制科学与工程 博士生 (预计毕业时间2025.06)
       institution: Tsinghua University
       year: 2020--Now
-    - course: B.S. degree from the Department of Automation
+    - course: 清华大学 自动化专业 学士 (优秀毕业生)
       institution: Tsinghua University
       year: 2016-2020
 
