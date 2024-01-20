@@ -23,7 +23,7 @@ links:
     icon_pack: fas
     name: 自动驾驶仿真平台
     url: https://ieeexplore.ieee.org/abstract/document/10124078
-  - icon: car-side
+  - icon: truck-fast
     icon_pack: fas
     name: 自动驾驶实车系统
     url: https://github.com/JiaweiZhang-THU/CAVSim
