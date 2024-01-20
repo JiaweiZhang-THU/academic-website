@@ -8,6 +8,7 @@ tags:
   - 实车系统
   - 智能网联汽车
   - 场景生成
+
 date: '2022-12-23T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -18,17 +19,26 @@ image:
   focal_point: Smart
 
 links:
-  - icon: github
-    icon_pack: fab
-    name: Star
+  - icon: network-wired
+    icon_pack: fas
+    name: 自动驾驶仿真平台
+    url: https://ieeexplore.ieee.org/abstract/document/10124078
+  - icon: car-side
+    icon_pack: fas
+    name: 自动驾驶实车系统
     url: https://github.com/JiaweiZhang-THU/CAVSim
-  - icon: researchgate
-    icon_pack: fab
-    name: Follow
-    url: https://www.researchgate.net/publication/370731657_CAVSim_A_Microscopic_Traffic_Simulator_for_Evaluation_of_Connected_and_Automated_Vehicles
-    
-url_code: https://github.com/JiaweiZhang-THU/CAVSim
-url_pdf: https://ieeexplore.ieee.org/abstract/document/10124078
+  - icon: list-check
+    icon_pack: fas
+    name: 自动驾驶智能测试
+    url: https://ieeexplore.ieee.org/abstract/document/10130026
+  - icon: car
+    icon_pack: car-on
+    name: 自动驾驶场景生成
+    url: https://ieeexplore.ieee.org/abstract/document/10401017
+  
+
+url_code: ''
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
