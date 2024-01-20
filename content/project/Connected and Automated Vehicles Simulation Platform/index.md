@@ -31,8 +31,8 @@ links:
     icon_pack: fas
     name: 自动驾驶智能测试
     url: https://ieeexplore.ieee.org/abstract/document/10130026
-  - icon: car
-    icon_pack: car-on
+  - icon: truck-moving
+    icon_pack: fas
     name: 自动驾驶场景生成
     url: https://ieeexplore.ieee.org/abstract/document/10401017
   
