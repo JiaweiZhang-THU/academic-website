@@ -1,11 +1,13 @@
 ---
-title: CAVSim-Connected and Automated Vehicles Simulation Platform
-summary: A traffic simulator for connected and automated vehicles (CAVs).
+title: 自动驾驶技术仿真测试
+summary: 本项目重点研究自动驾驶仿真和测试相关课题，针对高级别智能驾驶系统仿真测试需求，研发了自动驾驶开源仿真平台，提出了自动驾驶智能测试方法和测试场景生成方法，并开发了自动驾驶实车系统，为高级别自动驾驶技术的研发、仿真、测试提供了平台与方法支撑。
+
 tags:
-  - Connected and Automated Vehicle
-  - Traffic Simulation
-  - Cooperative Driving
-  - Deep Reinforcement Learning
+  - 自动驾驶仿真
+  - 智能测试
+  - 实车系统
+  - 智能网联汽车
+  - 场景生成
 date: '2022-12-23T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
