@@ -6,11 +6,11 @@ event_url: ''
 
 location: Wowchemy HQ
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: ''
+  city: ''
   region: CA
-  postcode: '94305'
-  country: United States
+  postcode: ''
+  country: ''
 
 summary: 软件著作权
 abstract: ''
