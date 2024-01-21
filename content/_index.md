@@ -130,13 +130,13 @@ sections:
       items:
         - name: 科研&学业
           description: 【1】[北京自动化学会 “优秀研究生”](http://baachina.cn/html/page/notice/notice2022-12.html) <br /> 【2】清华大学综合优秀奖（2次) <br /> 【3】清华大学系统工程研究所学术优秀奖 <br />  【4】IEEE智能交通系统国际会议最佳学生论文奖 <br />  【5】清华大学自动化系“优秀毕业生” <br />  【6】清华大学自动化系“学业优秀奖”（2次）<br /> 【7】2019年悉尼 RoboCup 比赛获奖三项  <br />  【8】 2016年高考甘肃省武威市“理科状元”
-          icon: newspaper
+          icon: award
           icon_pack: fas
         - name: 奖学金
           description: 【1】[国家奖学金（博士生）] ()<br /> 【2】国家励志奖学金（3次）<br /> 【3】清华之友-宣城英才奖学金<br />  【4】清华之友-威海英才奖学金<br />  【5】清华大学自动化系HAGE奖学金（3次）
-          icon: building-columns
+          icon: trophy
           icon_pack: fas
-        - name: 其他奖励
+        - name: medal
           description: 【1】中国自动化学会审稿人证书 <br /> 【2】清华大学自动化系“社工优秀奖” 
           icon: person-chalkboard
           icon_pack: fas
