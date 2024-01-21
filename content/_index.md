@@ -133,7 +133,7 @@ sections:
           icon: award
           icon_pack: fas
         - name: 奖学金
-          description: 【1】[国家奖学金（研究生）] (http://www.moe.gov.cn/)<br /> 【2】国家励志奖学金（3次）<br /> 【3】清华之友-宣城英才奖学金<br />  【4】清华之友-威海英才奖学金<br />  【5】清华大学自动化系HAGE奖学金（3次）
+          description: 【1】[国家奖学金（研究生）](http://www.moe.gov.cn/)<br /> 【2】国家励志奖学金（3次）<br /> 【3】清华之友-宣城英才奖学金<br />  【4】清华之友-威海英才奖学金<br />  【5】清华大学自动化系HAGE奖学金（3次）
           icon: trophy
           icon_pack: fas
         - name: 其他奖励
