@@ -184,19 +184,13 @@ sections:
       columns: '1'
       view: compact
     
-  
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
     
   - block: markdown
     content:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="awards" >}}
+        {{< gallery album="awards" resize_options="250x250">}}
     design:
       columns: '1'
     
