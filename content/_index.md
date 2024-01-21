@@ -90,14 +90,14 @@ sections:
           date_start: '2020-08-01'
           date_end: ''
           description: '自动化系 控制科学与工程专业 预计毕业时间202506'
-        - title: Undergraduate Student
-          company: Tsinghua University
+        - title: 工学学士
+          company: 清华大学
           company_url: https://www.tsinghua.edu.cn/
           company_logo: org-Tsinghua
           location: Beijing
           date_start: '2016-08-01'
           date_end: '2020-07-01'
-          description: '自动化系 自动化专业专业 优秀毕业生'
+          description: '自动化系 自动化专业 优秀毕业生'
     
     design:
       columns: '2'
