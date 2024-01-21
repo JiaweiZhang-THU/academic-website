@@ -144,42 +144,6 @@ sections:
       columns: '1'
       view: compact
     
-  - block: accomplishments
-    id: awardss
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: '荣誉获奖'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2023
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-    items:
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2023-10-20'
-          description: ''
-          organization: Ministry of Education
-          organization_url: http://www.moe.gov.cn/
-          title: National Scholarship
-          url: https://www.tsinghua.edu.cn/
-        - certificate_url: http://www.baachina.cn/html/page/notice/notice2022-12.html
-          date_end: ''
-          date_start: '2022-12-01'
-          description: ''
-          organization: BEIJING ASSOCIATION OF AUTOMATION
-          organization_url: http://www.baachina.cn/index.html
-          title: Outstanding Ph.D Student
-          url: http://www.baachina.cn/html/page/notice/notice2022-12.html
-          icon: person-chalkboard
-          icon_pack: fas
-        
-    design:
-      columns: '2'
-      view: List
   
   - block: tag_cloud
     content:
