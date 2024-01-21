@@ -214,7 +214,7 @@ sections:
           url: https://www.tsinghua.edu.cn/
         
     design:
-      columns: '3'
+      columns: '1'
       view: List
   
   - block: tag_cloud
