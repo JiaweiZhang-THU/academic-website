@@ -193,10 +193,10 @@ sections:
     
   - block: markdown
     content:
-      title: Others
+      title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="awards" >}}
+        {{< gallery album="demo" >}}
     design:
       columns: '1'
     
