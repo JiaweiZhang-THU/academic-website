@@ -1,6 +1,6 @@
 ---
 # Display name
-title: **张嘉玮**
+title: 张嘉玮
 
 # Full name (for SEO)
 first_name: 嘉玮
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: **清华大学博士研究生**
+role: 清华大学博士研究生
 
 # Organizations/Affiliations to show in About widget
 organizations:
