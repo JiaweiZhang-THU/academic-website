@@ -49,6 +49,6 @@ categories:
 ## 主权项
 一种训练调度模型的方法,包括：待训练的调度模型对输入的每一辆待通过无信号交叉口的第一车辆的样本车辆状态信息进行嵌入处理,获得各第一车辆相应的高维状态向量；其中,所述高维状态向量的维度为预设维度；对获得的高维状态向量进行处理,获得每一辆第一车辆的关联关系信息；其中,所述关联关系信息包括每一辆第一车辆的：高维状态向量和该第一车辆与其他第一车辆的冲突和耦合关系信息,其他第一车辆为该第一车辆自身以外的其他车辆；根据获得的关联关系信息确定第一车辆的通行顺序信息；根据获得的通行顺序信息计算所有待通过无信号交叉口的第一车辆均通过无信号交叉口的延迟总和；根据计算出的延迟总和确定待训练的调度模型的参数。
 
-### [专利说明书](https://kns.cnki.net/kcms2/article/abstract?v=Epsgq4wCkk0Xh2jmtHk0yn5mIIDdkhxwlFDA37t5Dc00cKQiBYrOzqHi5iGxDKXT7xxU7qYMFhCn0SLPI3lx3Ok8fyMejP0X1lhSvuU9nloe2-yhEIfR1RB1uHI4XBbHwlnKTZFW7tI=&uniplatform=NZKPT&language=CHS)https://kns.cnki.net/kcms2/article/abstract?v=Epsgq4wCkk0Xh2jmtHk0yn5mIIDdkhxwlFDA37t5Dc00cKQiBYrOzqHi5iGxDKXT7xxU7qYMFhCn0SLPI3lx3Ok8fyMejP0X1lhSvuU9nloe2-yhEIfR1RB1uHI4XBbHwlnKTZFW7tI=&uniplatform=NZKPT&language=CHS
+### [专利说明书](https://kns.cnki.net/kcms2/article/abstract?v=Epsgq4wCkk0Xh2jmtHk0yn5mIIDdkhxwlFDA37t5Dc00cKQiBYrOzqHi5iGxDKXT7xxU7qYMFhCn0SLPI3lx3Ok8fyMejP0X1lhSvuU9nloe2-yhEIfR1RB1uHI4XBbHwlnKTZFW7tI=&uniplatform=NZKPT&language=CHS)
 
 
