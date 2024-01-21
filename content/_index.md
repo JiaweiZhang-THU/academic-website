@@ -53,7 +53,7 @@ sections:
         exclude_featured: true
       order: desc
     design:
-      columns: '2'
+      columns: '1'
       view: compact
   
   - block: collection
