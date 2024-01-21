@@ -66,13 +66,13 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
+      columns: '1'
       view: compact
     
   - block: experience
     id: experience
     content:
-      title: Experience
+      title: 教育背景
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2023
@@ -82,22 +82,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Ph.D Student
-          company: Tsinghua University
+        - title: 博士研究生
+          company: 清华大学
           company_url: https://www.tsinghua.edu.cn/
           company_logo: org-Tsinghua
-          location: Beijing
+          location: 中国北京
           date_start: '2020-08-01'
           date_end: ''
-          description: 'Pursuing the Ph.D. degree with the Department of Automation at Tsinghua University, Beijing, China'
-        - title: Undergraduate Student
-          company: Tsinghua University
+          description: '预计毕业时间2025年6月'
+        - title: 工学学士
+          company: 清华大学
           company_url: https://www.tsinghua.edu.cn/
           company_logo: org-Tsinghua
-          location: Beijing
+          location: 中国北京
           date_start: '2016-08-01'
           date_end: '2020-07-01'
-          description: 'Received the B.S. degree from Tsinghua University, Beijing, China, in 2020'
+          description: '优秀毕业生'
     design:
       columns: '2'
 
