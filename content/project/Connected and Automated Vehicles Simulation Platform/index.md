@@ -27,7 +27,7 @@ links:
     icon_pack: fas
     name: 自动驾驶实车系统
     url: https://github.com/JiaweiZhang-THU/CAVSim
-  - icon: list-check
+  - icon: road-circle-check
     icon_pack: fas
     name: 自动驾驶智能测试
     url: https://ieeexplore.ieee.org/abstract/document/10130026
