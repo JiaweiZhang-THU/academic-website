@@ -56,11 +56,11 @@ slides: ""
   + Paper 2: [CAVSim: A Microscope Traffic Simulator for Connected and Automated Vehicles Environment](https://ieeexplore.ieee.org/abstract/document/9922267)
   + Code: [CAVSim](https://github.com/JiaweiZhang-THU/CAVSim)
 <img src=CAVSim_Architecture.jpg  width=70% />
-<img src="Cooperative Driving at Signal-free Intersections_1.gif" alt="Cooperative Driving at Signal-free Intersections_1" style="zoom:50%;" />
+<img src="Cooperative Driving at Signal-free Intersections_1.gif" alt="Cooperative Driving at Signal-free Intersections_1" style="zoom:70%;" />
 
 ## 研究工作2：自动驾驶实车系统
     在国家智能汽车与智慧交通示范基地开展10辆智能网联汽车协同驾驶的实验验证工作
-<img src="RealVehicle.gif" alt="Autonomous driving real vehicle system" style="zoom:100%;" />
+<img src="RealVehicle.gif" alt="Autonomous driving real vehicle system" style="zoom:70%;" />
   
 ## 研究工作3：自动驾驶智能测试
   + Paper: [Heterogeneous driver modeling and corner scenarios sampling for automated vehicles testing](https://www.hindawi.com/journals/jat/2022/8655514/)
