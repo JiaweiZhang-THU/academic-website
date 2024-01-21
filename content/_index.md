@@ -187,7 +187,7 @@ sections:
     
   - block: markdown
     content:
-      title: Gallery
+      title: 获奖证书
       subtitle: ''
       text: |-
         {{< gallery album="awards" resize_options="250x250">}}
