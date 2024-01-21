@@ -1,9 +1,9 @@
 ---
-title: 训练调度模型的方法 装置 实现协同驾驶的方法及装置
+title:训练调度模型的方法 装置 实现协同驾驶的方法及装置
 subtitle:''
 
 # Summary for listings and search engines
-summary: 本文公开一种训练调度模型的方法、装置、实现协同驾驶的方法及装置.
+summary:本文公开一种训练调度模型的方法、装置、实现协同驾驶的方法及装置.
 
 # Link this post with a project
 projects: []
