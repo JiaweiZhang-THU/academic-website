@@ -1,8 +1,8 @@
 ---
 title: 驾驶场景数据框架软件
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: MetaScenario
+event_url: https://github.com/THU-changc17/MetaScenario
 
 location: Tsinghua University
 address:
