@@ -129,7 +129,7 @@ sections:
       title: 荣誉获奖
       items:
         - name: 科研学业
-          description: \1 北京自动化学会 “优秀研究生”(博士);\2 清华大学综合优秀奖（2次); 清华大学系统工程研究所学术优秀奖; IEEE智能交通系统国际会议最佳学生论文奖; 清华大学自动化系“优秀毕业生”; 清华大学自动化系“学业优秀奖”（2次）; 2019年悉尼 RoboCup 比赛获奖三项;  2016年高考甘肃省武威市“理科状元”
+          description: 【1】北京自动化学会 “优秀研究生” (博士); 【2】清华大学综合优秀奖（2次); 清华大学系统工程研究所学术优秀奖; IEEE智能交通系统国际会议最佳学生论文奖; 清华大学自动化系“优秀毕业生”; 清华大学自动化系“学业优秀奖”（2次）; 2019年悉尼 RoboCup 比赛获奖三项;  2016年高考甘肃省武威市“理科状元”
           icon: newspaper
           icon_pack: fas
         - name: 奖学金
@@ -142,7 +142,7 @@ sections:
           icon_pack: fas
     design:
       columns: '1'
-      view: List
+      view: compact
     
   - block: accomplishments
     id: awards
