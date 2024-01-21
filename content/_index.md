@@ -141,15 +141,15 @@ sections:
           date_end: ''
           date_start: '2023-10-20'
           description: ''
-          organization: 中华人民共和国教育部
+          organization: 中华人民共和国教育部 202310
           organization_url: http://www.moe.gov.cn/
           title: 国家奖学金
           url: http://www.moe.gov.cn/
         - certificate_url: http://www.baachina.cn/html/page/notice/notice2022-12.html
           date_end: ''
-          date_start: '2022-12-01'
+          date_start: ''
           description: ''
-          organization: 北京自动化学会
+          organization: 北京自动化学会 202212
           organization_url: http://www.baachina.cn/index.html
           title: 优秀研究生
           url: http://www.baachina.cn/html/page/notice/notice2022-12.html
@@ -157,7 +157,7 @@ sections:
           icon_pack: fas
         - certificate_url: ''
           date_end: ''
-          date_start: '2022-10-01'
+          date_start: ''
           description: ''
           organization: IEEE智能交通系统国际会议ITSC 2022
           organization_url: https://www.ieee-itsc2022.org/#/
@@ -166,9 +166,9 @@ sections:
           url: https://www.ieee-itsc2022.org/#/
         - certificate_url: ''
           date_end: ''
-          date_start: '2022-10-01'
+          date_start: ''
           description: 清华之友-宣城英才奖学金
-          organization: 清华大学
+          organization: 清华大学 202210
           organization_url: https://www.tsinghua.edu.cn/
           title: 清华大学综合优秀奖学金
           url: https://www.tsinghua.edu.cn/
@@ -176,7 +176,7 @@ sections:
           date_end: ''
           date_start: '2021-10-01'
           description: 清华之友-威海英才奖学金
-          organization: 清华大学
+          organization: 清华大学 202110
           organization_url: https://www.tsinghua.edu.cn/
           title: 清华大学综合优秀奖学金
           url: https://www.tsinghua.edu.cn/
@@ -184,15 +184,15 @@ sections:
           date_end: ''
           date_start: '2020-10-01'
           description: ''
-          organization: 清华大学自动化系
+          organization: 清华大学自动化系 202006
           organization_url: https://www.tsinghua.edu.cn/
           title: 优秀毕业生
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2019-10-01'
+          date_start: ''
           description: ''
-          organization: 中华人民共和国教育部
+          organization: 中华人民共和国教育部 201910
           organization_url: http://www.moe.gov.cn/
           title: 国家励志奖学金
           url: https://www.tsinghua.edu.cn/
@@ -200,7 +200,7 @@ sections:
           date_end: ''
           date_start: '2018-10-01'
           description: ''
-          organization: 中华人民共和国教育部
+          organization: 中华人民共和国教育部 201810
           organization_url: http://www.moe.gov.cn/
           title: 国家励志奖学金
           url: https://www.tsinghua.edu.cn/
@@ -208,7 +208,7 @@ sections:
           date_end: ''
           date_start: '2017-10-01'
           description: ''
-          organization: 中华人民共和国教育部
+          organization: 中华人民共和国教育部 201710
           organization_url: http://www.moe.gov.cn/
           title: 国家励志奖学金
           url: https://www.tsinghua.edu.cn/
