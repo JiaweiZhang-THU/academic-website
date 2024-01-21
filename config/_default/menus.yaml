@@ -25,7 +25,7 @@ main:
   - name: 学术服务
     url: '#services'
     weight: 52
-  - name: 荣誉
+  - name: 荣誉获奖
     url: '#awards'
     weight: 53
   - name: 联系方式
