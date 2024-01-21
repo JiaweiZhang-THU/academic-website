@@ -126,7 +126,7 @@ sections:
     id: awards
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Honors & Awards'
+      title: '荣誉获奖'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2023
@@ -140,18 +140,18 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2023-10-20'
-          description: ''
-          organization: Ministry of Education
+          description: 博士生国奖
+          organization: 中华人民共和国教育部
           organization_url: http://www.moe.gov.cn/
-          title: National Scholarship
-          url: https://www.tsinghua.edu.cn/
+          title: 国家奖学金
+          url: http://www.moe.gov.cn/
         - certificate_url: http://www.baachina.cn/html/page/notice/notice2022-12.html
           date_end: ''
           date_start: '2022-12-01'
           description: ''
-          organization: BEIJING ASSOCIATION OF AUTOMATION
+          organization: 北京自动化学会
           organization_url: http://www.baachina.cn/index.html
-          title: Outstanding Ph.D Student
+          title: 优秀研究生
           url: http://www.baachina.cn/html/page/notice/notice2022-12.html
           icon: person-chalkboard
           icon_pack: fas
