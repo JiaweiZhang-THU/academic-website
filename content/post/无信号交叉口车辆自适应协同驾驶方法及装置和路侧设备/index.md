@@ -4,7 +4,7 @@ subtitle: 已公开.
 
 
 # Summary for listings and search engines
-summary: 本专利公开了一种无信号交叉口车辆自适应协同驾驶方法及装置和路侧设备.
+summary: 一种无信号交叉口车辆自适应协同驾驶方法及装置和路侧设备.
 
 # Link this post with a project
 projects: []
