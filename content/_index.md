@@ -97,6 +97,18 @@ sections:
       view: compact
       columns: '2'
     
+  - block: collection
+    id: talks
+    content:
+      title: 科研成果
+      subtitle: 其他
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
+    
   - block: experience
     id: experience
     content:
