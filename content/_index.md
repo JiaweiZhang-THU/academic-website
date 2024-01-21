@@ -89,7 +89,7 @@ sections:
           location: 中国北京
           date_start: '2020-08-01'
           date_end: ''
-          description: '预计毕业时间2025年6月'
+          description: '自动化系 控制科学与工程专业 预计毕业时间2025年6月'
         - title: 工学学士
           company: 清华大学
           company_url: https://www.tsinghua.edu.cn/
@@ -97,25 +97,25 @@ sections:
           location: 中国北京
           date_start: '2016-08-01'
           date_end: '2020-07-01'
-          description: '优秀毕业生'
+          description: '自动化系 自动化专业 优秀毕业生'
     design:
       columns: '2'
 
   - block: features
     id: services
     content:
-      title: Services
+      title: 学术服务
       items:
-        - name: Reviewer for Journal
+        - name: 高水平期刊审稿人
           description: IEEE Transactions on Intelligent Transportation Systems, Transportation Research Part C-Emerging Technologies, IEEE Transactions on Intelligent Vehicles, IEEE Transactions on Automation Science and Engineering, IEEE Antennas and Wireless Propagation Letters, International Journal of Human-Computer Interaction, 自动化学报, 交通运输工程与信息学报
           icon: newspaper
           icon_pack: fas
-        - name: Reviewer for Conference
+        - name: 旗舰会议审稿人
           description: IEEE International Conference on Intelligent Transportation Systems-2022, IEEE International Conference on Intelligent Transportation Systems-2023; China Automation Conference-2022; China Automation Conference-2023
           icon: building-columns
           icon_pack: fas
-        - name: Teaching Assistant
-          description: Convex Optimization (2020, 2021; 2023)
+        - name: 清华大学助教
+          description: 3次担任清华大学研究生专业基础课《凸优化》课程助教 (2020, 2021; 2023)
           icon: person-chalkboard
           icon_pack: fas
     design:
