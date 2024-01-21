@@ -197,6 +197,8 @@ sections:
       subtitle: ''
       text: |-
         {{< gallery album="awards" >}}
+    design:
+      columns: '1'
     
   - block: contact
     id: contact
