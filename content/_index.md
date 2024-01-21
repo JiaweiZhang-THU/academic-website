@@ -144,6 +144,16 @@ sections:
           organization_url: http://www.moe.gov.cn/
           title: 国家奖学金
           url: http://www.moe.gov.cn/
+        - certificate_url: http://www.baachina.cn/html/page/notice/notice2022-12.html
+          date_end: Jan 2023
+          date_start: ''
+          description: ''
+          organization: 北京自动化学会
+          organization_url: http://www.baachina.cn/index.html
+          title: 优秀研究生
+          url: http://www.baachina.cn/html/page/notice/notice2022-12.html
+          icon: person-chalkboard
+          icon_pack: fas
         
     design:
       columns: '2'
