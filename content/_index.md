@@ -128,17 +128,13 @@ sections:
     content:
       title: 荣誉获奖
       items:
-        - name: 科研学业
-          description: 【1】北京自动化学会 “优秀研究生” (博士) <br /> 【2】清华大学综合优秀奖（2次) <br /> 【3】清华大学系统工程研究所学术优秀奖 <br />  【4】IEEE智能交通系统国际会议最佳学生论文奖 <br />  【5】清华大学自动化系“优秀毕业生” <br />  【6】清华大学自动化系“学业优秀奖”（2次） <br /> 【7】2019年悉尼 RoboCup 比赛获奖三项 <br />  【8】 2016年高考甘肃省武威市“理科状元”
+        - name: 科研&学业
+          description: 【1】北京自动化学会 “优秀研究生” (博士) <br /> 【2】清华大学综合优秀奖（2次) <br /> 【3】清华大学系统工程研究所学术优秀奖 <br />  【4】IEEE智能交通系统国际会议最佳学生论文奖 <br />  【5】清华大学自动化系“优秀毕业生” <br />  【6】清华大学自动化系“学业优秀奖”（2次）<br /> 【7】2019年悉尼 RoboCup 比赛获奖三项  <br />  【8】 2016年高考甘肃省武威市“理科状元”
           icon: newspaper
           icon_pack: fas
         - name: 奖学金
-          description: IEEE International Conference on Intelligent Transportation Systems-2022, IEEE International Conference on Intelligent Transportation Systems-2023; China Automation Conference-2022; China Automation Conference-2023
+          description: 【1】国家奖学金（博士生）<br /> 【2】国家励志奖学金（3次）<br /> 【3】清华之友-宣城英才奖学金<br />  【4】清华之友-威海英才奖学金<br />  【5】清华大学自动化系HAGE奖学金（3次）<br />  【6】清华大学自动化系“社工优秀奖”
           icon: building-columns
-          icon_pack: fas
-        - name: 其他奖项
-          description: 3次担任清华大学研究生专业基础课《凸优化》课程助教 (2020, 2021; 2023)
-          icon: person-chalkboard
           icon_pack: fas
     design:
       columns: '1'
