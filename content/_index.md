@@ -154,15 +154,15 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: 联系方式
       subtitle: Welcome to send emails to exchange.
       # Contact (add or remove contact options as necessary)
       email: zhangjw20@mails.tsinghua.edu.cn
       address:
-        street: Department of Automation, Tsinghua University
-        city: Beijing
+        street: [清华大学](https://www.tsinghua.edu.cn/) [自动化系](https://www.au.tsinghua.edu.cn/)
+        city: 北京
         postcode: '100084'
-        country: China
+        country: 中国
       office_hours:
         - 'Every day is Saturday, Saturday is a working day.'
       # Automatically link email and phone or display as text?
