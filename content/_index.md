@@ -133,8 +133,12 @@ sections:
           icon: newspaper
           icon_pack: fas
         - name: 奖学金
-          description: 【1】国家奖学金（博士生）<br /> 【2】国家励志奖学金（3次）<br /> 【3】清华之友-宣城英才奖学金<br />  【4】清华之友-威海英才奖学金<br />  【5】清华大学自动化系HAGE奖学金（3次）<br />  【6】清华大学自动化系“社工优秀奖”
+          description: 【1】国家奖学金（博士生）<br /> 【2】国家励志奖学金（3次）<br /> 【3】清华之友-宣城英才奖学金<br />  【4】清华之友-威海英才奖学金<br />  【5】清华大学自动化系HAGE奖学金（3次）
           icon: building-columns
+          icon_pack: fas
+        - name: 其他奖励
+          description: 【1】中国自动化学会审稿人证书 <br /> 【2】清华大学自动化系“社工优秀奖” 
+          icon: person-chalkboard
           icon_pack: fas
     design:
       columns: '1'
