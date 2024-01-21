@@ -44,7 +44,7 @@ image:
   focal_point: Right
 
 links:
-  - icon: book
+  - icon: book-open-reader
     icon_pack: fab
     name: book
     url: https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?contentId=13434933&siteId=14&contentType=literature
