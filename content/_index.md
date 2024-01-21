@@ -190,7 +190,7 @@ sections:
       title: 获奖证书
       subtitle: ''
       text: |-
-        {{< gallery album="awards" resize_options="100x300">}}
+        {{< gallery album="awards">}}
     design:
       columns: '1'
     
