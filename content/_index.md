@@ -126,10 +126,10 @@ sections:
   - block: features
     id: services
     content:
-      title: 科研获奖
+      title: 荣誉获奖
       items:
-        - name: 科研荣誉
-          description: IEEE Transactions on Intelligent Transportation Systems, Transportation Research Part C-Emerging Technologies, IEEE Transactions on Intelligent Vehicles, IEEE Transactions on Automation Science and Engineering, IEEE Antennas and Wireless Propagation Letters, International Journal of Human-Computer Interaction, 自动化学报, 交通运输工程与信息学报
+        - name: 科研学业
+          description: [1]北京自动化学会 “优秀研究生”(博士); [2] 清华大学综合优秀奖（2次); [3] 清华大学系统工程研究所学术优秀奖; [4]IEEE智能交通系统国际会议最佳学生论文奖; [5] 清华大学自动化系“优秀毕业生”; [6] 清华大学自动化系“学业优秀奖”（2次）; [7]2019年悉尼 RoboCup 比赛获奖三项; [8] 2016年高考甘肃省武威市“理科状元”
           icon: newspaper
           icon_pack: fas
         - name: 奖学金
