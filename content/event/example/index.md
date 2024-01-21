@@ -6,14 +6,14 @@ event_url: https://example.org
 
 location: Tsinghua University
 address:
-  street: 450 Serra Mall
+  street: Qinghuayuan
   city: Beijing
   region: Haidian
   postcode: '100089'
   country: China
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Software copyright.
+abstract: 'MetaScenario is a unified framework for driving scenario data. We describe driving scenarios and design the centralized and unified data framework for storage, processing, and indexing of scenario data based on relational database.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -24,7 +24,12 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: []
+authors:
+  - 李力
+  - 常成
+  - admin
+  - 彭心宇
+  - 陈振武
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -35,10 +40,10 @@ image:
   focal_point: Right
 
 links:
-  - icon: twitter
+  - icon: github
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+    name: Star
+    url: https://github.com/THU-changc17/MetaScenario
 url_code: ''
 url_pdf: ''
 url_slides: ''
