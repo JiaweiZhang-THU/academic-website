@@ -115,8 +115,8 @@ sections:
           description: 【1】IEEE International Conference on Intelligent Transportation Systems-2022<br /> 【2】IEEE International Conference on Intelligent Transportation Systems-2023<br /> 【3】China Automation Conference-2022<br /> 【4】China Automation Conference-2023<br /> 【5】International Conference on Computer Big Data and Artificial Intelligence-2023<br /> 【6】 International Conference on Artificial Intelligence, Human-Computer Interaction and Robotics
           icon: building-columns
           icon_pack: fas
-        - name: 清华大学助教
-          description: 3次担任清华大学研究生专业基础课《凸优化》课程助教 (2020, 2021; 2023)
+        - name: 助研助教
+          description: 【1】清华大学研究生专业基础课《凸优化》课程助教 (3次，2020, 2021; 2023)<br /> 【2】清华大学博士助研<br /> 【3】重点研发项目助研
           icon: person-chalkboard
           icon_pack: fas
     design:
