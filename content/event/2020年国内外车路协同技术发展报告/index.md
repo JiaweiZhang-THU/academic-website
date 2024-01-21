@@ -68,5 +68,5 @@ slides: ''
 projects: []
 ---
 
-所属图书：[中国自动驾驶产业发展报告（2021）](https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=13432859)https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=13432859
+所属图书：[中国自动驾驶产业发展报告（2021）](https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=13432859)
 <img src=book.jpg  width=70% />
