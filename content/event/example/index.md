@@ -8,7 +8,7 @@ location: Wowchemy HQ
 address:
   street: ''
   city: ''
-  region: CA
+  region: ''
   postcode: ''
   country: ''
 
