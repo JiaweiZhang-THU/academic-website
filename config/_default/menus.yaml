@@ -18,7 +18,7 @@ main:
  #   weight: 40
   - name: 科研成果(论文)
     url: '#JournalPapers'
-    weight: 50
+    weight: 49
   - name: 科研成果(专利)
     url: '#posts'
     weight: 50
