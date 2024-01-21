@@ -45,8 +45,8 @@ sections:
   - block: collection
     id: JournalPapers
     content:
-      title: Publications
-      subtitle: Journal article
+      title: 科研成果
+      subtitle: 期刊论文
       filters:
         folders:
           - publication
@@ -59,8 +59,8 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Publications
-      subtitle: Conference paper
+      title: 科研成果
+      subtitle: 会议论文
       filters:
         folders:
           - publication
@@ -68,6 +68,7 @@ sections:
     design:
       columns: '2'
       view: compact
+    
   - block: experience
     id: experience
     content:
