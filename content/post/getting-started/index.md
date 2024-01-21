@@ -1,6 +1,6 @@
 ---
-title: Welcome to Hugo Blox Builder, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: 训练调度模型的方法、装置、实现协同驾驶的方法及装置
+subtitle: 已授权.
 
 
 # Summary for listings and search engines
