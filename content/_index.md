@@ -140,7 +140,7 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2023-10-20'
-          description: 博士生国奖
+          description: ''
           organization: 中华人民共和国教育部
           organization_url: http://www.moe.gov.cn/
           title: 国家奖学金
@@ -159,58 +159,58 @@ sections:
           date_end: ''
           date_start: '2022-10-01'
           description: ''
-          organization: IEEE ITSC 2022
+          organization: IEEE智能交通系统国际会议ITSC 2022
           organization_url: https://www.ieee-itsc2022.org/#/
           organization_logo: org-Tsinghua
-          title: Best Student Paper Award
+          title: 最佳学生论文奖
           url: https://www.ieee-itsc2022.org/#/
         - certificate_url: ''
           date_end: ''
           date_start: '2022-10-01'
-          description: Tsinghua-Xuancheng Scholarship
-          organization: Tsinghua University
+          description: 清华之友-宣城英才奖学金
+          organization: 清华大学
           organization_url: https://www.tsinghua.edu.cn/
-          title: Excellent Comprehensive Scholarship of Tsinghua University
+          title: 清华大学综合优秀奖学金
           url: https://www.tsinghua.edu.cn/
         - certificate_url: ''
           date_end: ''
           date_start: '2021-10-01'
-          description: Tsinghua-Weihai Scholarship
-          organization: Tsinghua University
+          description: 清华之友-威海英才奖学金
+          organization: 清华大学
           organization_url: https://www.tsinghua.edu.cn/
-          title: Excellent Comprehensive Scholarship of Tsinghua University
+          title: 清华大学综合优秀奖学金
           url: https://www.tsinghua.edu.cn/
         - certificate_url: ''
           date_end: ''
           date_start: '2020-10-01'
           description: ''
-          organization: Department of Automation, Tsinghua University
+          organization: 清华大学自动化系
           organization_url: https://www.tsinghua.edu.cn/
-          title: Outstanding Graduates
+          title: 优秀毕业生
           url: ''
         - certificate_url: ''
           date_end: ''
           date_start: '2019-10-01'
           description: ''
-          organization: Ministry of Education
+          organization: 中华人民共和国教育部
           organization_url: http://www.moe.gov.cn/
-          title: National Encouragement Scholarship
+          title: 国家励志奖学金
           url: https://www.tsinghua.edu.cn/
         - certificate_url: ''
           date_end: ''
           date_start: '2018-10-01'
           description: ''
-          organization: Ministry of Education
+          organization: 中华人民共和国教育部
           organization_url: http://www.moe.gov.cn/
-          title: National Encouragement Scholarship
+          title: 国家励志奖学金
           url: https://www.tsinghua.edu.cn/
         - certificate_url: ''
           date_end: ''
           date_start: '2017-10-01'
           description: ''
-          organization: Ministry of Education
+          organization: 中华人民共和国教育部
           organization_url: http://www.moe.gov.cn/
-          title: National Encouragement Scholarship
+          title: 国家励志奖学金
           url: https://www.tsinghua.edu.cn/
         
     design:
