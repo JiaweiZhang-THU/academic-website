@@ -49,60 +49,26 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-[CAVSim](https://github.com/JiaweiZhang-THU/CAVSim) is a microscopic traffic simulator for the CAV environment. The framework of CAVSim is consistent with the realistic CAV environment, including module decomposition, road segmentation, computing task allocation, which can be conveniently used to deploy and test the cooperative driving methods at different levels about CAVs. Meanwhile, CAVSim emphasizes the critical properties and driving behaviors of CAVs and is dedicated to capturing the characteristics of CAVs and their impact on traffic flow. Modular development makes CAVSim have good scalability, which can simulate typical local traffic scenarios, and can also simulate large-scale network-wide traffic through reasonable splicing of road blocks. With CAVSim, users can conduct various traffic and vehicle simulations related to CAVs. Finally, CAVSim is an evolving project, and we will further refine and enhance it next. In particular, we will develop more benchmarking algorithms in CAVSim to promote the development of CAV with a unified platform.
-
-## The overall framework of CAVSim.
-![avatar](./Architecture.jpg)
-
----
-#### **Lane Change at Straight Lane**
-  <img src="Straight Lane.gif" alt="Straight Lane" style="zoom:90%;" />
-
----
-#### **Cooperative Driving at Signal-free Intersections**
-
-  <img src="Cooperative Driving at Signal-free Intersections_1.gif" alt="Cooperative Driving at Signal-free Intersections_1" style="zoom:90%;" />
-
----
-#### **Multi-Vehicle Merging at On-ramps**
-
-  <img src="Multi-CAV Merging at On-ramps.gif" alt="Multi-CAV Merging at On-ramps" style="zoom:80%;" />
 
 
----
-#### **Simulation of Road Network Traffic**
+## 研究工作1：自动驾驶仿真平台
+  + Paper 1: [CAVSim: A Microscopic Traffic Simulator for Evaluation of Connected and Automated Vehicles](https://ieeexplore.ieee.org/abstract/document/10124078)
+  + Paper 2: [CAVSim: A Microscope Traffic Simulator for Connected and Automated Vehicles Environment](https://ieeexplore.ieee.org/abstract/document/9922267)
+  + Code: [CAVSim](https://github.com/JiaweiZhang-THU/CAVSim)
+<img src=CAVSim_Architecture.jpg  width=70% />
 
-  <img src="Network-wide Traffic Simualtion.gif" alt="Network-wide Traffic Simualtion" style="zoom:100%;" />
+## 研究工作2：自动驾驶实车系统
+    在国家智能汽车与智慧交通示范基地开展10辆智能网联汽车协同驾驶的实验验证工作
+<img src=RealVehicle.jpg  width=70% />
+  
+## 研究工作3：自动驾驶智能测试
+  + Paper: [Heterogeneous driver modeling and corner scenarios sampling for automated vehicles testing](https://www.hindawi.com/journals/jat/2022/8655514/)
+  + Paper: [Autonomous Vehicles Testing Considering Utility-Based Operable Tasks](https://ieeexplore.ieee.org/abstract/document/10130026)
+<img src=Testing.jpg  width=70% />
 
+<img src="Cooperative Driving at Signal-free Intersections_1.gif" alt="Cooperative Driving at Signal-free Intersections_1" style="zoom:50%;" />
 
----
+## 研究工作4：自动驾驶场景生成
+  + Paper: [Task-Driven Controllable Scenario Generation Framework Based on AOG](https://ieeexplore.ieee.org/abstract/document/10401017)
+<img src=ScenarioGeneration.jpg  width=70% />
 
-## Related Papers
-+ [CAVSim: A Microscopic Traffic Simulator for Evaluation of Connected and Automated Vehicles](https://jiaweizhang.netlify.app/publication/cavsim-a-microscopic-traffic-simulator-for-evaluation-of-connected-and-automated-vehicles/)
-
-#### Citation
-```
-@ARTICLE{Zhang2023CAVSim,
-  title={CAVSim: A Microscopic Traffic Simulator for Evaluation of Connected and Automated Vehicles},
-  author={Zhang, Jiawei and Chang, Cheng and He, Zimin and Zhong, Wenqin and Yao, Danya and Li, Shen and Li, Li},
-  journal={IEEE Transactions on Intelligent Transportation Systems},
-  year={2023},
-  pages={1-17},
-  doi={10.1109/TITS.2023.3273565},
-  publisher={IEEE}
-}
-```
-+ [CAVSim: A Microscope Traffic Simulator for Connected and Automated Vehicles Environment](https://jiaweizhang.netlify.app/publication/cavsim-a-microscope-traffic-simulator-for-connected-and-automated-vehicles-environment/)
-
-#### Citation
-```
-@INPROCEEDINGS{Zhang2022CAVSim,
-  author={Zhang, Jiawei and Chang, Cheng and Pei, Huaxin and Peng, Xinyu and Guo, Yuqing and Lian, Renzong and Chen, Zhenwu and Li, Li},
-  booktitle={2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)}, 
-  title={CAVSim: A Microscope Traffic Simulator for Connected and Automated Vehicles Environment}, 
-  year={2022},
-  pages={3719-3724},
-  doi={10.1109/ITSC55140.2022.9922267},
-  publisher={IEEE}
-}
-```
