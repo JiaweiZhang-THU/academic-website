@@ -145,6 +145,73 @@ sections:
           organization_url: http://www.moe.gov.cn/
           title: 国家奖学金
           url: http://www.moe.gov.cn/
+        - certificate_url: http://www.baachina.cn/html/page/notice/notice2022-12.html
+          date_end: ''
+          date_start: ''
+          description: ''
+          organization: 北京自动化学会
+          organization_url: http://www.baachina.cn/index.html
+          title: 优秀研究生
+          url: http://www.baachina.cn/html/page/notice/notice2022-12.html
+          icon: person-chalkboard
+          icon_pack: fas
+        - certificate_url: ''
+          date_end: ''
+          date_start: ''
+          description: ''
+          organization: IEEE智能交通系统国际会议ITSC2022
+          organization_url: https://www.ieee-itsc2022.org/#/
+          organization_logo: org-Tsinghua
+          title: 最佳学生论文奖
+          url: https://www.ieee-itsc2022.org/#/
+        - certificate_url: ''
+          date_end: ''
+          date_start: ''
+          description: 清华之友-宣城英才奖学金
+          organization: 清华大学
+          organization_url: https://www.tsinghua.edu.cn/
+          title: 清华大学综合优秀奖学金
+          url: https://www.tsinghua.edu.cn/
+        - certificate_url: ''
+          date_end: ''
+          date_start: ''
+          description: 清华之友-威海英才奖学金
+          organization: 清华大学
+          organization_url: https://www.tsinghua.edu.cn/
+          title: 清华大学综合优秀奖学金
+          url: https://www.tsinghua.edu.cn/
+        - certificate_url: ''
+          date_end: ''
+          date_start: ''
+          description: ''
+          organization: 清华大学自动化系 202006
+          organization_url: https://www.tsinghua.edu.cn/
+          title: 优秀毕业生
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: ''
+          description: ''
+          organization: 中华人民共和国教育部
+          organization_url: http://www.moe.gov.cn/
+          title: 国家励志奖学金
+          url: https://www.tsinghua.edu.cn/
+        - certificate_url: ''
+          date_end: ''
+          date_start: ''
+          description: ''
+          organization: 中华人民共和国教育部
+          organization_url: http://www.moe.gov.cn/
+          title: 国家励志奖学金
+          url: https://www.tsinghua.edu.cn/
+        - certificate_url: ''
+          date_end: ''
+          date_start: ''
+          description: ''
+          organization: 中华人民共和国教育部
+          organization_url: http://www.moe.gov.cn/
+          title: 国家励志奖学金
+          url: https://www.tsinghua.edu.cn/
         
     design:
       columns: '2'
