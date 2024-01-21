@@ -191,6 +191,13 @@ sections:
     design:
       columns: '2'
     
+  - block: markdown
+    content:
+      title: Others
+      subtitle: ''
+      text: |-
+        {{< gallery album="awards" >}}
+    
   - block: contact
     id: contact
     content:
