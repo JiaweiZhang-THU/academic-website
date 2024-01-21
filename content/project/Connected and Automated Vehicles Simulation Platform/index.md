@@ -61,6 +61,7 @@ slides: ""
 ## 研究工作2：自动驾驶实车系统
     在国家智能汽车与智慧交通示范基地开展10辆智能网联汽车协同驾驶的实验验证工作
 <img src=RealVehicle.jpg  width=70% />
+<img src="RealVehicle.gif" alt="Autonomous driving real vehicle system" style="zoom:50%;" />
   
 ## 研究工作3：自动驾驶智能测试
   + Paper: [Heterogeneous driver modeling and corner scenarios sampling for automated vehicles testing](https://www.hindawi.com/journals/jat/2022/8655514/)
