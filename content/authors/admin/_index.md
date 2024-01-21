@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 张嘉玮
+title: **张嘉玮**
 
 # Full name (for SEO)
 first_name: 嘉玮
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 清华大学博士研究生
+role: **清华大学博士研究生**
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -75,5 +75,5 @@ email: zhangjw20@mails.tsinghua.edu.cn
 highlight_name: true
 ---
 
-感谢关注！本人于2020年6月获得清华大学自动化专业工学学士学位。目前在[清华大学](https://www.tsinghua.edu.cn/)[自动化系](https://www.au.tsinghua.edu.cn/)攻读控制科学与工程博士学位，预计于2025年6月毕业。在自动驾驶和智能汽车方向取得了多项科研成果，在[IEEE TITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)、TIV、TNNLS、TVT、TRC等国际高水平SCI期刊发表学术论文二十余篇 (第一作者7篇，均为中科院1区期刊)，申请发明专利6项。科研成果得到了国内外专家的认可，获得了北京自动化学会“优秀研究生”、博士生“国家奖学金”等多项荣誉。 邮箱：zhangjw20@mails.tsinghua.edu.cn.
+感谢关注！本人于2020年毕业于[清华大学](https://www.tsinghua.edu.cn/)自动化专业获得工学学士学位，同年免试推荐至清华大学自动化系攻读博士学位，目前为控制科学与工程专业博士四年级，预计于2025年6月毕业。在自动驾驶和智能汽车方向取得了多项科研成果，在[IEEE TITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)、[TIV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)、[TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)、[TVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25)、[TRC](https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies)等国际高水平SCI期刊发表学术论文二十余篇 (**第一作者6篇，均为中科院1区和JCR Q1区期刊**)，申请发明专利6项。科研成果得到了国内外专家的认可，获得了**北京自动化学会优秀研究生**、**研究生国家奖学金**等多项荣誉。 邮箱：[zhangjw20@mails.tsinghua.edu.cn](zhangjw20@mails.tsinghua.edu.cn).
 {style="text-align: justify;"}
