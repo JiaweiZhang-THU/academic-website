@@ -159,10 +159,10 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: zhangjw20@mails.tsinghua.edu.cn
       address:
-        street: [清华大学](https://www.tsinghua.edu.cn/) [自动化系](https://www.au.tsinghua.edu.cn/)
-        city: 北京
+        street: [清华大学](https://www.tsinghua.edu.cn/)[自动化系](https://www.au.tsinghua.edu.cn/)
+        city: Beijing
         postcode: '100084'
-        country: 中国
+        country: China
       office_hours:
         - 'Every day is Saturday, Saturday is a working day.'
       # Automatically link email and phone or display as text?
