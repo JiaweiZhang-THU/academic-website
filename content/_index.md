@@ -108,11 +108,11 @@ sections:
       title: 学术服务
       items:
         - name: 高水平期刊审稿人
-          description: IEEE Transactions on Intelligent Transportation Systems, Transportation Research Part C-Emerging Technologies, IEEE Transactions on Intelligent Vehicles, IEEE Transactions on Automation Science and Engineering, IEEE Antennas and Wireless Propagation Letters, International Journal of Human-Computer Interaction, 自动化学报, 交通运输工程与信息学报
+          description: 【1】IEEE Transactions on Intelligent Transportation Systems<br /> 【2】Transportation Research Part C-Emerging Technologies<br /> 【3】IEEE Transactions on Intelligent Vehicles<br /> 【4】IEEE Transactions on Automation Science and Engineering<br /> 【5】IEEE Antennas and Wireless Propagation Letters<br /> 【6】International Journal of Human-Computer Interaction<br /> 【7】自动化学报<br /> 【8】交通运输工程与信息学报
           icon: newspaper
           icon_pack: fas
         - name: 旗舰会议审稿人
-          description: IEEE International Conference on Intelligent Transportation Systems-2022, IEEE International Conference on Intelligent Transportation Systems-2023; China Automation Conference-2022; China Automation Conference-2023
+          description: 【1】IEEE International Conference on Intelligent Transportation Systems-2022<br /> 【2】IEEE International Conference on Intelligent Transportation Systems-2023<br /> 【3】China Automation Conference-2022<br /> 【4】China Automation Conference-2023<br /> 【5】International Conference on Computer Big Data and Artificial Intelligence-2023<br /> 【6】 International Conference on Artificial Intelligence, Human-Computer Interaction and Robotics
           icon: building-columns
           icon_pack: fas
         - name: 清华大学助教
