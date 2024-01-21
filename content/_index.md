@@ -108,7 +108,7 @@ sections:
       title: 学术服务
       items:
         - name: 高水平期刊审稿人
-          description: 【1】IEEE Transactions on Intelligent Transportation Systems<br /> 【2】Transportation Research Part C-Emerging Technologies<br /> 【3】IEEE Transactions on Intelligent Vehicles<br /> 【4】IEEE Transactions on Automation Science and Engineering<br /> 【5】IEEE Antennas and Wireless Propagation Letters<br /> 【6】International Journal of Human-Computer Interaction<br /> 【7】自动化学报<br /> 【8】交通运输工程与信息学报
+          description: 【1】[IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)<br /> 【2】[Transportation Research Part C-Emerging Technologies](https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies)<br /> 【3】[IEEE Transactions on Intelligent Vehicles](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)<br /> 【4】[IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856)<br /> 【5】[IEEE Antennas and Wireless Propagation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7727)<br /> 【6】[International Journal of Human-Computer Interaction](https://www.tandfonline.com/toc/hihc20/current)<br /> 【7】[自动化学报](http://www.aas.net.cn/)<br /> 【8】[交通运输工程与信息学报](https://jtgc.cbpt.cnki.net/EditorDN/Quit.aspx) <br /> 【9】[IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25)
           icon: newspaper
           icon_pack: fas
         - name: 旗舰会议审稿人
@@ -133,7 +133,7 @@ sections:
           icon: award
           icon_pack: fas
         - name: 奖学金
-          description: 【1】[国家奖学金（博士生）] ()<br /> 【2】国家励志奖学金（3次）<br /> 【3】清华之友-宣城英才奖学金<br />  【4】清华之友-威海英才奖学金<br />  【5】清华大学自动化系HAGE奖学金（3次）
+          description: 【1】[国家奖学金（研究生）] (http://www.moe.gov.cn/)<br /> 【2】国家励志奖学金（3次）<br /> 【3】清华之友-宣城英才奖学金<br />  【4】清华之友-威海英才奖学金<br />  【5】清华大学自动化系HAGE奖学金（3次）
           icon: trophy
           icon_pack: fas
         - name: 其他奖励
