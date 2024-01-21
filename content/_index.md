@@ -34,7 +34,7 @@ sections:
         - name: 智能网联汽车
           tag: 智能网联汽车
         - name: 智能驾驶仿真测试
-          tag: 自动驾驶测试
+          tag: 自动驾驶仿真
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
