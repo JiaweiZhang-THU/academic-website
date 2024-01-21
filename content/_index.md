@@ -159,7 +159,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: zhangjw20@mails.tsinghua.edu.cn
       address:
-        street: [清华大学](https://www.tsinghua.edu.cn/)[自动化系](https://www.au.tsinghua.edu.cn/)
+        street: 清华大学自动化系
         city: Beijing
         postcode: '100084'
         country: China
