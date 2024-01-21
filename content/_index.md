@@ -159,20 +159,20 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
     items:
         - certificate_url: ''
-          date_end: Jan 2023
-          date_start: Feb 2023
+          date_end: ''
+          date_start: '2023-10-20'
           description: ''
-          organization: 中华人民共和国教育部
+          organization: Ministry of Education
           organization_url: http://www.moe.gov.cn/
-          title: 国家奖学金
-          url: http://www.moe.gov.cn/
+          title: National Scholarship
+          url: https://www.tsinghua.edu.cn/
         - certificate_url: http://www.baachina.cn/html/page/notice/notice2022-12.html
-          date_end: Jan 2023
-          date_start: ''
+          date_end: ''
+          date_start: '2022-12-01'
           description: ''
-          organization: 北京自动化学会
+          organization: BEIJING ASSOCIATION OF AUTOMATION
           organization_url: http://www.baachina.cn/index.html
-          title: 优秀研究生
+          title: Outstanding Ph.D Student
           url: http://www.baachina.cn/html/page/notice/notice2022-12.html
           icon: person-chalkboard
           icon_pack: fas
