@@ -112,7 +112,7 @@ sections:
           icon: newspaper
           icon_pack: fas
         - name: 旗舰会议审稿人
-          description: 【1】IEEE International Conference on Intelligent Transportation Systems-2022<br /> 【2】IEEE International Conference on Intelligent Transportation Systems-2023<br /> 【3】China Automation Conference-2022<br /> 【4】China Automation Conference-2023<br /> 【5】International Conference on Computer Big Data and Artificial Intelligence-2023<br /> 【6】 International Conference on Artificial Intelligence, Human-Computer Interaction and Robotics
+          description: 【1】[IEEE International Conference on Intelligent Transportation Systems-2022](https://www.ieee-itsc2022.org/#/)<br /> 【2】[IEEE International Conference on Intelligent Transportation Systems-2023](https://2023.ieee-itsc.org/)<br /> 【3】China Automation Conference-2022<br /> 【4】[China Automation Conference-2023](https://www.cac2022.org.cn/)<br /> 【5】[International Conference on Computer Big Data and Artificial Intelligence-2023](http://www.iccbdai.org/)<br /> 【6】[International Conference on Artificial Intelligence, Human-Computer Interaction and Robotics](http://www.aihcir.org/)
           icon: building-columns
           icon_pack: fas
         - name: 助研助教
