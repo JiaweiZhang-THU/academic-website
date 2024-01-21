@@ -124,7 +124,7 @@ sections:
       view: List
     
   - block: features
-    id: services
+    id: awards
     content:
       title: 荣誉获奖
       items:
@@ -145,7 +145,7 @@ sections:
       view: compact
     
   - block: accomplishments
-    id: awards
+    id: awardss
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: '荣誉获奖'
