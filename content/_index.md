@@ -135,6 +135,15 @@ sections:
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+    items:
+        - certificate_url: ''
+          date_end: Jan 2023
+          date_start: Feb 2023
+          description: ''
+          organization: 中华人民共和国教育部
+          organization_url: http://www.moe.gov.cn/
+          title: 国家奖学金
+          url: http://www.moe.gov.cn/
         
     design:
       columns: '2'
