@@ -125,6 +125,27 @@ sections:
       columns: '2'
       view: List
     
+  - block: features
+    id: services
+    content:
+      title: 科研获奖
+      items:
+        - name: 科研荣誉
+          description: IEEE Transactions on Intelligent Transportation Systems, Transportation Research Part C-Emerging Technologies, IEEE Transactions on Intelligent Vehicles, IEEE Transactions on Automation Science and Engineering, IEEE Antennas and Wireless Propagation Letters, International Journal of Human-Computer Interaction, 自动化学报, 交通运输工程与信息学报
+          icon: newspaper
+          icon_pack: fas
+        - name: 奖学金
+          description: IEEE International Conference on Intelligent Transportation Systems-2022, IEEE International Conference on Intelligent Transportation Systems-2023; China Automation Conference-2022; China Automation Conference-2023
+          icon: building-columns
+          icon_pack: fas
+        - name: 其他奖项
+          description: 3次担任清华大学研究生专业基础课《凸优化》课程助教 (2020, 2021; 2023)
+          icon: person-chalkboard
+          icon_pack: fas
+    design:
+      columns: '1'
+      view: List
+    
   - block: accomplishments
     id: awards
     content:
