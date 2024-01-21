@@ -1,18 +1,18 @@
 ---
 title: 驾驶场景数据框架软件
 
-event: 软件著作权
-event_url: https://jszyglxt.tsinghua.edu.cn/userAction!do_casLogin.action?servAppId=40288229679c36e701679c3c00830005&ticket=pm8EKA0Hpw2n01JQUBJX5C955Q48F3M2S7NL
+event: Hugo Blox Builder Conference
+event_url: https://example.org
 
-location: 清华大学
+location: Hugo Blox Builder HQ
 address:
-  street: 清华园街道
-  city: 北京
-  region: 海淀
-  postcode: '100089'
-  country: 中国
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
-summary: 软件著作权.
+summary: An example talk using Hugo Blox Builder's Markdown slides feature.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
@@ -34,7 +34,11 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-links: ''
+links:
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -55,3 +59,15 @@ slides: example
 projects:
   - example
 ---
+
+{{% callout note %}}
+Click on the **Slides** button above to view the built-in slides feature.
+{{% /callout %}}
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
