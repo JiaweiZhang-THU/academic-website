@@ -138,10 +138,10 @@ sections:
     
       items:
         - certificate_url: ''
-          date_end: ''
+          date_end: '2023-10-20'
           date_start: '2023-10-20'
           description: ''
-          organization: 中华人民共和国教育部 202310
+          organization: 中华人民共和国教育部
           organization_url: http://www.moe.gov.cn/
           title: 国家奖学金
           url: http://www.moe.gov.cn/
