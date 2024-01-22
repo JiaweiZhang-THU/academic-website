@@ -79,7 +79,7 @@ projects:
 slides: ""
 ---
 
- 工作简要介绍，详细内容请参阅[论文](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10221733).
+ *下面为本研究的简要介绍，详细内容请参阅[论文](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10221733)原文*
 
 <img src=Fig_1.jpg  width=70% />
 
