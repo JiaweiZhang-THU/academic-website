@@ -20,7 +20,7 @@ publishDate: "2023-08-17T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Intelligent Vehicles*(中科院1区;JCR Q1区)"
+publication: "*IEEE Transactions on Intelligent Vehicles*<br />(中科院1区; JCR Q1区; 影响因子=8.200)"
 publication_short: "IEEE T-IV"
 
 abstract: Cooperative driving of connected and automated vehicles (CAVs) has attracted extensive attention and researchers have proposed various approaches. However, existing approaches are limited to small-scale isolated scenarios and gaps remain in network-wide cooperative driving, especially in routing. In this paper, we decompose the network-level cooperative driving problem into two dominant sub-problems and accordingly propose a bi-level network-wide cooperative driving approach. The dynamic routing problem is considered in the upper level and we propose a multi-agent deep reinforcement learning (DRL) based routing model. The model can promote the equilibrium of network-wide traffic through distributed self-organized routing collaboration among vehicles, thereby improving efficiency for both individual vehicles and global traffic systems. In the lower level, we focus on the right-of-way assignment problem at signal-free intersections and propose an adaptive cooperative driving algorithm. The algorithm can adaptively evaluate priorities of different lanes, and then uses the lane priorities to guide the Monte Carlo tree search (MCTS) for better right-of-way assignments. Essentially, the upper level determines which conflict areas the vehicles will pass through, and the lower level addresses how the vehicles use the limited road resources more efficiently in each conflict area. The experimental results show that the upper and lower levels complement each other and work together to significantly improve the network-wide traffic efficiency and reduce the travel time of individual vehicles. Moreover, the results demonstrate that microscopic and mesoscopic cooperative driving behaviors of vehicles can significantly benefit the macroscopic traffic system.
@@ -79,7 +79,8 @@ projects:
 slides: ""
 ---
 
-## The bi-level network-wide cooperative driving approach.
+## 工作简要介绍，详细内容请参阅[论文](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10221733).
+
 <img src=Fig_1.jpg  width=70% />
 
 An illustration of the proposed bi-level network-wide cooperative driving approach. In the upper level, the multi-agent deep reinforcement learning (DRL) based dynamic routing model takes the traffic state information from the macroscopic system as input and outputs the mesoscopic routing choices. In the lower level, the tree search based intersection cooperative driving algorithm takes the traffic state information from the mesoscopic system as input and outputs the microscopic passing order, i.e., the right-of-way assignment of vehicles passing through the conflict areas.
