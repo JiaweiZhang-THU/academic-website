@@ -83,32 +83,49 @@ projects:
 slides: ""
 ---
 
-## The overall framework of CAVSim.
-![avatar](./Fig_2.jpg)
+
+
+ *下面为本研究的简要介绍，详细内容请参阅[论文](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10221733)原文*
+
+
+<img src=Fig_1.jpg  width=50% />
+
+**典型的智能网联汽车和自动驾驶汽车仿真环境**
 
 ---
-## The bi-level framework of cooperative driving for CAV swarms. 
-![avatar](./Fig_4.jpg)
+
+<img src=Fig_2.jpg  width=95% />
+
+**CAVSim的核心架构**. 基于模块化原理，设计了CAVSim的总体框架。CAVSim有三个核心组件：对象、算法和测试相关。首先，对象模块的元素，即道路和车辆，是用于构建仿真环境的主要组件，它们将频繁交互以模拟智能网联环境。其次，算法模块提供了有关交通和车辆的决策和规划方法。同时，算法模块专门提供各种接口，使研究人员可以通过改变某个接口来部署不同的算法，然后在CAVSim上进行微观自动驾驶仿真，以模拟和评估他们的方法。第三，测试相关模块提供了典型的标准化算法和可比较的性能指标。此外，紫色模块中的车辆更新流程图总结了CAVSim中车辆驾驶感知-决策-行动循环的主要步骤。
 
 ---
-##  A typical signal-free intersection. 
-#### For example, “*BDEFCA*” is a feasible passing order. When the routes of two vehicles conflict, the more  front the vehicle is in the passing order, the higher its priority. For example, the priority of *Vehicle D* is higher than the priority of *Vehicle A*.
 
-![avatar](./Fig_5.jpg)
+<img src=Fig_3.jpg  width=50% />
 
----
-##  A typical on-ramp merging scenario for connected and automated vehicles.
-![avatar](./Fig_6.jpg)
+**对象模块——道路**. 道路是微观交通仿真环境的主要组成部分。在智能网联环境中，路测设备赋予道路丰富的角色和功能。为了增加CAVSim中交通场景的可扩展性，并考虑略侧设备的边缘性，我们基于典型的交通场景对道路进行分段，以获得基本的道路块，如图所示。3。
 
 ---
-## The velocities of a CAV platoon under different cruise settings in CAVSim.
-#### We simulate the scenario that the speed of the leading vehicle (i.e., *Vehicle 1*) suddenly decelerates from *20m/s* to *5m/s* under different settings.
-![avatar](./Fig_7.jpg)
+
+<img src=Fig_4.jpg  width=50% />
+
+**前馈式决策规划示例**。在CAVSim中，自动驾驶车辆群体通过无信号交叉口的问题采用双层框架解决。在上层，集中式算法将冲突区域的通行权分配给控制区域中的车辆，而在下层，分布式轨迹规划算法基于集中式算法的输出以前馈模式规划车辆的运动。
+
 
 ---
-##  Vehicle trajectories at the on-ramp scenario under different cooperative driving algorithms.
-![avatar](./Fig_14.jpg)
 
+<img src=Fig_5.jpg  width=50% />
+
+**典型的无信号交叉口**。例如，“*BDEFCA*”是一个可行的通行顺序。当两辆车的路线冲突时，车辆在通过顺序中越靠前，其优先级就越高。例如，车辆*D*的优先级高于车辆*A*的优先级。
+
+---
+<img src=Fig_6.jpg  width=50% />
+
+**典型的匝道合流区域**。自动驾驶车辆群体在匝道处合流是另一种典型的关键交通场景，其中智能网联技术将显著提高合流的安全性和效率。与无信号交叉口类似，匝道上的协同驾驶通常由双层框架解决。上层集中式算法解决了车辆的优先级关系，也可以称为通过顺序。下层分布式算法求解最优轨迹。
+
+---
+<img src=Fig_7.jpg  width=50% />
+
+**实验场景**：一个典型的无信号交叉口，每个方向有三条车道。在实验中，我们将距离冲突区域*100m*的道路设置为控制区域，在协调路权时将考虑该范围内的车辆。
 
 
 
