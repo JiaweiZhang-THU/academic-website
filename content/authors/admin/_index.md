@@ -28,8 +28,10 @@ bio: 我的研究兴趣包括自动驾驶，智能汽车，智能交通系统，
 Interests:
   - 自动驾驶
   - 智能汽车
-  - 智能交通系统
-  - 深度强化学习
+  - 人工智能
+  - 决策与规划
+  - 优化与学习
+  - 感知与处理
 
 # Education to show in About widget
 education:
