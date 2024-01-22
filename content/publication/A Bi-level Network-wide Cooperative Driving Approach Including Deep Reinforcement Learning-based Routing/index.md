@@ -79,7 +79,7 @@ projects:
 slides: ""
 ---
 
-## 工作简要介绍，详细内容请参阅[论文](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10221733).
+ 工作简要介绍，详细内容请参阅[论文](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10221733).
 
 <img src=Fig_1.jpg  width=70% />
 
@@ -137,6 +137,8 @@ Simulation snapshots under different approaches. The light gray is the view zone
 <img src=Fig_12.jpg  width=70% />
 
 The effects of different observation information on training, where the solid lines are the moving average value.
+
+---
 
 ## Citation
 If you find our work is useful in your research, please consider citing:
