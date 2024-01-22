@@ -207,10 +207,21 @@ If you find our work is useful in your research, please consider citing:
   journal={IEEE Transactions on Intelligent Transportation Systems}, 
   title={CAVSim: A Microscopic Traffic Simulator for Evaluation of Connected and Automated Vehicles}, 
   year={2023},
+  volume={24},
+  number={9},
+  pages={10038-10054},
+  doi={10.1109/TITS.2023.3273565}}
+```
+
+```
+@INPROCEEDINGS{9922267,
+  author={Zhang, Jiawei and Chang, Cheng and Pei, Huaxin and Peng, Xinyu and Guo, Yuqing and Lian, Renzong and Chen, Zhenwu and Li, Li},
+  booktitle={2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)}, 
+  title={CAVSim: A Microscope Traffic Simulator for Connected and Automated Vehicles Environment}, 
+  year={2022},
   volume={},
   number={},
-  pages={1-17},
-  doi={10.1109/TITS.2023.3273565}
-}
+  pages={3719-3724},
+  doi={10.1109/ITSC55140.2022.9922267}}
 ```
 
