@@ -115,8 +115,6 @@ slides: ""
 
 **AlphaOrder算法的最优性**。 此外，为了评估AlphaOrder算法的平均性能，我们求解了车辆数目N=20、25、30、35、40时不同算法的性能。为了证明这两个模块在AlphaOrder中的关键作用，我们还绘制了Pointer网络产生的候选解。结果表明，对于包含任意数量车辆的场景，AlphaOrder算法可以找到目标函数更小的解，显著优于基于FIFO和MCTS的算法。对于有40辆车的场景，与迄今为止最好的基于MCTS的算法相比，AlphaOrder下的解的性能瓶颈提高了23.01%。结果还表明，Pointer网络可以直接为全新的场景生成有潜力的候选通过顺序，而短时树搜索可以进一步提高解的最优性。此外，我们可以看到，随着车辆数量的增加，基于MCTS的算法变得越来越不如我们的AlphaOrder算法，这正是由解空间的指数增长引起的。
 
-<img src="77109_ChooseScenario_VehicleNum_40_1485.gif" alt="Example with 40 vehicles" style="zoom:100%;" />
-
 ---
 <img src=Fig_10.jpg  width=70% />
 
@@ -146,6 +144,14 @@ slides: ""
 <img src=Fig_7.jpg  width=70% />
 
 **AlphaOrder算法中的蒙特卡洛树搜索算法参数设置**。
+
+
+---
+**性能对比视频**
+<img src="77109_ChooseScenario_VehicleNum_40_1485.gif" alt="Example with 40 vehicles" style="zoom:100%;" />
+<img src="77109_ChooseScenario_VehicleNum_40_1485.gif" alt="Example with 40 vehicles" style="zoom:100%;" />
+<img src="77109_ChooseScenario_VehicleNum_40_1485.gif" alt="Example with 40 vehicles" style="zoom:100%;" />
+<img src="77109_ChooseScenario_VehicleNum_40_1485.gif" alt="Example with 40 vehicles" style="zoom:100%;" />
 
 
 ---
