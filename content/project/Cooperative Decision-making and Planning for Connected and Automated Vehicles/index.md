@@ -24,7 +24,7 @@ links:
   - icon: car
     icon_pack: fas
     name: 车辆群体协同决策
-    url: https://ieeexplore.ieee.org/abstract/document/10078727
+    url: https://jiaweizhang.netlify.app/publication/coordinating-cav-swarms-at-intersections-with-a-deep-learning-model/
   - icon: robot
     icon_pack: fas
     name: 多机器人智能泊车
