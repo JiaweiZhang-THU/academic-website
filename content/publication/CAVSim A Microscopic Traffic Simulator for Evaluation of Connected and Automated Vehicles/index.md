@@ -1,5 +1,5 @@
 ---
-title: "CAVSim: A Microscopic Traffic Simulator for Evaluation of Connected and Automated Vehicles"
+title: "CAVSim: a microscopic traffic simulator for evaluation of connected and automated vehicles"
 authors:
 - admin
 - Cheng Chang
@@ -22,19 +22,23 @@ publishDate: "2023-04-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Intelligent Transportation Systems*"
+publication: "*IEEE Transactions on Intelligent Transportation Systems* <br /> (中科院1区TOP期刊; JCR Q1区; 影响因子=9.551)"
 publication_short: "IEEE T-ITS"
 
-abstract: Connected and automated vehicles (CAVs) are expected to play a vital role in the emerging intelligent transportation system. In recent years, researchers have proposed various cooperative driving methods for CAVs, and there is an urgent need for a generic and unified traffic simulator to simulate and evaluate these methods. However, traditional traffic simulators have two critical deficiencies for CAV simulation needs, 1) the planning and dynamical modeling of vehicles in traditional simulators are based on a feedback mode, which is incompatible with the feed-forward decision and planning that CAVs commonly adopt; 2) the traditional simulators cannot provide typical traffic scenarios and corresponding standardized algorithms for multi-CAV cooperative driving. In this paper, we introduce CAVSim, a novel microscopic traffic simulator for CAVs, to address these deficiencies. CAVSim is developed modularly according to the emerging technology of the CAV environment, emphasizes feed-forward decision and planning for CAVs, and highlights the cooperative decision and planning components in the CAV environment. CAVSim incorporates rich and typical traffic scenarios and provides standardized cooperative driving algorithms and comparable performance metrics for multi-CAV cooperative driving. With CAVSim, researchers can conveniently deploy decision, planning, and control methods for CAVs at different levels, evaluate their performance, compare them with the standardized algorithms incorporated in CAVSim, and even further explore their impact on traffic flow. As a unified platform for CAVs, CAVSim can facilitate the studies on CAVs and promote the advancement of methods and techniques for CAVs.
+abstract: 针对自动驾驶仿真在前馈式决策规划、多车协同决策、基准场景算法、测试验证评估等方面的迫切需求，本工作研发了自动驾驶仿真测试平台CAVSim。该平台能够满足以上仿真需求，突出自动驾驶前馈式决策与规划，支持多车协同驾驶仿真。同时，该平台嵌入了丰富的协同决策场景、基准算法、测试功能，具有重要的研究和应用价值。该平台在开源后得到广泛应用，已有数十篇高水平学术论文基于该平台发表.
 
 # Summary. An optional shortened abstract.
-summary: CAVSim, A traffic simulator for connected and automated vehicles (CAVs).
+summary: 面向高级别自动驾驶技术的自动驾驶仿真平台.
 
 tags:
-- Cooperative Driving
-- Connected and Automated Vehicle
-- Microscope Traffic Simulator
-- String Stability
+- 自动驾驶仿真
+- 自动驾驶测试
+- 自动驾驶汽车
+- 智能网联汽车
+- 决策规划
+- 微观交通仿真
+- 车队稳定性测试
+
 
 featured: false
 
