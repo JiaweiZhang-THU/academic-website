@@ -28,12 +28,14 @@ summary: 当前性能最好的协同决策算法.
 
 
 tags:
-- Connected and Automated Vehicle
-- Cooperative Driving
-- Signal-free Intersection
-- Deep Learning
-- Deep Reinforcement Learning
-- Pointer Network
+- 协同决策
+- 智能网联汽车
+- 协同驾驶
+- 深度学习模型
+- 无信号交叉口
+- 深度强化学习
+- 无监督学习
+- Pointer神经网络
 featured: false
 
 # links:
