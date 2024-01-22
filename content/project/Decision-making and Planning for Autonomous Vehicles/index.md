@@ -23,7 +23,7 @@ links:
   - icon: route
     icon_pack: fas
     name: 自动驾驶路线规划
-    url: https://ieeexplore.ieee.org/abstract/document/10221733
+    url: https://jiaweizhang.netlify.app/publication/a-bi-level-network-wide-cooperative-driving-approach-including-deep-reinforcement-learning-based-routing/
   - icon: road
     icon_pack: fas
     name: 自动驾驶换道决策
