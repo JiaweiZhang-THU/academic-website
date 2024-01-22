@@ -1,5 +1,5 @@
 ---
-title: "Self-Organized Routing for Autonomous Vehicles via Deep Reinforcement Learning"
+title: "Predictive Information Multiagent Deep Reinforcement Learning for Automated Truck Platooning Control"
 authors:
 - Renzong Lian
 - Zhiheng Li
