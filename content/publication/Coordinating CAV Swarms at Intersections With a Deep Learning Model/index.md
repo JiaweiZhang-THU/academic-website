@@ -1,5 +1,5 @@
 ---
-title: "Coordinating CAV Swarms at Intersections with A Deep Learning Model"
+title: "Coordinating CAV swarms at intersections with a deep learning model"
 authors:
 - admin
 - Shen Li
@@ -21,10 +21,10 @@ publication_types: ["2"]
 publication: "*IEEE Transactions on Intelligent Transportation Systems*"
 publication_short: "IEEE T-ITS"
 
-abstract: Connected and automated vehicles (CAVs) have the potential to significantly improve the safety and efficiency of traffic. One revolutionary CAV’s impact on transportation system is cooperative driving that turns signalized intersections to be signal-free and boosts traffic efficiency by better organizing the passing order of CAVs. However, how to get the optimal passing order is an NP-hard problem (specifically, enumerating based algorithm takes days to find the optimal solution to a 20-CAV scenario). Here, we introduce a novel cooperative driving algorithm (AlphaOrder) that combines offline deep learning and online tree searching to find a near-optimal passing order in real-time. AlphaOrder builds a pointer network model from solved scenarios and generates near-optimal passing orders instantaneously for new scenarios. For the scenarios with 40 CAVs, AlphaOrder reduces the travel delay by more than 20% on average compared to the best-so-far MCTS based algorithm. Moreover, our algorithm provides a general approach to managing preemptive resource sharing between multi-agents (e.g., scheduling multiple automated guided vehicles (AGVs) and unmanned aerial vehicles (UAVs) at conflicting areas).
+abstract: 针对智能网联汽车协同决策问题面临的强交互资源受限、大规模*NP*难问题、强实时性约束等挑战，本研究提出基于深度模型的协同决策算法**AlphaOrder**。该算法通过结合离线深度学习模型和在线树搜索，实现了求解速度最快、效率最优的协同决策性能，比SOTA算法提高了55.6%。该研究为各类稀缺资源调度优化问题提供了通用的杰出算法。
 
 # Summary. An optional shortened abstract.
-summary: AlphaOrder, a novel cooperative driving algorithm that combines offline deep learning and online tree searching to find a near-optimal passing order in real-time.
+summary: 当前性能最好的协同决策算法.
 
 
 tags:
