@@ -22,7 +22,7 @@ links:
   - icon: network-wired
     icon_pack: fas
     name: 自动驾驶仿真平台
-    url: https://ieeexplore.ieee.org/abstract/document/10124078
+    url: https://jiaweizhang.netlify.app/publication/cavsim-a-microscopic-traffic-simulator-for-evaluation-of-connected-and-automated-vehicles/
   - icon: truck-fast
     icon_pack: fas
     name: 自动驾驶实车系统
