@@ -18,7 +18,7 @@ publishDate: "2023-06-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Intelligent Transportation Systems*"
+publication: "*IEEE Transactions on Intelligent Transportation Systems* <br /> (中科院1区TOP期刊; JCR Q1区; 影响因子=9.551)"
 publication_short: "IEEE T-ITS"
 
 abstract: 针对智能网联汽车协同决策问题面临的强交互资源受限、大规模*NP*难问题、强实时性约束等挑战，本研究提出基于深度模型的协同决策算法**AlphaOrder**。该算法通过结合离线深度学习模型和在线树搜索，实现了求解速度最快、效率最优的协同决策性能，比SOTA算法提高了55.6%。该研究为各类稀缺资源调度优化问题提供了通用的杰出算法。
