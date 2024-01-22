@@ -23,7 +23,7 @@ publication_types: ["2"]
 publication: "*IEEE Transactions on Intelligent Vehicles*<br />(中科院1区; JCR Q1区; 影响因子=8.200)"
 publication_short: "IEEE T-IV"
 
-abstract: Cooperative driving of connected and automated vehicles (CAVs) has attracted extensive attention and researchers have proposed various approaches. However, existing approaches are limited to small-scale isolated scenarios and gaps remain in network-wide cooperative driving, especially in routing. In this paper, we decompose the network-level cooperative driving problem into two dominant sub-problems and accordingly propose a bi-level network-wide cooperative driving approach. The dynamic routing problem is considered in the upper level and we propose a multi-agent deep reinforcement learning (DRL) based routing model. The model can promote the equilibrium of network-wide traffic through distributed self-organized routing collaboration among vehicles, thereby improving efficiency for both individual vehicles and global traffic systems. In the lower level, we focus on the right-of-way assignment problem at signal-free intersections and propose an adaptive cooperative driving algorithm. The algorithm can adaptively evaluate priorities of different lanes, and then uses the lane priorities to guide the Monte Carlo tree search (MCTS) for better right-of-way assignments. Essentially, the upper level determines which conflict areas the vehicles will pass through, and the lower level addresses how the vehicles use the limited road resources more efficiently in each conflict area. The experimental results show that the upper and lower levels complement each other and work together to significantly improve the network-wide traffic efficiency and reduce the travel time of individual vehicles. Moreover, the results demonstrate that microscopic and mesoscopic cooperative driving behaviors of vehicles can significantly benefit the macroscopic traffic system.
+abstract: 针对自动驾驶路线规划问题面临的系统复杂、信息有限、决策耦合等挑战，本研究提出了基于深度强化学习的路线规划算法。通过创新的分层决策机制和自组织动态规划规划原则，以及新颖的深度强化学习路线规划模型，实现了前馈、主动高效的路线规划性能，显著提升了自动驾驶汽车的出行效率，同时协同提高了交通巨系统的运行效率。
 
 # Summary. An optional shortened abstract.
 summary: 一种新颖的基于深度强化学习的路线规划方法
@@ -83,60 +83,58 @@ slides: ""
 
 <img src=Fig_1.jpg  width=70% />
 
-An illustration of the proposed bi-level network-wide cooperative driving approach. In the upper level, the multi-agent deep reinforcement learning (DRL) based dynamic routing model takes the traffic state information from the macroscopic system as input and outputs the mesoscopic routing choices. In the lower level, the tree search based intersection cooperative driving algorithm takes the traffic state information from the mesoscopic system as input and outputs the microscopic passing order, i.e., the right-of-way assignment of vehicles passing through the conflict areas.
+**分层决策机制**。在上层，我们提出了基于多智能体深度强化学习（DRL）的动态路线规划模型，其以宏观的交通状态信息为输入，输出介观的路线选择。在下层，我们提出了基于蒙特卡洛树搜索的交叉口协同驾驶算法，其以介观层的系统状态信息作为输入，输出微观路权调度结果，即通过冲突区域的车辆的通行权分配。
 
 ---
 <img src=Fig_2.jpg  width=70% />
 
-The overall framework of the bi-level network-wide cooperative driving approach for CAV swarms.
+本研究提出的**分层决策规划框架**。
 
 ---
 <img src=Fig_3.jpg  width=70% />
 
-The dynamic routing problem formulation and corresponding reinforcement learning setup. (*a*) An illustration of the routing problem formulation. The red-shaded lanes are the candidate routes, and the blue-shaded lanes are the subsequent lanes corresponding to the two candidate routes. The traffic state information on the green-shaded area is the critical basis for dynamic routing decisions. The blue-dotted routes indicate the shortest subsequent routes for the candidate routes to the destination. (*b*) Observation Space, where the left subfigure is one-step range observation and the right subfigure is two-step range observation. Furthermore, for ease of reading, it is necessary to illustrate the intersection markers. For example,*Node \# 1-2* refers to the second intersection that is one step away from the current node. And so on for the rest.
+**自组织路线规划机制**和本文构建的**强化学习模型**。（*a*）自组织路线规划机制。路线规划按照“想三步，看两步，走一步”的原则展开。红色阴影车道是候选路线，蓝色阴影车道是与两条候选路线相对应的后续车道。绿色阴影区域上的交通状态信息是动态路线规划的关键。蓝色虚线路线表示到达目的地的候选路线的最短后续路线。（*b*）深度强化学习模型的观测空间，其中左侧子图为一步距离观测，右侧子图为两步距离观测。
 
 ---
 <img src=Fig_4.jpg  width=70% />
 
-An illustration of the training pipeline of the upper-level multi-agent DRL based routing model.
+基于多智能体深度强化学习的路线规划模型训练。
 
 ---
 <img src=Fig_5.jpg  width=70% />
 
-An illustration of the adaptive MCTS based cooperative driving algorithm. (*left*) Queuing length information in the view zone (obtained by the roadside units at the current intersection) and drive-in traffic flow rate information of each lane (obtained by roadside units at the adjacent intersections and V2X communication) will be used to solve for the passing order of vehicles within the control zone (indicated by the blue dashed line). (*right*) An illustration of the passing order. For example, "*BDEFCA*" is a feasible passing order. When the routes of two vehicles conflict, the more front the vehicle is in the passing order, the higher its priority is. For example, the priority of \emph{Vehicle D} is higher than the priority of *Vehicle A*.
+**基于蒙特卡洛树搜索的交叉口自适应协同驾驶算法**。（*左*）交叉口车辆排队长度信息（由当前交叉口的路侧单元获得）和每条车道的驶入交通流量信息（由相邻交叉口的路侧单元和V2X通信获得）将用于确定控制区内车辆的路权分配（由蓝色虚线指示）。（*右*）通行证的说明。例如，“*BDEFCA*”是一个可行的传递顺序。当两辆车的路线冲突时，车辆在通过顺序中越靠前，其优先级就越高。比如，*Vehicle D*的优先级高于*Vehicle A*的优先级。
 
 ---
 <img src=Fig_6.jpg  width=70% />
 
-An illustration of the adaptive MCTS based cooperative driving algorithm. The lane priority is used to guide the tree search process. MCTS algorithm: (*i*) **Selection**: selecting the most promising nodes based on their scores; (*ii*) **Expansion**: expanding the not-yet-visited child node into the current search tree; (*iii*) **Simulation**: running several rollout simulations until a leaf node is reached, i.e., a complete passing order is obtained; (*iv*) **Backup**: back-propagating to update the scores of all parent nodes based on the score of the leaf node.
-
+**基于蒙特卡洛树搜索的交叉口自适应协同驾驶算法**。MCTS算法：（*i*）**选择**：根据得分选择最有希望的节点；（*ii*）**扩展**：将未访问的子节点扩展到当前搜索树中；（*iii*）**模拟**：运行多轮次模拟，直到达到一个叶节点，即获得完整的路权分配；（*iv*）**反向传播**：根据叶节点的得分更新所有父节点的得分。
 
 ---
 <img src=Fig_8.jpg  width=70% />
 
-Travel time of vehicles under different arrival rates. For comparison, we count the travel time on the routes with a length of 2400m, i.e., the vehicles crossing the road network diagonally (similarly hereinafter).
+**性能-不同到达率下车辆的出行耗时**
 
 ---
 <img src=Fig_9.jpg  width=70% />
 
-The accumulation of vehicles in the road network under different arrival rates.
+**性能-不同到达率下路网内的车辆累积量**
 
 
 ---
 <img src=Fig_10.jpg  width=70% />
 
-MFDs of the network-wide traffic under different approaches.
+**性能-路网宏观基本图（Macroscopic fundamental diagram）结果**
 
 ---
 <img src=Fig_11.jpg  width=70% />
 
-Simulation snapshots under different approaches. The light gray is the view zone and the dark gray is the control zone. (a) Benchmark approach; (b) Proposed approach.
-
+**不同方法下的模拟快照**（*a*） 基准方法；（*b*） 本研究提出的方法。
 
 ---
 <img src=Fig_12.jpg  width=70% />
 
-The effects of different observation information on training, where the solid lines are the moving average value.
+**基于深度强化学习的路线规划模型训练**
 
 ---
 
