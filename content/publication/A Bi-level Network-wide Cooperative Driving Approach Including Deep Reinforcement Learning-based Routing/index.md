@@ -26,16 +26,15 @@ publication_short: "IEEE T-IV"
 abstract: Cooperative driving of connected and automated vehicles (CAVs) has attracted extensive attention and researchers have proposed various approaches. However, existing approaches are limited to small-scale isolated scenarios and gaps remain in network-wide cooperative driving, especially in routing. In this paper, we decompose the network-level cooperative driving problem into two dominant sub-problems and accordingly propose a bi-level network-wide cooperative driving approach. The dynamic routing problem is considered in the upper level and we propose a multi-agent deep reinforcement learning (DRL) based routing model. The model can promote the equilibrium of network-wide traffic through distributed self-organized routing collaboration among vehicles, thereby improving efficiency for both individual vehicles and global traffic systems. In the lower level, we focus on the right-of-way assignment problem at signal-free intersections and propose an adaptive cooperative driving algorithm. The algorithm can adaptively evaluate priorities of different lanes, and then uses the lane priorities to guide the Monte Carlo tree search (MCTS) for better right-of-way assignments. Essentially, the upper level determines which conflict areas the vehicles will pass through, and the lower level addresses how the vehicles use the limited road resources more efficiently in each conflict area. The experimental results show that the upper and lower levels complement each other and work together to significantly improve the network-wide traffic efficiency and reduce the travel time of individual vehicles. Moreover, the results demonstrate that microscopic and mesoscopic cooperative driving behaviors of vehicles can significantly benefit the macroscopic traffic system.
 
 # Summary. An optional shortened abstract.
-summary: A novel bi-level network-wide cooperative driving approach for CAVs. (Upper) Multi-agent DRL based routing model. (Lower) Adaptive cooperative driving algorithm at intersections.
-
+summary: 一种新颖的基于深度强化学习的路线规划方法
 
 tags:
-- Connected and Automated Vehicle
-- Net-wide Traffic
-- Cooperative Driving
-- Signal-free Intersection
-- Deep Reinforcement Learning
-- Monte Carlo tree search
+- 路线规划
+- 协同驾驶
+- 无信号交叉口
+- 深度强化学习
+- 蒙特卡洛树搜索
+
 featured: false
 
 # links:
@@ -81,37 +80,62 @@ slides: ""
 ---
 
 ## The bi-level network-wide cooperative driving approach.
-### An illustration of the proposed bi-level network-wide cooperative driving approach. In the upper level, the multi-agent deep reinforcement learning (DRL) based dynamic routing model takes the traffic state information from the macroscopic system as input and outputs the mesoscopic routing choices. In the lower level, the tree search based intersection cooperative driving algorithm takes the traffic state information from the mesoscopic system as input and outputs the microscopic passing order, i.e., the right-of-way assignment of vehicles passing through the conflict areas.
-![avatar](./Fig_1.jpg)
+<img src=Fig_1.jpg  width=70% />
+
+An illustration of the proposed bi-level network-wide cooperative driving approach. In the upper level, the multi-agent deep reinforcement learning (DRL) based dynamic routing model takes the traffic state information from the macroscopic system as input and outputs the mesoscopic routing choices. In the lower level, the tree search based intersection cooperative driving algorithm takes the traffic state information from the mesoscopic system as input and outputs the microscopic passing order, i.e., the right-of-way assignment of vehicles passing through the conflict areas.
 
 ---
-### The overall framework of the bi-level network-wide cooperative driving approach for CAV swarms.
-![avatar](./Fig_2.jpg)
+<img src=Fig_2.jpg  width=70% />
+
+The overall framework of the bi-level network-wide cooperative driving approach for CAV swarms.
 
 ---
-## The dynamic routing problem formulation and corresponding reinforcement learning setup. 
-#### （*a*） An illustration of the routing problem formulation. The red-shaded lanes are the candidate routes, and the blue-shaded lanes are the subsequent lanes corresponding to the two candidate routes. The traffic state information on the green-shaded area is the critical basis for dynamic routing decisions. The blue-dotted routes indicate the shortest subsequent routes for the candidate routes to the destination.
-#### （*b*） Observation Space, where the left subfigure is one-step range observation and the right subfigure is two-step range observation. Furthermore, for ease of reading, it is necessary to illustrate the intersection markers. For example,*Node \# 1-2* refers to the second intersection that is one step away from the current node. And so on for the rest.
+<img src=Fig_3.jpg  width=70% />
 
-![avatar](./Fig_3.jpg)
+The dynamic routing problem formulation and corresponding reinforcement learning setup. (*a*) An illustration of the routing problem formulation. The red-shaded lanes are the candidate routes, and the blue-shaded lanes are the subsequent lanes corresponding to the two candidate routes. The traffic state information on the green-shaded area is the critical basis for dynamic routing decisions. The blue-dotted routes indicate the shortest subsequent routes for the candidate routes to the destination. (*b*) Observation Space, where the left subfigure is one-step range observation and the right subfigure is two-step range observation. Furthermore, for ease of reading, it is necessary to illustrate the intersection markers. For example,*Node \# 1-2* refers to the second intersection that is one step away from the current node. And so on for the rest.
 
 ---
-## An illustration of the training pipeline of the upper-level multi-agent DRL based routing model. 
-![avatar](./Fig_4.jpg)
+<img src=Fig_4.jpg  width=70% />
+
+An illustration of the training pipeline of the upper-level multi-agent DRL based routing model.
 
 ---
-## An illustration of the adaptive MCTS based cooperative driving algorithm.
-#### (*left*) Queuing length information in the view zone (obtained by the roadside units at the current intersection) and drive-in traffic flow rate information of each lane (obtained by roadside units at the adjacent intersections and V2X communication) will be used to solve for the passing order of vehicles within the control zone (indicated by the blue dashed line).
-#### (*right*) An illustration of the passing order. For example, "*BDEFCA*" is a feasible passing order. When the routes of two vehicles conflict, the more front the vehicle is in the passing order, the higher its priority is. For example, the priority of \emph{Vehicle D} is higher than the priority of *Vehicle A*.
-![avatar](./Fig_5.jpg)
+<img src=Fig_5.jpg  width=70% />
+
+An illustration of the adaptive MCTS based cooperative driving algorithm. (*left*) Queuing length information in the view zone (obtained by the roadside units at the current intersection) and drive-in traffic flow rate information of each lane (obtained by roadside units at the adjacent intersections and V2X communication) will be used to solve for the passing order of vehicles within the control zone (indicated by the blue dashed line). (*right*) An illustration of the passing order. For example, "*BDEFCA*" is a feasible passing order. When the routes of two vehicles conflict, the more front the vehicle is in the passing order, the higher its priority is. For example, the priority of \emph{Vehicle D} is higher than the priority of *Vehicle A*.
 
 ---
-## The performance of AlphaOrder versus other algorithms on scenarios with different numbers of vehicles.
-![avatar](./Fig_6.jpg)
+<img src=Fig_6.jpg  width=70% />
+
+An illustration of the adaptive MCTS based cooperative driving algorithm. The lane priority is used to guide the tree search process. MCTS algorithm: (*i*) **Selection**: selecting the most promising nodes based on their scores; (*ii*) **Expansion**: expanding the not-yet-visited child node into the current search tree; (*iii*) **Simulation**: running several rollout simulations until a leaf node is reached, i.e., a complete passing order is obtained; (*iv*) **Backup**: back-propagating to update the scores of all parent nodes based on the score of the leaf node.
 
 
+---
+<img src=Fig_8.jpg  width=70% />
+
+Travel time of vehicles under different arrival rates. For comparison, we count the travel time on the routes with a length of 2400m, i.e., the vehicles crossing the road network diagonally (similarly hereinafter).
+
+---
+<img src=Fig_9.jpg  width=70% />
+
+The accumulation of vehicles in the road network under different arrival rates.
 
 
+---
+<img src=Fig_10.jpg  width=70% />
+
+MFDs of the network-wide traffic under different approaches.
+
+---
+<img src=Fig_11.jpg  width=70% />
+
+Simulation snapshots under different approaches. The light gray is the view zone and the dark gray is the control zone. (a) Benchmark approach; (b) Proposed approach.
+
+
+---
+<img src=Fig_12.jpg  width=70% />
+
+The effects of different observation information on training, where the solid lines are the moving average value.
 
 ## Citation
 If you find our work is useful in your research, please consider citing:
