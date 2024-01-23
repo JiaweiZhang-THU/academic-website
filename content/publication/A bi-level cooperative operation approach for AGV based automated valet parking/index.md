@@ -79,15 +79,41 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-## AGV based Parking System
-![avatar](./Fig1.jpg)
 
-## Architecture
-![avatar](./Fig2.jpg)
+*下面为本研究的简要介绍，详细内容请参阅[论文](https://www.sciencedirect.com/science/article/pii/S0968090X21001583)原文*
 
-## DRL based Parking Space Allocation
-#### The architecture of the DRL model for cooperative parking space allocation.
-![avatar](./Fig4.jpg)
+
+<img src=Fig1.jpg  width=70% />
+
+**典型的群体机器人停车系统**. 典型的群体机器人停车常，车辆在停车场中不断进出。司机在停车场入口或下车区下车。停车场作业管理（POM）系统为其分配未占用的停车位，然后AGV机器人将车辆运输到分配的停车位中。通常，一个大型停车场包含数百个停车位，并根据布局划分为几个区域。为了增加单个训练结果的可扩展性，期望不同区域的拓扑结构相似。同时，为了充分发挥大型停车场的优势，到达的车辆通常均匀分布在不同的区域，或者根据驾驶员距离目的地的远近，根据就近原则进行区域分配。
+
+---
+
+<img src=Fig2.jpg  width=95% />
+
+**我们提出的多AGV机器人泊车调度系统**. 系统分为任务调度、路线规划和轨迹规划。任务调度根据停车场的情况为到达的车辆分配停车位。给定地图和分配的停车位，路线规划通过避开静态障碍物来确定到达目的地的路线。轨迹规划计算纵向轨迹以遵循路线，同时避免碰撞和死锁。与上述三个子模块并行的另一个子模块是死锁检测和自愈模块，用于检测潜在的环形死锁并恢复锁定的机器人。
+
+---
+
+<img src=Fig3.jpg  width=50% />
+
+**基于深度强化学习的任务调度模型之状态空间设置**
+
+---
+
+<img src=Fig4.jpg  width=50% />
+
+**基于深度强化学习的任务调度模型**. 使用深度强化学习算法解决全局停车位分配问题主要有以下困难：（*i*）奖励是稀疏的，大多数随机选择的经验对模型学习的贡献很小；（*ii*） 即使在模拟环境中，对状态-动作空间的探索也是耗时的；（*iii*） 环境是动态的，许多随机因素（如车辆到达和离开时间的不确定性等）干扰模型训练，这使得事件奖励的方差很大。为了应对上述挑战，我们提出了一种基于原始深度Q网络（DQN）和现有改进技术的Double Dueling Deep Q-network。
+
+
+---
+
+<img src=Fig5.jpg  width=50% />
+
+**基于深度强化学习的任务调度模型之深度网络设置**
+
+---
+
 
 ## Citation
 If you find our work is useful in your research, please consider citing:
