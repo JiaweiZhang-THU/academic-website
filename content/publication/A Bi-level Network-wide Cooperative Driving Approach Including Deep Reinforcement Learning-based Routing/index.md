@@ -8,7 +8,7 @@ authors:
 - Li Li
 author_notes:
 date: "2023-08-17T00:00:00Z"
-doi: "https://ieeexplore.ieee.org/document/10221733"
+doi: "10.1109/TIV.2023.3305818"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-08-17T00:00:00Z"
