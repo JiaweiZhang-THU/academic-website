@@ -8,7 +8,7 @@ authors:
 - Hairong Dong
 author_notes:
 date: "2023-02-15T00:00:00Z"
-doi: "https://www.sciencedirect.com/science/article/pii/S0968090X21001583"
+doi: "https://doi.org/10.1016/j.trc.2021.103140"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-02-15T00:00:00Z"
