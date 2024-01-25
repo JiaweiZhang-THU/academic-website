@@ -80,7 +80,7 @@ slides: ""
  *详细内容请参阅[论文](https://ieeexplore.ieee.org/abstract/document/10273625)原文*
 
 
-<img src=feature.jpg  width=90% />
+<img src=featured.jpg  width=90% />
 
 ## Citation
 If you find our work is useful in your research, please consider citing:
