@@ -52,7 +52,7 @@ url_pdf: https://www.sciencedirect.com/science/article/pii/S0968090X21001583
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: https://jiaweizhang.netlify.app/project/cooperative-decision-making-and-planning-for-connected-and-automated-vehicles/
 url_slides: ''
 url_source: ''
 url_video: ''
