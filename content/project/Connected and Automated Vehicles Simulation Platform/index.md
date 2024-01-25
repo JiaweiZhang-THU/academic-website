@@ -64,8 +64,9 @@ slides: ""
 <img src="RealVehicle.gif" alt="Autonomous driving real vehicle system" style="zoom:70%;" />
   
 ## 研究工作3：自动驾驶智能测试
-  + Paper: [Heterogeneous driver modeling and corner scenarios sampling for automated vehicles testing](https://www.hindawi.com/journals/jat/2022/8655514/)
-  + Paper: [Autonomous Vehicles Testing Considering Utility-Based Operable Tasks](https://ieeexplore.ieee.org/abstract/document/10130026)
+  + 论文1: *Heterogeneous driver modeling and corner scenarios sampling for automated vehicles testing* ([Paper](https://www.hindawi.com/journals/jat/2022/8655514/))
+  + 论文2: *Autonomous vehicles testing considering utility-based operable tasks* ([简介](https://jiaweizhang.netlify.app/publication/autonomous-vehicles-testing-considering-utility-based-operable-tasks/); [Paper](https://ieeexplore.ieee.org/abstract/document/10130026))
+    
 <img src=Testing.jpg  width=70% />
 
 ## 研究工作4：自动驾驶场景生成
