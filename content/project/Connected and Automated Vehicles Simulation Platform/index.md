@@ -70,6 +70,7 @@ slides: ""
 <img src=Testing.jpg  width=70% />
 
 ## 研究工作4：自动驾驶场景生成
-  + Paper: [Task-Driven Controllable Scenario Generation Framework Based on AOG](https://ieeexplore.ieee.org/abstract/document/10401017)
+  + 论文1: *Task-driven controllable scenario generation framework based on AOG* ([简介](https://jiaweizhang.netlify.app/publication/task-driven-controllable-scenario-generation-framework-based-on-aog/); [Paper](https://ieeexplore.ieee.org/abstract/document/10401017))
+  
 <img src=ScenarioGeneration.jpg  width=70% />
 
