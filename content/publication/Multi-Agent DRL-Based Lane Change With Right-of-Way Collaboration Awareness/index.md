@@ -1,5 +1,5 @@
 ---
-title: "Multi-Agent DRL-based Lane Change with Right-of-Way Collaboration Awareness"
+title: "Multi-agent DRL-based lane change with right-of-way collaboration awareness"
 authors:
 - admin
 - Cheng Chang
@@ -19,21 +19,25 @@ publishDate: "2023-01-02T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Intelligent Transportation Systems*"
+publication: "*IEEE Transactions on Intelligent Transportation Systems* <br /> (中科院1区TOP期刊; JCR Q1区; 影响因子=9.551)"
 publication_short: "IEEE T-ITS"
 
-abstract: Lane change is a common-yet-challenging driving behavior for automated vehicles. To improve the safety and efficiency of automated vehicles, researchers have proposed various lane-change decision models. However, most of the existing models consider lane-change behavior as a one-player decision-making problem, ignoring the essential multi-agent properties when vehicles are driving in traffic. Such models lead to deficiencies in interaction and collaboration between vehicles, which results in hazardous driving behaviors and overall traffic inefficiency. In this paper, we revisit the lane-change problem and propose a bi-level lane-change behavior planning strategy, where the upper level is a novel multi-agent deep reinforcement learning (DRL) based lane-change decision model and the lower level is a negotiation based right-of-way assignment model. We promote the collaboration performance of the upper-level lane-change decision model from three crucial aspects. First, we formulate the lane-change decision problem with a novel multi-agent reinforcement learning model, which provides a more appropriate paradigm for collaboration than the single-agent model. Second, we encode the driving intentions of surrounding vehicles into the observation space, which can empower multiple vehicles to implicitly negotiate the right-of-way in decision-making and enable the model to determine the right-of-way in a collaborative manner. Third, an ingenious reward function is designed to allow the vehicles to consider not only ego benefits but also the impact of changing lanes on traffic, which will guide the multi-agent system to learn excellent coordination performance. With the upper-level lane-change decisions, the lower-level right-of-way assignment model is used to guarantee the safety of lane-change behaviors. The experiments show that the proposed approaches can lead to safe, efficient, and harmonious lane-change behaviors, which boosts the collaboration between vehicles and in turn improves the safety and efficiency of the overall traffic. Moreover, the proposed approaches promote the microscopic synchronization of vehicles, which can lead to the macroscopic synchronization of traffic flow.
+abstract: 针对智能驾驶自主换道任务中的强交互、多目标、机理模糊等挑战，本研究提出了基于多智能体深度强化学习的换道决策算法。该算法通过安全可信的复合决策框架，将其他车辆的行为意图纳入自车决策，突破了传统的单智能体范式的性能瓶颈，显著提升了自动驾驶的安全性、高效性、协同性，并在宏观层涌现出群体协同智能。
 
 # Summary. An optional shortened abstract.
-summary: A novel multi-agent deep reinforcement learning (DRL) based lane-change decision model.
+summary: 首个多智能体换道算法，突破传统的单智能体算法的性能瓶颈.
 
 tags:
-- Automated Vehicle
-- Lane Change
-- Right-of-Way
-- Deep Reinforcement Learning
-- Driving Intention
-- Decision-making and Planning
+- 自动驾驶
+- 决策规划
+- 换道决策
+- 路权分配
+- 多智能体
+- 深度强化学习
+- 驾驶意图
+- 行为意图
+- 协同驾驶
+- 
 featured: false
 
 # links:
