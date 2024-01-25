@@ -27,7 +27,7 @@ links:
   - icon: road
     icon_pack: fas
     name: 自动驾驶换道决策
-    url: https://ieeexplore.ieee.org/abstract/document/9932003
+    url: https://jiaweizhang.netlify.app/publication/multi-agent-drl-based-lane-change-with-right-of-way-collaboration-awareness/
   - icon: car-burst
     icon_pack: fas
     name: 自动驾驶安全预警
