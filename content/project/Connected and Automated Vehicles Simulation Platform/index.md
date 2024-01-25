@@ -52,9 +52,10 @@ slides: ""
 
 
 ## 研究工作1：自动驾驶仿真平台
-  + Paper 1: [CAVSim: A Microscopic Traffic Simulator for Evaluation of Connected and Automated Vehicles](https://ieeexplore.ieee.org/abstract/document/10124078)
-  + Paper 2: [CAVSim: A Microscope Traffic Simulator for Connected and Automated Vehicles Environment](https://ieeexplore.ieee.org/abstract/document/9922267)
+  + 论文1: *CAVSim: a microscopic traffic simulator for evaluation of connected and automated vehicles* ([简介](https://jiaweizhang.netlify.app/publication/cavsim-a-microscopic-traffic-simulator-for-evaluation-of-connected-and-automated-vehicles/); [Paper](https://ieeexplore.ieee.org/abstract/document/10124078))
+  + 论文2: *CAVSim: A Microscope Traffic Simulator for Connected and Automated Vehicles Environment* ([简介](https://jiaweizhang.netlify.app/publication/cavsim-a-microscope-traffic-simulator-for-connected-and-automated-vehicles-environment/); [Paper](https://ieeexplore.ieee.org/abstract/document/9922267))
   + Code: [CAVSim](https://github.com/JiaweiZhang-THU/CAVSim)
+
 <img src=CAVSim_Architecture.jpg  width=70% />
 <img src="Cooperative Driving at Signal-free Intersections_1.gif" alt="Cooperative Driving at Signal-free Intersections_1" style="zoom:70%;" />
 
