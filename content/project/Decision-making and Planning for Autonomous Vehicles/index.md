@@ -55,7 +55,7 @@ slides: ""
 <img src=Routing.jpg  width=90% />
 
 ## 研究工作2：自动驾驶换道决策
-  + Paper: [Multi-agent DRL-based lane change with right-of-way collaboration awareness](https://ieeexplore.ieee.org/abstract/document/9932003)
+  + 论文1: *Multi-agent DRL-based lane change with right-of-way collaboration awareness* ([简介](https://jiaweizhang.netlify.app/publication/multi-agent-drl-based-lane-change-with-right-of-way-collaboration-awareness/); [Paper](https://ieeexplore.ieee.org/abstract/document/9932003))
     
 <img src=LaneChangeModel.jpg  width=90% />
   
