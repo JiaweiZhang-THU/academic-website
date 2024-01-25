@@ -84,22 +84,25 @@ Illustration of different control methods at the simplest conflict point, where 
 
 ---
 
-![avatar](./Fig3.jpg)
+<img src=Fig3.jpg  width=50% />
 
 Illustration of the condensing process before cooperative driving at the core area of an unsignalized intersection.
 
 ---
 
-![avatar](./Fig4.jpg)
+<img src=Fig4.jpg  width=60% />
+
 Three-lane intersection with two west-to-east flow lanes and one south-to-north flow lane.
 
 ---
-![avatar](./Fig5.jpg)
+<img src=Fig5.jpg  width=60% />
+
 (a) Three-lane intersection with one west-to-east flow lane, one east-to-north flow lane, and one south-to-north flow lane; (b) the corresponding right-of-way assignments along the time axis.
 
 ---
 
-![avatar](./Fig7.jpg)
+<img src=Fig7.jpg  width=60% />
+
 Eight-lane intersection with four through lanes first labeled as counterclockwise and four left-turn lanes then labeled as counterclockwise.
 
 ---
