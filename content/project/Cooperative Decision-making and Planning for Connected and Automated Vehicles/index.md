@@ -36,7 +36,7 @@ links:
   - icon: square-root-variable
     icon_pack: fas
     name: 协同决策理论研究
-    url: https://www.sciencedirect.com/science/article/pii/S0968090X21004897
+    url: https://jiaweizhang.netlify.app/publication/analysis-of-cooperative-driving-strategies-at-road-network-level-with-macroscopic-fundamental-diagram/
 url_code: ''
 url_pdf: ''
 url_slides: ''
