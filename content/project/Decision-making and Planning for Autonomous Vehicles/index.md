@@ -49,8 +49,8 @@ url_video: ''
 slides: ""
 ---
 ## 研究工作1：自动驾驶路线规划
-  + Paper: [A Bi-level Network-wide Cooperative Driving Approach Including Deep Reinforcement Learning-based Routing](https://ieeexplore.ieee.org/abstract/document/10221733)
-  + Paper: [Self-Organized Routing for Autonomous Vehicles via Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10244078)
+  + 论文1: A Bi-level Network-wide Cooperative Driving Approach Including Deep Reinforcement Learning-based Routing ([简介](https://jiaweizhang.netlify.app/publication/a-bi-level-network-wide-cooperative-driving-approach-including-deep-reinforcement-learning-based-routing/); [Paper](https://ieeexplore.ieee.org/abstract/document/10221733))
+  + 论文2: [Self-Organized Routing for Autonomous Vehicles via Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10244078)
 <img src=Routing.jpg  width=70% />
 
 ## 研究工作2：自动驾驶换道决策
