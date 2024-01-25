@@ -1,5 +1,5 @@
 ---
-title: "BEV-V2X: Cooperative Birds-Eye-View Fusion and Grid Occupancy Prediction via V2X-Based Data Sharing"
+title: "BEV-V2X: cooperative Birds-Eye-View fusion and grid occupancy prediction via V2X-based data sharing"
 authors:
 - Cheng Chang
 - admin
@@ -22,13 +22,13 @@ publishDate: "2023-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Intelligent Vehicles*"
+publication: "*IEEE Transactions on Intelligent Vehicles*  <br /> (中科院1区; JCR Q1区; 影响因子=8.200)"
 publication_short: "IEEE T-IV"
 
 abstract: Birds-Eye-View (BEV) perception can naturally represent natural scenes, which is conducive to multimodal data processing and fusion. BEV data contain rich semantics and integrate the information of driving scenes, which play an important role in researches related to autonomous driving. However, BEV constructed by single vehicle perception encounter certain issues, such as low accuracy and insufficient range, and thus cannot be well applied to scenario understanding and driving situation prediction. To address the challenges, this paper proposes a novel data-driven approach based on vehicle-to-everything (V2X) communication. The roadside unit or cloud center collects local BEV data from all connected and automated vehicles (CAVs) within the control area, then fuses and predicts the future global BEV occupancy grid map. It provides powerful support for driving safety warning, cooperative driving planning, cooperative traffic control and other applications. More precisely, we develop an attention-based cooperative BEV fusion and prediction model called BEV-V2X. We also compare the performance of BEV-V2X with that of single vehicle prediction. Experimental results demonstrate that our proposed method achieves higher accuracy. Even in cases where not all vehicles are CAVs, the model can still comprehensively estimate and predict global spatiotemporal changes. We also discuss the impact of the CAV rate, single vehicle perception ability, and grid size on the fusion and prediction results.
 
 # Summary. An optional shortened abstract.
-summary:  The roadside unit or cloud center collects local BEV data from all connected and automated vehicles (CAVs) within the control area, then fuses and predicts the future global BEV occupancy grid map. 
+summary:  基于V2X的BEV融合预测方法.
 
 tags:
 - Cooperative Driving
@@ -47,7 +47,7 @@ links:
     name: Follow
     url: https://www.researchgate.net/publication/372296620_BEV-V2X_Cooperative_Birds-Eye-View_Fusion_and_Grid_Occupancy_Prediction_via_V2X-Based_Data_Sharing
 
-url_pdf: https://ieeexplore.ieee.org/document/10179171/keywords#keywords
+url_pdf: https://ieeexplore.ieee.org/document/10179171
 url_code: ''
 url_dataset: ''
 url_poster: ''
