@@ -1,3 +1,1 @@
-## Building ...
-
-Welcome to my [homepage](https://jiaweizhang.netlify.app/)!
+### Welcome to my [homepage](https://jiaweizhang.netlify.app/)!
