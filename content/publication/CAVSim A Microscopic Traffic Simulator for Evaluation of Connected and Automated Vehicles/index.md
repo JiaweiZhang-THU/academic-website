@@ -55,7 +55,7 @@ url_pdf: https://ieeexplore.ieee.org/abstract/document/10124078
 url_code: 'https://github.com/JiaweiZhang-THU/CAVSim'
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: https://jiaweizhang.netlify.app/project/connected-and-automated-vehicles-simulation-platform/
 url_slides: ''
 url_source: ''
 url_video: ''
