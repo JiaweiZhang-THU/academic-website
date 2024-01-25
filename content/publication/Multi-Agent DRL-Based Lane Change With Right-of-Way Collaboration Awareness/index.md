@@ -80,6 +80,10 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+ *下面为本研究的简要介绍，详细内容请参阅[论文](https://ieeexplore.ieee.org/abstract/document/9932003)原文*
+
+
 <img src=Fig_1.jpg  width=95% />
 
 **双层换道决策规划框架**。核心思想是将换道行为规划分解为两个子规划问题：上层换道决策问题和下层路权分配问题。上层模型决定是否变道，旨在获得更好的驾驶条件。下层模型在换道的过程中合理分配路权，旨在保证变道行为的安全性。
