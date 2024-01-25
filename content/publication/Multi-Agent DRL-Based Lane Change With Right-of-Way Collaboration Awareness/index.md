@@ -163,6 +163,14 @@ $$
 
 ---
 
+**仿真视频**
+
+<img src="换道_1_fps40_10sV1GIF.gif" alt="Lane Change 1" style="zoom:60%;" />
+
+<img src="换道_1_fps40_10sV2GIF.gif" alt="Lane Change 2" style="zoom:60%;" />
+
+---
+
 
 
 ## Citation
