@@ -49,7 +49,7 @@ url_pdf: https://ieeexplore.ieee.org/abstract/document/9735412/authors#authors
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: https://jiaweizhang.netlify.app/project/cooperative-decision-making-and-planning-for-connected-and-automated-vehicles/
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -67,7 +67,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - Decision-making and Planning for Autonomous Vehicles
+  - Cooperative Decision-making and Planning for Connected and Automated Vehicles
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
