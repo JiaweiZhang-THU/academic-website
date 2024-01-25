@@ -88,7 +88,7 @@ slides: ""
  *下面为本研究的简要介绍，详细内容请参阅[论文](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10221733)原文和[期刊简介](https://jiaweizhang.netlify.app/publication/cavsim-a-microscopic-traffic-simulator-for-evaluation-of-connected-and-automated-vehicles/)*
 
 
-<img src=Fig1.jpg  width=50% />
+<img src=Fig1.jpg  width=60% />
 
 **典型的智能网联汽车和自动驾驶汽车仿真环境**
 
@@ -102,7 +102,7 @@ slides: ""
 ---
 
 
-<img src=Fig5.jpg  width=95% />
+<img src=Fig5.jpg  width=60% />
 
 **CAVSim的仿真示例**.
 
