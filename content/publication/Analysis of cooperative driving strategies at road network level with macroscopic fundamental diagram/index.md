@@ -50,7 +50,7 @@ url_pdf: https://www.sciencedirect.com/science/article/pii/S0968090X21004897
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: https://jiaweizhang.netlify.app/project/cooperative-decision-making-and-planning-for-connected-and-automated-vehicles/
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -68,7 +68,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - Traffic Control and Management in CAV Environment
+  - Cooperative Decision-making and Planning for Connected and Automated Vehicles
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
