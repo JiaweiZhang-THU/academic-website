@@ -1,5 +1,5 @@
 ---
-title: "Self-Organized Routing for Autonomous Vehicles via Deep Reinforcement Learning"
+title: "Self-organized routing for autonomous vehicles via deep reinforcement learning"
 authors:
 - Huaxin Pei
 - admin
@@ -20,7 +20,7 @@ publishDate: "2022-10-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Vehicular Technology*"
+publication: "*IEEE Transactions on Vehicular Technology* <br /> (中科院2区; JCR Q1区; 影响因子=6.800)"
 publication_short: "TVT"
 
 abstract: Routing for autonomous vehicles with global traffic information and sufficient direct cooperation among vehicles has been widely studied to relieve traffic congestion in recent years. However, the assembly rate of Vehicle-to-Everything (V2X) equipment in practical traffic systems is currently and could be at a low level in near future. Accordingly, autonomous vehicles can only access localized traffic information, and direct cooperation among them cannot always be guaranteed. Thus, how to optimize the routing choices in such scenarios is worthy of particular attention. In this paper, we propose a self-organized routing strategy based on deep reinforcement learning (DRL). Under the condition of limited traffic information, the proposed self-organized mechanism well organizes localized traffic conditions through vehicle-level routing decisions, which are able to achieve network-wide benefits gains. In the specified DRL, we propose a novel reward mechanism to harmonize indirect interactions among vehicles by jointly learning individual and overall efficiency, even if each vehicle is modified to make individual decisions independently, rather than only focusing on individual interests as in the greedy strategy. Numerical experiments demonstrate that the proposed self-organized strategy is promising to resolve the routing problem from the perspective of individual decision-making with limited traffic information.
@@ -46,11 +46,11 @@ links:
     icon_pack: fab
     name: Follow
     url: https://www.researchgate.net/profile/Jiawei-Zhang-61
-url_pdf: https://ieeexplore.ieee.org/document/10244078/keywords#keywords
+url_pdf: https://ieeexplore.ieee.org/document/10244078/
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: https://jiaweizhang.netlify.app/project/decision-making-and-planning-for-autonomous-vehicles/
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -76,6 +76,8 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+ 
+ *详细内容请参阅[论文](https://ieeexplore.ieee.org/document/10244078/)原文*
 
 
 ## Citation
