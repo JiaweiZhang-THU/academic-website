@@ -82,71 +82,71 @@ slides: ""
  *下面为本研究的简介，详细内容请参阅[论文](https://ieeexplore.ieee.org/document/10179171)原文*
 
 
-<img src=Fig_1.jpg  width=80% />
+<img src=Fig_1.gif  width=80% />
 
 ---
 
-<img src=Fig_2.jpg  width=95% />
-
----
-
-
-<img src=Fig_3.jpg  width=95% />
+<img src=Fig_2.gif  width=95% />
 
 ---
 
 
-<img src=Fig_4.jpg  width=50% />
+<img src=Fig_3.gif  width=95% />
 
 ---
 
 
-<img src=Fig_5.jpg  width=50% />
+<img src=Fig_4.gif  width=50% />
 
 ---
 
 
-<img src=Fig_6.jpg  width=50% />
+<img src=Fig_5.gif  width=50% />
 
 ---
 
 
-<img src=Fig_7.jpg  width=50% />
+<img src=Fig_6.gif  width=50% />
 
 ---
 
 
-<img src=Fig_8.jpg  width=50% />
+<img src=Fig_7.gif  width=50% />
 
 ---
 
 
-<img src=Fig_9.jpg  width=95% />
+<img src=Fig_8.gif  width=50% />
 
 ---
 
 
-<img src=Fig_10.jpg  width=95% />
+<img src=Fig_9.gif  width=95% />
 
 ---
 
 
-<img src=Fig_11.jpg  width=50% />
+<img src=Fig_10.gif  width=95% />
 
 ---
 
 
-<img src=Fig_12.jpg  width=50% />
+<img src=Fig_11.gif  width=50% />
 
 ---
 
 
-<img src=Fig_13.jpg  width=50% />
+<img src=Fig_12.gif  width=50% />
 
 ---
 
 
-<img src=Fig_14.jpg  width=95% />
+<img src=Fig_13.gif  width=50% />
+
+---
+
+
+<img src=Fig_14.gif  width=95% />
 
 ---
 
