@@ -50,7 +50,7 @@ url_pdf: https://ieeexplore.ieee.org/document/10244078/
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: https://jiaweizhang.netlify.app/project/decision-making-and-planning-for-autonomous-vehicles/
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -67,7 +67,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: 
+  - Decision-making and Planning for Autonomous Vehicles
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
