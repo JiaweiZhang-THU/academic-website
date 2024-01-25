@@ -1,5 +1,5 @@
 ---
-title: "Drill the Cork of Information Bottleneck by Inputting the Most Important Data"
+title: "Drill the cork of information bottleneck by inputting the most important data"
 authors:
 - Xinyu Peng
 - admin
@@ -19,7 +19,7 @@ publishDate: "2022-10-28T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Neural Networks and Learning Systems*"
+publication: "*IEEE Transactions on Neural Networks and Learning Systems* <br /> (中科院1区; JCR Q1区; 影响因子=14.255)"
 publication_short: "IEEE T-NNLS"
 
 abstract: Deep learning has become the most powerful machine learning tool in the last decade. However, how to efficiently train deep neural networks remains to be thoroughly solved. The widely used minibatch stochastic gradient descent (SGD) still needs to be accelerated. As a promising tool to better understand the learning dynamic of minibatch SGD, the information bottleneck (IB) theory claims that the optimization process consists of an initial fitting phase and the following compression phase. Based on this principle, we further study typicality sampling, an efficient data selection method, and propose a new explanation of how it helps accelerate the training process of the deep networks. We show that the fitting phase depicted in the IB theory will be boosted with a high signal-to-noise ratio of gradient approximation if the typicality sampling is appropriately adopted. Furthermore, this finding also implies that the prior information of the training set is critical to the optimization process, and the better use of the most important data can help the information flow through the bottleneck faster. Both theoretical analysis and experimental results on synthetic and real-world datasets demonstrate our conclusions.
@@ -72,7 +72,10 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-####  Evolution of the layers information paths with different training epochs for MNIST dataset, during the optimization of conventional minibatch SGD and typical batch SGD. The same training steps of different layers are connected by the gray thin lines. Left to right: at 10, 20, 50, and 200 epochs. The first row shows the optimization process of conventional minibatch SGD and the second row shows the optimization process of typical batch SGD.
+
+ *下面为本研究的简介，详细内容请参阅[论文](https://ieeexplore.ieee.org/abstract/document/9439803)原文*
+
+
 ![avatar](./featured.jpg)
 
 
