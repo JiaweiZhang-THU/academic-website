@@ -51,7 +51,7 @@ url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10221733
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: https://jiaweizhang.netlify.app/project/decision-making-and-planning-for-autonomous-vehicles/
 url_slides: ''
 url_source: ''
 url_video: ''
