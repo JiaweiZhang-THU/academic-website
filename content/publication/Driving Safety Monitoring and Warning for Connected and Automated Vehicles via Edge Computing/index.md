@@ -1,5 +1,5 @@
 ---
-title: "Driving Safety Monitoring and Warning for Connected and Automated Vehicles via Edge Computing"
+title: "Driving safety monitoring and warning for connected and automated vehicles via edge computing"
 authors:
 - Cheng Chang
 - Kunpeng Zhang
@@ -76,12 +76,12 @@ projects: []
 slides: ""
 ---
 
-## The flowchart of the proposed framework.
+ *下面为本研究的简介，详细内容请参阅[论文](https://ieeexplore.ieee.org/abstract/document/9922076)原文*
+
 ![avatar](./Fig_1.jpg)
 
 ---
 
-## Best Student Paper Award
 ![avatar](./Fig_0.jpg)
 
 ---
