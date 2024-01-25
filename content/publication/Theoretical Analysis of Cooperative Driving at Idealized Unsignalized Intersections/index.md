@@ -1,5 +1,5 @@
 ---
-title: "Theoretical Analysis of Cooperative Driving at Idealized Unsignalized Intersections"
+title: "Theoretical analysis of cooperative driving at idealized unsignalized intersections"
 authors:
 - Shen Li
 - admin
@@ -47,7 +47,7 @@ url_pdf: https://ieeexplore.ieee.org/abstract/document/10225295
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: https://jiaweizhang.netlify.app/project/decision-making-and-planning-for-autonomous-vehicles/
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -74,30 +74,35 @@ projects: []
 slides: ""
 ---
 
-#### Illustration of different control methods at the simplest conflict point, where vehicles run in only two directions.
-(a) rhythmic control, where vehicles pass with the one-by-one zipper-style movement; (b) modular vehicles control, where vehicles condense the car-following gap or even diminish such gap to increase the intersection capacity; (c) platoon-based control, where vehicles in the same direction are grouped to pass the intersection, but there is a gap between vehicles in the same group.
+*下面为本研究的简介，详细内容请参阅[论文](https://ieeexplore.ieee.org/abstract/document/10225295)原文*
+
+
+
 ![avatar](./Fig1.jpg)
 
+Illustration of different control methods at the simplest conflict point, where vehicles run in only two directions.(a) rhythmic control, where vehicles pass with the one-by-one zipper-style movement; (b) modular vehicles control, where vehicles condense the car-following gap or even diminish such gap to increase the intersection capacity; (c) platoon-based control, where vehicles in the same direction are grouped to pass the intersection, but there is a gap between vehicles in the same group.
+
 ---
-#### Illustration of the condensing process before cooperative driving at the core area of an unsignalized intersection.
+
 ![avatar](./Fig3.jpg)
 
+Illustration of the condensing process before cooperative driving at the core area of an unsignalized intersection.
 
 ---
-#### Three-lane intersection with two west-to-east flow lanes and one south-to-north flow lane.
+
 ![avatar](./Fig4.jpg)
-
+Three-lane intersection with two west-to-east flow lanes and one south-to-north flow lane.
 
 ---
-#### Fig.5
-(a) Three-lane intersection with one west-to-east flow lane, one east-to-north flow lane, and one south-to-north flow lane; (b) the corresponding right-of-way assignments along the time axis.
 ![avatar](./Fig5.jpg)
-
+(a) Three-lane intersection with one west-to-east flow lane, one east-to-north flow lane, and one south-to-north flow lane; (b) the corresponding right-of-way assignments along the time axis.
 
 ---
-#### Eight-lane intersection with four through lanes first labeled as counterclockwise and four left-turn lanes then labeled as counterclockwise.
-![avatar](./Fig7.jpg)
 
+![avatar](./Fig7.jpg)
+Eight-lane intersection with four through lanes first labeled as counterclockwise and four left-turn lanes then labeled as counterclockwise.
+
+---
 
 ## Citation
 If you find our work is useful in your research, please consider citing:
