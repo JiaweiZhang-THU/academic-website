@@ -1,5 +1,5 @@
 ---
-title: "Predictive Information Multiagent Deep Reinforcement Learning for Automated Truck Platooning Control"
+title: "Predictive information multiagent deep reinforcement learning for automated truck platooning control"
 authors:
 - Renzong Lian
 - Zhiheng Li
@@ -50,7 +50,7 @@ url_pdf: https://ieeexplore.ieee.org/abstract/document/10273625
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: https://jiaweizhang.netlify.app/project/decision-making-and-planning-for-autonomous-vehicles/
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -77,6 +77,10 @@ projects: []
 slides: ""
 ---
 
+ *详细内容请参阅[论文](https://ieeexplore.ieee.org/abstract/document/10273625)原文*
+
+
+<img src=feature.jpg  width=90% />
 
 ## Citation
 If you find our work is useful in your research, please consider citing:
