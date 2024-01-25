@@ -78,19 +78,77 @@ projects: []
 slides: ""
 ---
 
-#### . An illustration of BEV perception based on single vehicle and CAV relative to vehicle A in an intersection scenario.
-![avatar](./Fig_1.jpg)
+
+ *下面为本研究的简介，详细内容请参阅[论文](https://ieeexplore.ieee.org/document/10179171)原文*
+
+
+<img src=Fig_1.jpg  width=80% />
 
 ---
-#### The data flowchart of cooperative BEV fusion and prediction.
-![avatar](./Fig_2.jpg)
 
-
+<img src=Fig_2.jpg  width=95% />
 
 ---
-#### The structure of spatial temporal attention.
-![avatar](./Fig_4.jpg)
 
+
+<img src=Fig_3.jpg  width=95% />
+
+---
+
+
+<img src=Fig_4.jpg  width=50% />
+
+---
+
+
+<img src=Fig_5.jpg  width=50% />
+
+---
+
+
+<img src=Fig_6.jpg  width=50% />
+
+---
+
+
+<img src=Fig_7.jpg  width=50% />
+
+---
+
+
+<img src=Fig_8.jpg  width=50% />
+
+---
+
+
+<img src=Fig_9.jpg  width=95% />
+
+---
+
+
+<img src=Fig_10.jpg  width=95% />
+
+---
+
+
+<img src=Fig_11.jpg  width=50% />
+
+---
+
+
+<img src=Fig_12.jpg  width=50% />
+
+---
+
+
+<img src=Fig_13.jpg  width=50% />
+
+---
+
+
+<img src=Fig_14.jpg  width=95% />
+
+---
 
 ## Citation
 If you find our work is useful in your research, please consider citing:
