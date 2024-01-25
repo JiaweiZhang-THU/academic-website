@@ -1,5 +1,5 @@
 ---
-title: "Fault-Tolerant Cooperative Driving at Highway On-Ramps Considering Communication Failure"
+title: "Fault-tolerant cooperative driving at highway on-ramps considering communication failure"
 authors:
 - Qiyuan Liu
 - admin
@@ -22,13 +22,13 @@ publishDate: "2022-10-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Transportation Research Part C: Emerging Technologies*"
+publication: "*Transportation Research Part C: Emerging Technologies* <br /> (中科院1区TOP期刊; JCR Q1区; 影响因子=9.022)"
 publication_short: "TRC"
 
-abstract: Cooperative driving has great potential to improve traffic safety and efficiency and has been widely discussed in recent years. However, most existing researches only focus on the ideal communication environment and ignore the potential vehicle communication failure, which poses serious safety threats to traffic safety. To fill this research gap, we propose three designing principles for a fault-tolerant cooperative driving model considering communication failure. We let vehicles make real-time decision adjustments according to changes in communication conditions. Fault and non-fault vehicles can execute different decision models in a distributed manner. We test with on-ramps scenarios in simulations. Experiment results demonstrate the promising performance of the proposed model in achieving fault tolerance while reducing the impacts on traffic efficiency.
+abstract: 协同驾驶是一种利用车辆间通信和自动驾驶技术，实现车辆之间协调合作的驾驶方式，它可以有效提高交通安全和效率。然而，现有的协同驾驶研究大多只考虑理想的通信环境，而忽视了车辆通信故障的可能性，这极有可能对交通安全构成严重威胁。为解决这一问题，我们提出了一种考虑通信故障的容错协同驾驶决策模型，该模型能够让车辆根据通信状态的变化，动态调整协同决策，从而在保证安全的前提下，提高通行效率。该文章以高速公路匝道为场景，通过仿真实验，验证了模型的有效性和优越性。
 
 # Summary. An optional shortened abstract.
-summary:  Fault-tolerant cooperative driving model considering communication failure.
+summary:  作为最早将通信故障情况引入协同驾驶模型的研究，这篇论文解决了限制协同驾驶发展的重大现实问题，为未来协同驾驶的进一步发展与应用铺平了道路.
 
 tags:
 - Cooperative Driving
@@ -51,7 +51,7 @@ url_pdf: https://www.sciencedirect.com/science/article/pii/S0968090X23002164?via
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: https://jiaweizhang.netlify.app/project/decision-making-and-planning-for-autonomous-vehicles/
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -78,19 +78,22 @@ projects: []
 slides: ""
 ---
 
-#### A typical highway on-ramp scenario with communication failures.
+
+ *详细内容请参阅[论文](https://www.sciencedirect.com/science/article/pii/S0968090X23002164?via%3Dihub)原文*
+ 
+A typical highway on-ramp scenario with communication failures.
 ![avatar](./Fig_1.jpg)
 
-#### The classification of vehicles in a merging scenario with communication failure.
+The classification of vehicles in a merging scenario with communication failure.
 ![avatar](./Fig_3.jpg)
 
 ---
-#### The flowchart of the fault-tolerant cooperative driving model.
+The flowchart of the fault-tolerant cooperative driving model.
 ![avatar](./Fig_4.jpg)
 
 
 ---
-####  The flowchart of the connected vehicle decision model.
+The flowchart of the connected vehicle decision model.
 ![avatar](./Fig_7.jpg)
 
 
