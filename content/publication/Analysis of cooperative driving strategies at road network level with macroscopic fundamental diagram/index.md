@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Cooperative Driving Strategies at Road Network Level with Macroscopic Fundamental Diagram"
+title: "Analysis of cooperative driving strategies at road network level with macroscopic fundamental diagram"
 authors:
 - admin
 - Huaxin Pei
@@ -19,21 +19,22 @@ publishDate: "2023-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Transportation Research Part C: Emerging Technologies*"
+publication: "*Transportation Research Part C: Emerging Technologies* <br /> (中科院1区TOP期刊; JCR Q1区; 影响因子=9.551)"
 publication_short: "TRC"
 
-abstract: Cooperative driving, especially the passing order, is the critical link to improve the traffic efficiency of the road network by using automated vehicles (AVs). However, most studies have only considered the performance of the passing order at the isolated intersection and have not yet investigated its impact on the road network. In this paper, we will focus on the performance of the passing orders derived from different cooperative driving strategies on the network traffic through a series of simulation experiments. Meanwhile, we will compare the impacts of the passing order at intersections and the car-following gap in straight links on the network traffic efficiency. The experiments results show that the passing order has a dominant impact on the network traffic efficiency, and a better order can significantly raise the curve of the macroscopic fundamental diagram (MFD); due to the inevitable conflicts in the two-dimensional traffic, the choice of the car-following gap within a reasonable range has a relatively small improvement on the network traffic efficiency. The findings in this paper have instructive significance for the rising research on network-wide cooperative driving and provide a systematical perspective for network traffic control.
+abstract: 本研究对智能网联汽车协同决策问题开展了理论研究，分析了协同决策的内在机理，揭示了不同协同决策算法之间的本质区别，构建了以宏观基本图为核心的评估方法，验证了协同决策的瓶颈要素：二维路权冲突，提出了统一的拉链式协同决策算法框架。该研究为协同决策技术的进一步发展指明了方向，具有重要意义。
 
 # Summary. An optional shortened abstract.
-summary: Investigating the key ways for automated vehicles (AVs) to improve the traffic efficiency of two-dimensional urban network traffic.
+summary: 提出车辆群体“宏观-中观-微观”系统机理与分层管控路线，分析验证了车辆群体协同决策的核心问题.
 
 tags:
-- Cooperative Driving
-- Network Traffic
-- Macroscopic Fundamental Diagram
-- MFD
-- Traffic Control
-- Right-of-way
+- 智能网联汽车
+- 自动驾驶
+- 理论研究
+- 协同驾驶
+- 宏观基本图
+- 交通控制
+- 路权分配
 featured: false
 
 # links:
