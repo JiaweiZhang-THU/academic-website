@@ -51,7 +51,7 @@ url_pdf: https://ieeexplore.ieee.org/abstract/document/10078727
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: https://jiaweizhang.netlify.app/project/cooperative-decision-making-and-planning-for-connected-and-automated-vehicles/
 url_slides: ''
 url_source: ''
 url_video: ''
