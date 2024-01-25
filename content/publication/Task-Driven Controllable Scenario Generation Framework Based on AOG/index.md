@@ -52,7 +52,7 @@ url_pdf: https://ieeexplore.ieee.org/abstract/document/10401017
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: https://jiaweizhang.netlify.app/project/connected-and-automated-vehicles-simulation-platform/
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -69,7 +69,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: 
+  - Connected and Automated Vehicles Simulation Platform
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
