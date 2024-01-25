@@ -180,7 +180,7 @@ A typical urban traffic network with twenty-five intersections. All straight lin
 
 ---
 
-<img src=Fig60.jpg  width=50% />
+<img src=Fig18.jpg  width=60% />
 
 MFDs of the traffic network with twenty-five intersections under different control strategies.
 
