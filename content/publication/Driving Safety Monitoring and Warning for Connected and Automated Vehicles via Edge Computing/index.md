@@ -26,7 +26,7 @@ publication_short: "IEEE ITSC"
 abstract: In this paper, we systematically study how to use edge computing to monitor the movements of multiple connected and automated vehicles (CAV) and warn of potential accidents (e.g., lane departures, collisions). Compared to conventional approaches that only use the sensing data of individual vehicles, cooperative vehicle infrastructure systems directly collect the movement data of vehicles via vehicle-to-everything (V2X) communications and thus easily calculate the risk of every vehicle synthetically. We propose a fast algorithm and the corresponding data structure model to calculate collision risks based on the timely received data. We also discuss the data accuracy and transmission delay requirements to guarantee the driving safety of CAVs. Testing results show the effectiveness of the proposed approach.
 
 # Summary. An optional shortened abstract.
-summary: Using edge computing to monitor the movements of multiple connected and automated vehicles (CAV) and warn of potential accidents (e.g., lane departures, collisions).
+summary: 了基于边缘计算的自动驾驶安全监测与预警算法.
 
 tags:
 - Cooperative Driving
