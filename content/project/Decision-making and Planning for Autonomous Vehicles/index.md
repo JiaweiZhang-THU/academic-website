@@ -60,11 +60,11 @@ slides: ""
 <img src=LaneChangeModel.jpg  width=90% />
   
 ## 研究工作3：自动驾驶安全预警
-  + Paper: [Driving Safety Monitoring and Warning for Connected and Automated Vehicles via Edge Computing](https://ieeexplore.ieee.org/abstract/document/9922076)
+  + 论文1: *Driving safety monitoring and warning for connected and automated vehicles via edge computing* ([简介](https://jiaweizhang.netlify.app/publication/driving-safety-monitoring-and-warning-for-connected-and-automated-vehicles-via-edge-computing/); [Paper](https://ieeexplore.ieee.org/abstract/document/9922076))
     
 <img src=Safety.jpg  width=90% />
 
 ## 研究工作4：自动驾驶BEV融合预测
-  + Paper: [BEV-V2X: Cooperative Birds-Eye-View Fusion and Grid Occupancy Prediction via V2X-Based Data Sharing](https://ieeexplore.ieee.org/abstract/document/10179171)
+  + 论文1: *BEV-V2X: cooperative Birds-Eye-View fusion and grid occupancy prediction via V2X-based data sharing* ([简介](https://jiaweizhang.netlify.app/publication/bev-v2x-cooperative-birds-eye-view-fusion-and-grid-occupancy-prediction-via-v2x-based-data-sharing/); [Paper](https://ieeexplore.ieee.org/abstract/document/10179171))
     
 <img src=BEV.jpg  width=90% />
