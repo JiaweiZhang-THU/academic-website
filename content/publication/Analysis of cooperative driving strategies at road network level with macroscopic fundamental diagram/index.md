@@ -78,6 +78,9 @@ projects:
 slides: ""
 ---
 
+ *下面为本研究的简要介绍，详细内容请参阅[论文](https://www.sciencedirect.com/science/article/pii/S0968090X21004897?via%3Dihub)原文*
+
+
 <img src=Fig1.jpg  width=60% />
 
 **A typical isolated intersection and an illustration of the passing order.** Vehicles A, B, C, and F will pass through the intersection. Order AFBCmeans that A, F, B, and C will pass through the conflict zone successively. In particular, it should be noted that some vehicles do not have conflicting paths, and thus they can drive into conflict zone simultaneously. Therefore, the order *AFBC* and *FABC* are essentially equivalent.
