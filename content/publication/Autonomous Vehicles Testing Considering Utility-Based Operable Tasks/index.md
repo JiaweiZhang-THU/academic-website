@@ -1,5 +1,5 @@
 ---
-title: "Autonomous Vehicles Testing Considering Utility-Based Operable Tasks"
+title: "Autonomous vehicles testing considering utility-based operable tasks"
 authors:
 - Jingwei Ge
 - admin
@@ -77,6 +77,8 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+*详细内容请参阅[论文](https://ieeexplore.ieee.org/abstract/document/10130026)原文*
 
 
 ## Citation
