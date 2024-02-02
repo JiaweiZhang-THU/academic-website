@@ -92,7 +92,6 @@ The classification of vehicles in a merging scenario with communication failure.
 The flowchart of the fault-tolerant cooperative driving model.
 ![avatar](./Fig_4.jpg)
 
-
 ---
 The flowchart of the connected vehicle decision model.
 ![avatar](./Fig_7.jpg)
