@@ -97,7 +97,6 @@ The flowchart of the connected vehicle decision model.
 ![avatar](./Fig_7.jpg)
 
 
-
 ## Citation
 If you find our work is useful in your research, please consider citing:
 ```
