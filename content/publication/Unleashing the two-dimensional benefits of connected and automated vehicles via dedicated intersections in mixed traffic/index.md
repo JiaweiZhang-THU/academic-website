@@ -111,25 +111,25 @@ slides: ""
 
 
 ---
-<img src=Fig_5.jpg  width=40% />
+<img src=Fig_5.jpg  width=99% />
 
 **性能评估**： 待补充。
 
 
 ---
-<img src=Fig_7.jpg  width=40% />
+<img src=Fig_7.jpg  width=80% />
 
 **性能评估**： 待补充。
 
 
 ---
-<img src=Fig_8.jpg  width=40% />
+<img src=Fig_8.jpg  width=80% />
 
 **性能评估**： 待补充。
 
 
 ---
-<img src=Fig_11.jpg  width=40% />
+<img src=Fig_11.jpg  width=80% />
 
 **性能评估**： 待补充。
 
@@ -141,12 +141,12 @@ slides: ""
 
 
 ---
-<img src=Fig_14.jpg  width=40% />
+<img src=Fig_14.jpg  width=80% />
 
 **性能评估**： 待补充。
 
 ---
-<img src=Fig_16.jpg  width=40% />
+<img src=Fig_16.jpg  width=60% />
 
 **性能评估**： 待补充。
 
