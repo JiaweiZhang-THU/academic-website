@@ -77,6 +77,7 @@ projects:
 slides: ""
 ---
 
+
 #### Potential vehicle failures are divided into three categories.
 ![avatar](./Fig_3.jpg)
 
