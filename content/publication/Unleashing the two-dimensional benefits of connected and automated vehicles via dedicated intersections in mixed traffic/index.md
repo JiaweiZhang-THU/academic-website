@@ -104,11 +104,6 @@ slides: ""
 
 **部署示意图**：待补充。
 
----
-<img src=Fig_5.jpg  width=40% />
-
-**性能评估**： 待补充。
-
 
 ---
 <img src=Fig_5.jpg  width=99% />
