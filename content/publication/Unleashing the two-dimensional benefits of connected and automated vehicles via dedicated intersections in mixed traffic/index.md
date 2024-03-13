@@ -21,7 +21,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Transportation Research Part C: Emerging Technologies* <br /> (中科院1区TOP期刊; JCR Q1区; 影响因子=8.3)"
-publication_short: "IEEE T-ITS"
+publication_short: "TRC"
 
 abstract: 针对自动驾驶汽车在混行交通中的应用挑战，本研究提出了自动驾驶专用交叉口方法， 该策略能够实现人车和自动驾驶汽车的智能分流，为大规模部署先进的自动驾驶技术创造了条件。我们构建了(i)专用交叉口部署模型，提出了(ii)基于群体智能的部署算法，以及(iii)车辆群体路线诱导方法，为自动驾驶的大规模部署应用提供了方案。
 
