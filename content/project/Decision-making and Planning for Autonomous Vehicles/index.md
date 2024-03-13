@@ -10,7 +10,7 @@ tags:
   - 安全预警
   - BEV融合预测
 
-date: '2023-06-23T00:00:00Z'
+date: '2022-12-25T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
