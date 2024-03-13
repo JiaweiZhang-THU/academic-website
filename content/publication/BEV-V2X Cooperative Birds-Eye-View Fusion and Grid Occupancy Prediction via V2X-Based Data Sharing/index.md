@@ -106,7 +106,6 @@ slides: ""
 
 ---
 
-
 <img src=Fig_6.gif  width=50% />
 
 ---
