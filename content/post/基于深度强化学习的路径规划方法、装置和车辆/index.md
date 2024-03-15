@@ -50,5 +50,6 @@ categories:
 ## 主权项
 一种基于深度强化学习的路径规划方法,其特征在于,当车辆到达一路口节点时,包括：获取所述车辆所在所述路口节点到第一路口节点和第二路口节点范围内的交通状态信息；其中,所述第一路口节点为所述车辆所在所述路口节点的下一路口节点,所述第二路口节点为所述车辆所在所述路口节点的下一路口节点的下一路口节点；将获得的所述交通状态信息输入预先训练好的基于深度强化学习的路径规划模型,以选择所述车辆所在所述路口节点到所述第一路口节点范围内的路径并执行。
 
+
 ### [专利说明书](https://kns.cnki.net/kcms2/article/abstract?v=Epsgq4wCkk1IGrep_HAlhEPO2SWu0CWR8OFAd2nNyc_jq0IfsYqGnhVtiCGqq4AbF2FWlnATpvlvpDUafTpzY9bAP6RaWISmRyjPSfdvtUwHDsQuS85mMSrJlHS7tjLxc4YqMvXZZ8s=&uniplatform=NZKPT&language=CHS)
 
