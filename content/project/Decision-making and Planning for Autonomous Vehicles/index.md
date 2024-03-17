@@ -68,3 +68,4 @@ slides: ""
   + 论文1: *BEV-V2X: cooperative Birds-Eye-View fusion and grid occupancy prediction via V2X-based data sharing* ([简介](https://jiaweizhang.netlify.app/publication/bev-v2x-cooperative-birds-eye-view-fusion-and-grid-occupancy-prediction-via-v2x-based-data-sharing/); [Paper](https://ieeexplore.ieee.org/abstract/document/10179171))
     
 <img src=BEV.jpg  width=90% />
+
