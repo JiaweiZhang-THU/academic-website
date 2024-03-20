@@ -58,7 +58,7 @@ slides: ""
   + 论文1: *Multi-agent DRL-based lane change with right-of-way collaboration awareness* ([简介](https://jiaweizhang.netlify.app/publication/multi-agent-drl-based-lane-change-with-right-of-way-collaboration-awareness/); [Paper](https://ieeexplore.ieee.org/abstract/document/9932003))
     
 <img src=LaneChangeModel.jpg  width=90% />
-  
+
 ## 研究工作3：自动驾驶安全预警
   + 论文1: *Driving safety monitoring and warning for connected and automated vehicles via edge computing* ([简介](https://jiaweizhang.netlify.app/publication/driving-safety-monitoring-and-warning-for-connected-and-automated-vehicles-via-edge-computing/); [Paper](https://ieeexplore.ieee.org/abstract/document/9922076))
     
