@@ -65,6 +65,7 @@ slides: ""
   
 <img src=Fault.jpg  width=70% />
 
+
 ## 研究工作4：协同决策理论研究
   + 论文1: *Analysis of cooperative driving strategies at road network level with macroscopic fundamental diagram* ([简介](https://jiaweizhang.netlify.app/publication/analysis-of-cooperative-driving-strategies-at-road-network-level-with-macroscopic-fundamental-diagram/); [Paper](https://www.sciencedirect.com/science/article/pii/S0968090X21004897))
   + 论文2: *Theoretical analysis of cooperative driving at idealized unsignalized intersections* ([简介](https://jiaweizhang.netlify.app/publication/theoretical-analysis-of-cooperative-driving-at-idealized-unsignalized-intersections/); [Paper](https://ieeexplore.ieee.org/abstract/document/10225295))
