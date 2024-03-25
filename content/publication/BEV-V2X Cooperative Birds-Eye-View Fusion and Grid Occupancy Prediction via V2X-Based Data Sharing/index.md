@@ -147,7 +147,6 @@ slides: ""
 
 ---
 
-
 <img src=Fig_14.gif  width=95% />
 
 ---
