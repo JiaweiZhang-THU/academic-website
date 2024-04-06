@@ -1,5 +1,5 @@
 ---
-title: "Driving Safety Monitoring and Warning for Connected and Automated Vehicles via Edge Computing"
+title: "Adversarial Generation of Safety-Critical Lane-Change Scenarios for Autonomous Vehicles"
 authors:
 - Zimin He
 - admin
