@@ -49,6 +49,8 @@ url_video: ''
 slides: ""
 ---
 ## 研究工作1：自动驾驶路线规划
+
+针对自动驾驶路线规划问题面临的系统复杂、信息有限、决策耦合等挑战，本研究提出了基于深度强化学习的路线规划算法。通过创新的分层决策机制和自组织动态规划规划原则，以及新颖的深度强化学习路线规划模型，实现了前馈、主动高效的路线规划性能，显著提升了自动驾驶汽车的出行效率，同时协同提高了交通巨系统的运行效率。详将该研究工作的[简介](https://jiaweizhang.netlify.app/publication/a-bi-level-network-wide-cooperative-driving-approach-including-deep-reinforcement-learning-based-routing/)。
   + 论文1: *A bi-level network-wide cooperative driving approach including deep reinforcement learning-based routing* ([简介](https://jiaweizhang.netlify.app/publication/a-bi-level-network-wide-cooperative-driving-approach-including-deep-reinforcement-learning-based-routing/); [Paper](https://ieeexplore.ieee.org/abstract/document/10221733))
   + 论文2: *Self-organized routing for autonomous vehicles via deep reinforcement learning* ([简介](https://jiaweizhang.netlify.app/publication/self-organized-routing-for-autonomous-vehicles-via-deep-reinforcement-learning/); [Paper](https://ieeexplore.ieee.org/abstract/document/10244078))
 
