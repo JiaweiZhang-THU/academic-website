@@ -75,5 +75,5 @@ slides: ""
   + 论文1: *Unleashing the power of connected and automated vehicles: A dedicated link strategy for efficient management of mixed traffic* ([简介](https://jiaweizhang.netlify.app/publication/unleashing-the-power-of-connected-and-automated-vehicles-a-dedicated-link-strategy-for-efficient-management-of-mixed-traffic/); [Paper](https://ieeexplore.ieee.org/document/10462009))
   + 论文2: *Unleashing the two-dimensional benefits of connected and automated vehicles via dedicated intersections in mixed traffic* ([简介](https://jiaweizhang.netlify.app/publication/unleashing-the-two-dimensional-benefits-of-connected-and-automated-vehicles-via-dedicated-intersections-in-mixed-traffic/); [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0968090X24000226))
   
-<img src=ScenarioGeneration.jpg  width=70% />
+<img src=DedicatedLink.jpg  width=70% />
 
