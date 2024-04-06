@@ -31,11 +31,11 @@ links:
   - icon: car-burst
     icon_pack: fas
     name: 自动驾驶安全预警
-    url: https://ieeexplore.ieee.org/abstract/document/9922076
+    url: https://jiaweizhang.netlify.app/publication/driving-safety-monitoring-and-warning-for-connected-and-automated-vehicles-via-edge-computing/
   - icon: car
     icon_pack: fas
     name: BEV感知融合与预测
-    url: https://ieeexplore.ieee.org/abstract/document/10179171
+    url: https://jiaweizhang.netlify.app/publication/bev-v2x-cooperative-birds-eye-view-fusion-and-grid-occupancy-prediction-via-v2x-based-data-sharing/
 url_code: ''
 url_pdf: ''
 url_slides: ''
