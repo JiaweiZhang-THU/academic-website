@@ -52,6 +52,7 @@ slides: ""
 
 
 ## 研究工作1：自动驾驶仿真平台
+针对高级别自动驾驶仿真测试需求，本工作研发了自动驾驶仿真平台CAVSim。相较于其他平台，该平台是首个支持智能网联汽车协同决策和自动驾驶前馈式决策规划的仿真平台，提供了丰富的决策规划基准算法和测试功能。该平台由本人主导研发，C++代码量超一万行，已有数十篇高水平学术论文基于该平台发表。详见该研究工作的[简介](https://jiaweizhang.netlify.app/publication/cavsim-a-microscopic-traffic-simulator-for-evaluation-of-connected-and-automated-vehicles/)。
   + 论文1: *CAVSim: a microscopic traffic simulator for evaluation of connected and automated vehicles* ([简介](https://jiaweizhang.netlify.app/publication/cavsim-a-microscopic-traffic-simulator-for-evaluation-of-connected-and-automated-vehicles/); [Paper](https://ieeexplore.ieee.org/abstract/document/10124078))
   + 论文2: *CAVSim: A Microscope Traffic Simulator for Connected and Automated Vehicles Environment* ([简介](https://jiaweizhang.netlify.app/publication/cavsim-a-microscope-traffic-simulator-for-connected-and-automated-vehicles-environment/); [Paper](https://ieeexplore.ieee.org/abstract/document/9922267))
   + Code: [CAVSim](https://github.com/JiaweiZhang-THU/CAVSim)
@@ -63,14 +64,16 @@ slides: ""
     在国家智能汽车与智慧交通示范基地开展10辆智能网联汽车协同驾驶的实验验证工作
 <img src="RealVehicle.gif" alt="Autonomous driving real vehicle system" style="zoom:70%;" />
   
-## 研究工作3：自动驾驶智能测试
-  + 论文1: *Heterogeneous driver modeling and corner scenarios sampling for automated vehicles testing* ([Paper](https://www.hindawi.com/journals/jat/2022/8655514/))
-  + 论文2: *Autonomous vehicles testing considering utility-based operable tasks* ([简介](https://jiaweizhang.netlify.app/publication/autonomous-vehicles-testing-considering-utility-based-operable-tasks/); [Paper](https://ieeexplore.ieee.org/abstract/document/10130026))
+## 研究工作3：自动驾驶智能测试算法
+智能测试对于自动驾驶技术的部署应用至关重要，其中如何高效构建关键测试场景是自动驾驶智能测试的核心。本研究提出了一种基于深度强化学习的对抗测试方法，该方法通过构建对抗智能体和创新模型奖励函数，兼顾了测试场景的关键性和真实性，实现了更高效且更符合真实场景的自动驾驶智能测试。
+  + 论文: *Adversarial Generation of Safety-Critical Lane-Change Scenarios for Autonomous Vehicles* ([Paper](https://ieeexplore.ieee.org/document/10422684))
     
 <img src=Testing.jpg  width=70% />
 
-## 研究工作4：自动驾驶场景生成
-  + 论文1: *Task-driven controllable scenario generation framework based on AOG* ([简介](https://jiaweizhang.netlify.app/publication/task-driven-controllable-scenario-generation-framework-based-on-aog/); [Paper](https://ieeexplore.ieee.org/abstract/document/10401017))
+## 研究工作4：高级别自动驾驶大规模部署
+针对智能驾驶技术在混行交通中的应用挑战，本研究提出了自动驾驶专用道路策略，该策略能够实现人车和自动驾驶汽车的智能分流，为高级别智能驾驶技术的大规模部署应用提供了方案。我们构建了专用路权部署模型，提出了基于群体智能的部署算法，以及车辆群体路线规划方法，在实现智能分流的同时，自动驾驶车辆出行效率提高11%。
+  + 论文1: *Unleashing the power of connected and automated vehicles: A dedicated link strategy for efficient management of mixed traffic* ([简介](https://jiaweizhang.netlify.app/publication/unleashing-the-power-of-connected-and-automated-vehicles-a-dedicated-link-strategy-for-efficient-management-of-mixed-traffic/); [Paper](https://ieeexplore.ieee.org/document/10462009))
+  + 论文2: *Unleashing the two-dimensional benefits of connected and automated vehicles via dedicated intersections in mixed traffic* ([简介](https://jiaweizhang.netlify.app/publication/unleashing-the-two-dimensional-benefits-of-connected-and-automated-vehicles-via-dedicated-intersections-in-mixed-traffic/); [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0968090X24000226))
   
 <img src=ScenarioGeneration.jpg  width=70% />
 
