@@ -56,17 +56,19 @@ slides: ""
 <img src=Routing.jpg  width=90% />
 
 ## 研究工作2：自动驾驶换道决策
-
+针对智能驾驶决策任务中的强交互、多目标、机理模糊等挑战，本研究提出了首个基于多智能体深度强化学习的换道决策算法。通过安全可信的复合决策框架、全新的多智能体决策模型、基于行为意图的状态信息编码，突破了单智能体决策范式的性能瓶颈，自动驾驶行车效率提高9%、安全性提高70%，并涌现出群体协同智能。详将该研究工作的[简介](https://jiaweizhang.netlify.app/publication/multi-agent-drl-based-lane-change-with-right-of-way-collaboration-awareness/)。
   + 论文1: *Multi-agent DRL-based lane change with right-of-way collaboration awareness* ([简介](https://jiaweizhang.netlify.app/publication/multi-agent-drl-based-lane-change-with-right-of-way-collaboration-awareness/); [Paper](https://ieeexplore.ieee.org/abstract/document/9932003))
     
 <img src=LaneChangeModel.jpg  width=90% />
 
 ## 研究工作3：自动驾驶安全预警
+针对自动驾驶安全监测预警面临的预警范围有限、预警不及时、虚警率高等挑战，本研究提出了基于边缘计算的自动驾驶安全监测与预警算法。该算法通过全新的安全预警框架和基于深度模型的车辆轨迹预测，实现了更全面、更可信、更及时的自动驾驶安全监测与预警，预警命中率超过80%，为当前性能最佳。详将该研究工作的[简介](https://jiaweizhang.netlify.app/publication/driving-safety-monitoring-and-warning-for-connected-and-automated-vehicles-via-edge-computing/)。
   + 论文1: *Driving safety monitoring and warning for connected and automated vehicles via edge computing* ([简介](https://jiaweizhang.netlify.app/publication/driving-safety-monitoring-and-warning-for-connected-and-automated-vehicles-via-edge-computing/); [Paper](https://ieeexplore.ieee.org/abstract/document/9922076))
     
 <img src=Safety.jpg  width=90% />
 
 ## 研究工作4：自动驾驶BEV融合预测
+针对自动驾驶鸟瞰图(Birds-Eye-View, BEV)感知任务面临的信息不准确、范围不足、可解释性差等挑战，本研究提出了基于V2X的BEV数据融合预测模型。该模型基于注意力神经网络，实现了感知范围更广、预测精度更高、可解释性更强的BEV融合与预测性能。该模型突破了现有的单车BEV融合模型的性能瓶颈，预测准确性提高超过15%。详将该研究工作的[简介](https://jiaweizhang.netlify.app/publication/bev-v2x-cooperative-birds-eye-view-fusion-and-grid-occupancy-prediction-via-v2x-based-data-sharing/)。
   + 论文1: *BEV-V2X: cooperative Birds-Eye-View fusion and grid occupancy prediction via V2X-based data sharing* ([简介](https://jiaweizhang.netlify.app/publication/bev-v2x-cooperative-birds-eye-view-fusion-and-grid-occupancy-prediction-via-v2x-based-data-sharing/); [Paper](https://ieeexplore.ieee.org/abstract/document/10179171))
     
 <img src=BEV.jpg  width=90% />
