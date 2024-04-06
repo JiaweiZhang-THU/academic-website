@@ -61,7 +61,7 @@ slides: ""
 <img src="Cooperative Driving at Signal-free Intersections_1.gif" alt="Cooperative Driving at Signal-free Intersections_1" style="zoom:70%;" />
 
 ## 研究工作2：自动驾驶实车系统
-    作为主要贡献者，本人参与研发了智能网联汽车实车系统，完成了典型场景下的智能网联汽车协同决策系统、车辆轨迹规划系统、安全监测预警系统的技术突破和工程实现。在国家智能汽车与智慧交通示范基地开展10辆智能网联汽车协同驾驶的实验验证工作。
+作为主要贡献者，本人参与研发了智能网联汽车实车系统，完成了典型场景下的智能网联汽车协同决策系统、车辆轨迹规划系统、安全监测预警系统的技术突破和工程实现。在国家智能汽车与智慧交通示范基地开展10辆智能网联汽车协同驾驶的实验验证工作。
 <img src="RealVehicle.gif" alt="Autonomous driving real vehicle system" style="zoom:70%;" />
   
 ## 研究工作3：自动驾驶智能测试算法
