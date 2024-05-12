@@ -147,12 +147,12 @@ sections:
     content:
       title: 学术服务
       items:
-        - name: 高水平期刊审稿人
+        - name: 期刊论文审稿人
           description: 【1】[IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)<br /> 【2】[Transportation Research Part C-Emerging Technologies](https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies)<br /> 【3】[IEEE Transactions on Intelligent Vehicles](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)<br /> 【4】[IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856)<br /> 【5】[IEEE Antennas and Wireless Propagation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7727)<br /> 【6】[International Journal of Human-Computer Interaction](https://www.tandfonline.com/toc/hihc20/current)<br /> 【7】[自动化学报](http://www.aas.net.cn/)<br /> 【8】[交通运输工程与信息学报](https://jtgc.cbpt.cnki.net/EditorDN/Quit.aspx) <br /> 【9】[IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25) <br /> 【10】[IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)<br /> 【11】[IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)<br /> 【12】[ACM Journal on Autonomous Transportation Systems](https://dl.acm.org/journal/jats)
           icon: newspaper
           icon_pack: fas
-        - name: 旗舰会议审稿人
-          description: 【1】[IEEE International Conference on Intelligent Transportation Systems-2022](https://www.ieee-itsc2022.org/#/)<br /> 【2】[IEEE International Conference on Intelligent Transportation Systems-2023](https://2023.ieee-itsc.org/)<br /> 【3】[China Automation Conference-2022](https://www.cac2022.org.cn/)<br /> 【4】[China Automation Conference-2023](https://www.cac2022.org.cn/)<br /> 【5】[International Conference on Computer Big Data and Artificial Intelligence-2023](http://www.iccbdai.org/)<br /> 【6】[International Conference on Artificial Intelligence, Human-Computer Interaction and Robotics](http://www.aihcir.org/)
+        - name: 会议论文审稿人
+          description: 【1】[IEEE International Conference on Intelligent Transportation Systems-2022](https://www.ieee-itsc2022.org/#/)<br /> 【2】[IEEE International Conference on Intelligent Transportation Systems-2023](https://2023.ieee-itsc.org/)<br /> 【3】[China Automation Conference-2022](https://www.cac2022.org.cn/)<br /> 【4】[China Automation Conference-2023](https://www.cac2022.org.cn/)<br /> 【5】[International Conference on Computer Big Data and Artificial Intelligence-2023](http://www.iccbdai.org/)<br /> 【6】[International Conference on Artificial Intelligence, Human-Computer Interaction and Robotics](http://www.aihcir.org/)<br /> 【7】[IEEE International Conference on Intelligent Transportation Systems-2023](https://ieee-itsc.org/2024/)<br /> 【8】[IEEE Intelligent Vehicles Symposium (IV 2024)](https://ieee-iv.org/2024/)
           icon: building-columns
           icon_pack: fas
         - name: 助研助教
